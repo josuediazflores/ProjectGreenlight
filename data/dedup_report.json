@@ -1,0 +1,136 @@
+{
+  "input_cases": 388,
+  "duplicate_pairs_found": 18,
+  "cases_removed": 18,
+  "cases_surviving": 370,
+  "similarity_threshold": 0.95,
+  "score_threshold": 8.0,
+  "pair_details": [
+    {
+      "kept": "APR182005_05B2203",
+      "removed": "APR182005_01B2203",
+      "similarity": 0.9905,
+      "kept_score": 8.7,
+      "removed_score": 8.2
+    },
+    {
+      "kept": "APR272005_10B2203",
+      "removed": "APR272005_02B2203",
+      "similarity": 1.0,
+      "kept_score": 8.9,
+      "removed_score": 8.0
+    },
+    {
+      "kept": "AUG102005_03B2203",
+      "removed": "AUG102005_01B2203",
+      "similarity": 0.9859,
+      "kept_score": 8.4,
+      "removed_score": 8.1
+    },
+    {
+      "kept": "AUG112005_02B2203",
+      "removed": "AUG112005_08B2203",
+      "similarity": 0.9999,
+      "kept_score": 8.3,
+      "removed_score": 8.3
+    },
+    {
+      "kept": "AUG192005_03B2203",
+      "removed": "AUG192005_11B2203",
+      "similarity": 0.9959,
+      "kept_score": 8.5,
+      "removed_score": 8.3
+    },
+    {
+      "kept": "AUG312005_10B2203",
+      "removed": "AUG312005_02B2203",
+      "similarity": 0.995,
+      "kept_score": 8.4,
+      "removed_score": 8.3
+    },
+    {
+      "kept": "AUG312005_11B2203",
+      "removed": "AUG312005_03B2203",
+      "similarity": 0.994,
+      "kept_score": 8.2,
+      "removed_score": 8.0
+    },
+    {
+      "kept": "Apr172008_01B2203",
+      "removed": "Apr172008_02B2203",
+      "similarity": 0.9646,
+      "kept_score": 8.4,
+      "removed_score": 8.4
+    },
+    {
+      "kept": "Apr232012_09B2203",
+      "removed": "Apr232012_08B2203",
+      "similarity": 0.9922,
+      "kept_score": 8.5,
+      "removed_score": 8.2
+    },
+    {
+      "kept": "FEB132013_03B2203",
+      "removed": "FEB132013_02B2203",
+      "similarity": 0.9858,
+      "kept_score": 8.3,
+      "removed_score": 8.2
+    },
+    {
+      "kept": "JAN192006_02B2203",
+      "removed": "JAN192006_01B2203",
+      "similarity": 1.0,
+      "kept_score": 8.4,
+      "removed_score": 8.1
+    },
+    {
+      "kept": "JUL192005_02B2203",
+      "removed": "JUL192005_08B2203",
+      "similarity": 1.0,
+      "kept_score": 8.1,
+      "removed_score": 8.0
+    },
+    {
+      "kept": "JUN022005_18B2203",
+      "removed": "JUN022005_04B2203",
+      "similarity": 1.0,
+      "kept_score": 8.6,
+      "removed_score": 8.2
+    },
+    {
+      "kept": "JUN242005_22B2203",
+      "removed": "JUN242005_04B2203",
+      "similarity": 1.0,
+      "kept_score": 8.5,
+      "removed_score": 8.2
+    },
+    {
+      "kept": "JUN242005_27B2203",
+      "removed": "JUN242005_09B2203",
+      "similarity": 1.0,
+      "kept_score": 8.4,
+      "removed_score": 8.0
+    },
+    {
+      "kept": "MAR172005_13B2203",
+      "removed": "MAR172005_01B2203",
+      "similarity": 1.0,
+      "kept_score": 8.3,
+      "removed_score": 8.2
+    },
+    {
+      "kept": "MAR252005_02B2203",
+      "removed": "MAR252005_06B2203",
+      "similarity": 1.0,
+      "kept_score": 8.4,
+      "removed_score": 8.3
+    },
+    {
+      "kept": "NOV162005_10B2203",
+      "removed": "NOV162005_30B2203",
+      "similarity": 1.0,
+      "kept_score": 8.8,
+      "removed_score": 8.2
+    }
+  ]
+}

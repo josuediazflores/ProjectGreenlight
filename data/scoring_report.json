@@ -1,0 +1,32 @@
+{
+  "total_scored": 1158,
+  "auto_rejects": 180,
+  "above_threshold": 829,
+  "below_threshold": 329,
+  "threshold": 6.0,
+  "score_distribution": {
+    "min": 0,
+    "max": 8.9,
+    "mean": 5.769948186528498,
+    "median": 6.9
+  },
+  "outcomes": {
+    "sustain": 57,
+    "dismiss": 1022,
+    "remand": 77,
+    "approve": 2,
+    "other": 0
+  },
+  "criteria_frequency": {
+    "awards": 646,
+    "original contributions": 643,
+    "published material": 638,
+    "leading role": 610,
+    "membership": 565,
+    "judging": 553,
+    "scholarly articles": 423,
+    "high salary": 336,
+    "exhibition": 321,
+    "commercial success": 131
+  }
+}

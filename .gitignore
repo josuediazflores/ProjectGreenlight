@@ -1,0 +1,13 @@
+data/raw_pdfs/
+data/extracted_text/
+data/scored/
+data/final/
+data/extracted/
+data/extraction_report.json
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+dist/
+build/
+.env
