@@ -21,6 +21,8 @@ os.environ.setdefault("TORCHDYNAMO_DISABLE", "1")
 os.environ.setdefault("PJRT_DEVICE", "TPU")
 os.environ.setdefault("TPU_PROCESS_BOUNDS", "1,1,1")
 os.environ.setdefault("TPU_VISIBLE_CHIPS", "0,1,2,3")
+# Tell XLA to use bf16 throughout
+os.environ.setdefault("XLA_USE_BF16", "1")
 
 import torch
 import torch.nn.functional as F
@@ -136,8 +138,11 @@ def main():
     model = get_peft_model(model, lora_config)
     model.print_trainable_parameters()
 
-    print(f"==> Moving model to {device}")
+    print(f"==> Moving model to {device}", flush=True)
+    move_start = time.time()
     model = model.to(device)
+    xm.mark_step()  # Force the device transfer to complete
+    print(f"  model on device in {time.time() - move_start:.1f}s", flush=True)
     model.train()
 
     print(f"==> Loading datasets from {DATA_DIR}")
@@ -183,22 +188,34 @@ def main():
         running_count = 0
 
         for step, batch in enumerate(train_device_loader):
+            if step == 0:
+                print(f"  first batch loaded, starting forward...", flush=True)
+                first_step_start = time.time()
             outputs = model(
                 input_ids=batch["input_ids"],
                 attention_mask=batch["attention_mask"],
                 labels=batch["labels"],
             )
+            if step == 0:
+                print(f"  forward done at {time.time() - first_step_start:.1f}s, starting backward...", flush=True)
             loss = outputs.loss / args.grad_accum
             loss.backward()
+            if step == 0:
+                print(f"  backward done at {time.time() - first_step_start:.1f}s", flush=True)
             running_loss += loss.item() * args.grad_accum
             running_count += 1
 
             if (step + 1) % args.grad_accum == 0:
+                if global_step == 0:
+                    print(f"  calling optimizer step...", flush=True)
+                    opt_start = time.time()
                 xm.optimizer_step(optimizer, barrier=True)
+                if global_step == 0:
+                    print(f"  optimizer step done in {time.time() - opt_start:.1f}s", flush=True)
                 optimizer.zero_grad()
                 global_step += 1
 
-                if global_step % args.log_interval == 0:
+                if global_step % args.log_interval == 0 or global_step == 1:
                     elapsed = time.time() - start_time
                     avg_loss = running_loss / running_count
                     steps_per_sec = global_step / elapsed
