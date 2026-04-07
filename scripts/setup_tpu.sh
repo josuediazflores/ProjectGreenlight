@@ -40,16 +40,26 @@ sudo mkdir -p /tmp/tpu_logs && sudo chmod 777 /tmp/tpu_logs
 echo "==> Clearing any stale TPU locks"
 sudo rm -f /tmp/libtpu_lockfile
 
+# Force single-host TPU mode (use only worker 0's local 4 chips)
+# Without these env vars, PJRT tries to coordinate across all pod workers and hangs
+export PJRT_DEVICE=TPU
+export TPU_PROCESS_BOUNDS=1,1,1
+export TPU_VISIBLE_CHIPS=0,1,2,3
+
+# Persist these env vars for future shell sessions
+ENV_FILE="$HOME/.tpu_env"
+cat > "$ENV_FILE" <<'EOF'
+export PJRT_DEVICE=TPU
+export TPU_PROCESS_BOUNDS=1,1,1
+export TPU_VISIBLE_CHIPS=0,1,2,3
+EOF
+if ! grep -q "tpu_env" "$HOME/.bashrc"; then
+    echo "source $ENV_FILE" >> "$HOME/.bashrc"
+fi
+
 echo "==> Verifying TPU access (non-fatal)"
 set +e
-python3 -c "
-import torch_xla.core.xla_model as xm
-device = xm.xla_device()
-print(f'XLA device: {device}')
-devices = xm.get_xla_supported_devices()
-print(f'Device count: {len(devices)}')
-print(f'Devices: {devices}')
-" 2>&1 | grep -v "Could not open" | grep -v "log file" || echo "WARNING: TPU verification failed. Run 'sudo pkill -9 -f python && sudo rm -f /tmp/libtpu_lockfile' if you see lock errors."
+timeout 60 python3 -c "import torch_xla.core.xla_model as xm; print('Device:', xm.xla_device()); print('Count:', len(xm.get_xla_supported_devices()))" || echo "WARNING: TPU verification failed."
 set -e
 
 echo "==> Logging into Hugging Face"
