@@ -37,7 +37,11 @@ pip install \
 echo "==> Setting up TPU log directory"
 sudo mkdir -p /tmp/tpu_logs && sudo chmod 777 /tmp/tpu_logs
 
-echo "==> Verifying TPU access"
+echo "==> Clearing any stale TPU locks"
+sudo rm -f /tmp/libtpu_lockfile
+
+echo "==> Verifying TPU access (non-fatal)"
+set +e
 python3 -c "
 import torch_xla.core.xla_model as xm
 device = xm.xla_device()
@@ -45,15 +49,23 @@ print(f'XLA device: {device}')
 devices = xm.get_xla_supported_devices()
 print(f'Device count: {len(devices)}')
 print(f'Devices: {devices}')
-" 2>&1 | grep -v "Could not open" | grep -v "log file"
+" 2>&1 | grep -v "Could not open" | grep -v "log file" || echo "WARNING: TPU verification failed. Run 'sudo pkill -9 -f python && sudo rm -f /tmp/libtpu_lockfile' if you see lock errors."
+set -e
 
 echo "==> Logging into Hugging Face"
 echo "If prompted, paste your HF token (read access to gemma-4-E4B-it required)"
-huggingface-cli login
+# Newer huggingface_hub uses 'hf', older uses 'huggingface-cli'
+if command -v hf >/dev/null 2>&1; then
+    HF_CLI=hf
+    hf auth login
+else
+    HF_CLI=huggingface-cli
+    huggingface-cli login
+fi
 
 echo "==> Downloading dataset from Hugging Face"
 mkdir -p data/extracted
-huggingface-cli download josuediazflores/aao-eb1a-decisions \
+$HF_CLI download josuediazflores/aao-eb1a-decisions \
     --repo-type=dataset \
     --local-dir=data/extracted
 
