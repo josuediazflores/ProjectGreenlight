@@ -114,7 +114,8 @@ def main():
         dtype=torch.bfloat16,
     )
     model.config.use_cache = False
-    model.gradient_checkpointing_enable()
+    # Note: gradient_checkpointing not used — torch.utils.checkpoint tries to
+    # access torch.xla as a module which doesn't exist in torch 2.5
 
     print(f"==> Configuring LoRA (rank={args.rank}, alpha={args.alpha})")
     lora_config = LoraConfig(
