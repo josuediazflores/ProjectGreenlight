@@ -38,14 +38,24 @@ SYSTEM_PROMPT = (
 VALID_TASKS = {"criteria", "single", "gaps", "outcome"}
 
 
+def _valid_criterion(c: dict) -> bool:
+    """Check that a criterion entry has all the fields we need."""
+    return (
+        isinstance(c, dict)
+        and c.get("criterion")
+        and c.get("evidence_submitted")
+        and c.get("aao_analysis")
+    )
+
+
 def make_criteria_analysis(case: dict) -> dict | None:
     """Task 1: Full criteria analysis.
 
     User provides petitioner background + evidence summary.
     Assistant provides per-criterion analysis.
     """
-    criteria = case.get("evidence_per_criterion", [])
-    if len(criteria) < 2:
+    criteria = [c for c in case.get("evidence_per_criterion", []) if _valid_criterion(c)]
+    if len(criteria) < 2 or not case.get("petitioner_background"):
         return None
 
     # Build user message: petitioner facts + evidence listing
@@ -99,10 +109,12 @@ def make_single_criterion(case: dict) -> list[dict]:
     Assistant provides detailed assessment.
     """
     examples = []
-    criteria = case.get("evidence_per_criterion", [])
+    if not case.get("petitioner_background"):
+        return examples
+    criteria = [c for c in case.get("evidence_per_criterion", []) if _valid_criterion(c)]
 
     for c in criteria:
-        if not c.get("aao_analysis") or len(c["aao_analysis"]) < 50:
+        if len(c["aao_analysis"]) < 50:
             continue
 
         user_msg = (
@@ -141,7 +153,9 @@ def make_gap_identification(case: dict) -> dict | None:
     User provides evidence summary.
     Assistant identifies weaknesses and likely RFEs.
     """
-    criteria = case.get("evidence_per_criterion", [])
+    criteria = [c for c in case.get("evidence_per_criterion", []) if _valid_criterion(c)]
+    if not case.get("petitioner_background"):
+        return None
     failed = [c for c in criteria if not c.get("met")]
     if not failed:
         return None
@@ -203,8 +217,10 @@ def make_outcome_prediction(case: dict) -> dict | None:
     outcome_reasoning = case.get("outcome_reasoning", "")
     if not outcome_reasoning or len(outcome_reasoning) < 50:
         return None
+    if not case.get("petitioner_background"):
+        return None
 
-    criteria = case.get("evidence_per_criterion", [])
+    criteria = [c for c in case.get("evidence_per_criterion", []) if isinstance(c, dict) and c.get("criterion")]
     criteria_summary = []
     for c in criteria:
         status = "met" if c.get("met") else "not met"
@@ -258,9 +274,13 @@ def format_all(min_score: float = 7.0, tasks: set[str] = VALID_TASKS, seed: int 
     skipped = 0
 
     for path in extracted_files:
-        case = json.loads(path.read_text(encoding="utf-8"))
+        try:
+            case = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            skipped += 1
+            continue
 
-        if case.get("score", 0) < min_score:
+        if not isinstance(case, dict) or case.get("score", 0) < min_score:
             skipped += 1
             continue
 
