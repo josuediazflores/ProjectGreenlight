@@ -122,15 +122,17 @@ def main():
     # access torch.xla as a module which doesn't exist in torch 2.5
 
     print(f"==> Configuring LoRA (rank={args.rank}, alpha={args.alpha})")
+    # Gemma 4 wraps Linear in Gemma4ClippableLinear; target inner .linear.
+    # Other models use standard q_proj/k_proj names.
+    is_gemma4 = "gemma-4" in args.model.lower()
+    if is_gemma4:
+        target_modules = ["q_proj.linear", "k_proj.linear", "v_proj.linear", "o_proj.linear"]
+    else:
+        target_modules = ["q_proj", "k_proj", "v_proj", "o_proj"]
     lora_config = LoraConfig(
         r=args.rank,
         lora_alpha=args.alpha,
-        target_modules=[
-            "q_proj.linear",
-            "k_proj.linear",
-            "v_proj.linear",
-            "o_proj.linear",
-        ],
+        target_modules=target_modules,
         lora_dropout=0.05,
         bias="none",
         task_type=TaskType.CAUSAL_LM,
