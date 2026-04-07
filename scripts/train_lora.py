@@ -152,8 +152,6 @@ def main():
         push_to_hub=args.push_to_hub,
         hub_model_id=args.hub_model_id,
         gradient_checkpointing=True,
-        # TPU-specific
-        tpu_num_cores=int(os.environ.get("XRT_TPU_CONFIG", "8").split(",")[-1]) if "XRT_TPU_CONFIG" in os.environ else None,
         dataloader_drop_last=True,
     )
 
