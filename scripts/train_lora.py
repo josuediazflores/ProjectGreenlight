@@ -19,7 +19,14 @@ import json
 import os
 from pathlib import Path
 
+# Disable torch.compile / Inductor — these are CUDA/GPU compilers that hang on TPU
+os.environ["TORCH_COMPILE_DISABLE"] = "1"
+os.environ["TORCHDYNAMO_DISABLE"] = "1"
+os.environ["TORCH_INDUCTOR_DISABLE"] = "1"
+
 import torch
+import torch._dynamo
+torch._dynamo.config.disable = True
 from datasets import Dataset
 from peft import LoraConfig, get_peft_model, TaskType
 from transformers import (
@@ -156,6 +163,8 @@ def main():
         hub_model_id=args.hub_model_id,
         gradient_checkpointing=True,
         dataloader_drop_last=True,
+        dataloader_num_workers=0,
+        torch_compile=False,
     )
 
     trainer = Trainer(
