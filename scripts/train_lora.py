@@ -45,7 +45,11 @@ def load_jsonl(path: Path) -> list[dict]:
 
 
 def format_for_training(example: dict, tokenizer, max_length: int = 2048) -> dict:
-    """Apply the model's chat template to a conversation example."""
+    """Apply the model's chat template to a conversation example.
+
+    Returns input_ids and attention_mask only — DataCollatorForLanguageModeling
+    will handle labels automatically (copying from input_ids after padding).
+    """
     text = tokenizer.apply_chat_template(
         example["conversations"],
         tokenize=False,
@@ -57,7 +61,6 @@ def format_for_training(example: dict, tokenizer, max_length: int = 2048) -> dic
         max_length=max_length,
         padding=False,
     )
-    tokenized["labels"] = tokenized["input_ids"].copy()
     return tokenized
 
 
