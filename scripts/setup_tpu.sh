@@ -9,6 +9,12 @@ set -e
 echo "==> Verifying Python version"
 python3 --version
 
+echo "==> Ensuring python3-venv is installed"
+if ! python3 -c "import ensurepip" 2>/dev/null; then
+    sudo apt update
+    sudo apt install -y python3.10-venv
+fi
+
 echo "==> Creating virtual environment"
 python3 -m venv .venv
 source .venv/bin/activate
