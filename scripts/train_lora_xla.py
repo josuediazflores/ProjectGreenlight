@@ -114,6 +114,8 @@ def main():
         dtype=torch.bfloat16,
     )
     model.config.use_cache = False
+    # Enable gradient flow through frozen base model so LoRA adapters can train
+    model.enable_input_require_grads()
     # Note: gradient_checkpointing not used — torch.utils.checkpoint tries to
     # access torch.xla as a module which doesn't exist in torch 2.5
 
