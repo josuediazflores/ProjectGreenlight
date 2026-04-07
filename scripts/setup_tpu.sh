@@ -21,21 +21,31 @@ source .venv/bin/activate
 
 echo "==> Installing PyTorch/XLA for TPU v4"
 pip install --upgrade pip
-pip install torch~=2.5.0 torch_xla[tpu]~=2.5.0 \
+pip install "torch~=2.5.0" "torch_xla[tpu]~=2.5.0" \
     -f https://storage.googleapis.com/libtpu-releases/index.html
 
 echo "==> Installing training stack"
-pip install transformers>=4.51.0 peft>=0.13.0 datasets>=3.0.0 \
-    accelerate>=1.0.0 huggingface_hub>=0.26.0 sentencepiece protobuf
+pip install \
+    "transformers>=4.51.0" \
+    "peft>=0.13.0" \
+    "datasets>=3.0.0" \
+    "accelerate>=1.0.0" \
+    "huggingface_hub>=0.26.0" \
+    sentencepiece \
+    protobuf
+
+echo "==> Setting up TPU log directory"
+sudo mkdir -p /tmp/tpu_logs && sudo chmod 777 /tmp/tpu_logs
 
 echo "==> Verifying TPU access"
 python3 -c "
-import torch_xla
 import torch_xla.core.xla_model as xm
 device = xm.xla_device()
 print(f'XLA device: {device}')
-print(f'Device count: {len(xm.get_xla_supported_devices())}')
-"
+devices = xm.get_xla_supported_devices()
+print(f'Device count: {len(devices)}')
+print(f'Devices: {devices}')
+" 2>&1 | grep -v "Could not open" | grep -v "log file"
 
 echo "==> Logging into Hugging Face"
 echo "If prompted, paste your HF token (read access to gemma-4-E4B-it required)"
