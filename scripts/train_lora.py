@@ -95,10 +95,16 @@ def main():
     model.config.use_cache = False  # required for gradient checkpointing
 
     print(f"==> Configuring LoRA (rank={args.rank}, alpha={args.alpha})")
+    # Gemma 4 wraps Linear layers in Gemma4ClippableLinear; target the inner .linear
     lora_config = LoraConfig(
         r=args.rank,
         lora_alpha=args.alpha,
-        target_modules=["q_proj", "k_proj", "v_proj", "o_proj"],
+        target_modules=[
+            "q_proj.linear",
+            "k_proj.linear",
+            "v_proj.linear",
+            "o_proj.linear",
+        ],
         lora_dropout=0.05,
         bias="none",
         task_type=TaskType.CAUSAL_LM,
