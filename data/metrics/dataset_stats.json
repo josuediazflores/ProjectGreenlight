@@ -1,0 +1,99 @@
+{
+  "tokenizer": null,
+  "splits": {
+    "train": {
+      "n": 10466,
+      "task_counts": {
+        "single_criterion": 6961,
+        "outcome_prediction": 1176,
+        "gap_identification": 1150,
+        "criteria_analysis": 1179
+      },
+      "outcome_counts": {
+        "dismiss": 1111,
+        "remand": 27,
+        "sustain": 38
+      },
+      "criteria_counts": {
+        "judging": 778,
+        "membership": 802,
+        "published material": 899,
+        "leading role": 895,
+        "original contributions": 942,
+        "awards": 909,
+        "exhibition": 452,
+        "commercial success": 196,
+        "scholarly articles": 589,
+        "high salary": 499
+      },
+      "quality_score": {
+        "min": 7.0,
+        "max": 9.1,
+        "mean": 7.66
+      }
+    },
+    "val": {
+      "n": 1308,
+      "task_counts": {
+        "single_criterion": 874,
+        "outcome_prediction": 140,
+        "gap_identification": 141,
+        "criteria_analysis": 153
+      },
+      "outcome_counts": {
+        "dismiss": 132,
+        "sustain": 6,
+        "remand": 2
+      },
+      "criteria_counts": {
+        "original contributions": 112,
+        "exhibition": 66,
+        "awards": 102,
+        "membership": 92,
+        "leading role": 113,
+        "high salary": 74,
+        "commercial success": 23,
+        "judging": 99,
+        "published material": 122,
+        "scholarly articles": 71
+      },
+      "quality_score": {
+        "min": 7.0,
+        "max": 9.1,
+        "mean": 7.67
+      }
+    },
+    "test": {
+      "n": 1309,
+      "task_counts": {
+        "criteria_analysis": 134,
+        "single_criterion": 881,
+        "gap_identification": 144,
+        "outcome_prediction": 150
+      },
+      "outcome_counts": {
+        "dismiss": 147,
+        "sustain": 1,
+        "remand": 2
+      },
+      "criteria_counts": {
+        "scholarly articles": 90,
+        "commercial success": 28,
+        "leading role": 110,
+        "high salary": 55,
+        "membership": 82,
+        "original contributions": 131,
+        "published material": 114,
+        "exhibition": 56,
+        "awards": 109,
+        "judging": 106
+      },
+      "quality_score": {
+        "min": 7.0,
+        "max": 9.0,
+        "mean": 7.67
+      }
+    }
+  },
+  "total_examples": 13083
+}
