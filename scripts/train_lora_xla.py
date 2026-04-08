@@ -93,6 +93,8 @@ def main():
     parser.add_argument("--max-length", type=int, default=1024)
     parser.add_argument("--log-interval", type=int, default=10)
     parser.add_argument("--output-dir", type=str, default=None)
+    parser.add_argument("--save-each-epoch", action="store_true",
+                        help="Save adapter after each epoch (default: only final save)")
     args = parser.parse_args()
 
     if args.alpha is None:
@@ -244,13 +246,13 @@ def main():
         print(f"  val_loss: {avg_val_loss:.4f}")
         model.train()
 
-        # Save checkpoint after each epoch
-        ckpt_dir = Path(args.output_dir) / f"epoch-{epoch + 1}"
-        ckpt_dir.mkdir(parents=True, exist_ok=True)
-        print(f"==> Saving adapter to {ckpt_dir}")
-        # Move to CPU before saving to avoid XLA tensor issues
-        model.save_pretrained(str(ckpt_dir))
-        tokenizer.save_pretrained(str(ckpt_dir))
+        # Optional per-epoch checkpoint (off by default — only final save matters)
+        if args.save_each_epoch:
+            ckpt_dir = Path(args.output_dir) / f"epoch-{epoch + 1}"
+            ckpt_dir.mkdir(parents=True, exist_ok=True)
+            print(f"==> Saving adapter to {ckpt_dir}")
+            model.save_pretrained(str(ckpt_dir))
+            tokenizer.save_pretrained(str(ckpt_dir))
 
     # Final save
     print(f"\n==> Final save to {args.output_dir}")
