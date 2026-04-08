@@ -95,6 +95,8 @@ def main():
     parser.add_argument("--output-dir", type=str, default=None)
     parser.add_argument("--save-each-epoch", action="store_true",
                         help="Save adapter after each epoch (default: only final save)")
+    parser.add_argument("--max-steps", type=int, default=None,
+                        help="Stop after N optimizer steps (for quick validation runs)")
     args = parser.parse_args()
 
     if args.alpha is None:
@@ -227,6 +229,13 @@ def main():
                           f"{steps_per_sec:.2f} steps/s | elapsed {elapsed:.0f}s")
                     running_loss = 0.0
                     running_count = 0
+
+                if args.max_steps and global_step >= args.max_steps:
+                    print(f"==> Reached --max-steps={args.max_steps}, breaking out for early save")
+                    break
+
+        if args.max_steps and global_step >= args.max_steps:
+            break
 
         # End-of-epoch validation
         print(f"==> Validating after epoch {epoch + 1}")
