@@ -1,0 +1,47 @@
+{
+  "petitioner_background": "The petitioner is a biochemist working as a senior fellow and acting instructor at the University of [redacted]. His research focuses on protein-based materials and artificial hydrogen production, which has been published in several journals and cited by numerous researchers. His work has garnered two early-stage commercialization grants from a research foundation. He seeks classification as an individual of extraordinary ability under INA section 203(b)(1)(A) to continue his work as a researcher and instructor.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence of the petitioner's participation as a judge of the work of others in the field of biochemistry.",
+      "aao_analysis": "The Director determined that the petitioner met this criterion. The AAO did not disturb this finding on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "Evidence of the petitioner's authorship of scholarly articles in the field of biochemistry, published in several journals.",
+      "aao_analysis": "The Director determined that the petitioner met this criterion. The AAO did not disturb this finding on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted numerous recommendation/endorsement letters from scientists representing universities within and outside of the United States, which included detailed discussions of their use of the petitioner's research for their own projects and descriptions of references made to the petitioner's work in research publications. Evidence included the articles referenced and objective analysis concerning citation percentiles to support claims of influence. The endorsement letters contained detailed information concerning the impact of the petitioner's work in furthering research in treatments for cancer, diabetes, and migraine, as well as in the development of artificial hydrogen production using renewable sources to create carbon-free energy. Evidence also included documentation of collaborative efforts between the University of [redacted] and a pharmaceutical company involving use of the petitioner's integrin binder\u2014a novel molecule he created\u2014as a mechanism for delivering targeted therapeutic payloads to cancer cells. A letter from the grant program at the Research Foundation explained that the petitioner was awarded funding to facilitate the clinical application and commercialization of his research. On appeal, the petitioner also submitted mission statements from journals to support the assertion that publication in these journals demonstrates his research is of major significance, and a non-precedent AAO decision related to biochemistry sustained in 2010.",
+      "aao_analysis": "The Director acknowledged that the petitioner made original scientific contributions to the field of biochemistry but concluded the record did not establish contributions of major significance, stating recommendation letters lacked specificity regarding how achievements affected the field as a whole or how they were being reproduced, and that the petitioner did not establish how other researchers widely applied his research results. The AAO found that the Director did not adequately address the evidence of record regarding this criterion. The AAO noted that an evaluation of whether original contributions are of major significance should consider probative analysis provided by experts, and endorsement letters that articulate the impact of contributions (rather than using hyperbolic language) may inform adjudication. The Director's decision did not analyze the endorsement letters in terms of how their content might inform an assessment of the level of significance of the contributions, nor did it discuss the evidence of collaborative efforts with a pharmaceutical company involving the integrin binder or the grant program letter regarding clinical application and commercialization. The AAO held that an officer must fully explain the reasons for denying a petition to allow a fair opportunity to contest the decision and meaningful appellate review.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for entry of a new decision because the Director failed to adequately address the evidence of record regarding the original contributions of major significance criterion under 8 C.F.R. \u00a7 204.5(h)(3)(v). The Director did not analyze the endorsement letters in terms of how their content informed assessment of the significance of the petitioner's contributions, and failed to discuss evidence of collaboration with a pharmaceutical company involving the petitioner's integrin binder and the grant program documentation. On remand, the Director was instructed to request any additional evidence warranted and, if the criterion is met, conduct a final merits determination evaluating sustained national or international acclaim and whether the petitioner is among the small percentage at the very top of the field.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.3(c)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Matter of M-P-, 20 I&N Dec. 786 (BIA 1994)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "6 USCIS Policy Manual F.2 (Appendix)"
+  ],
+  "fraud_or_procedural_issues": "The AAO identified a procedural deficiency: the Director failed to fully explain the reasons for denying the petition with respect to the original contributions of major significance criterion. Specifically, the Director did not analyze the endorsement letters or discuss evidence of collaboration with a pharmaceutical company and the research foundation grant letter. Citing 8 C.F.R. \u00a7 103.3(a)(1)(i) and Matter of M-P-, the AAO held that an officer must fully explain the reasons for denial to allow the petitioner a fair opportunity to contest the decision and to allow meaningful appellate review.",
+  "filename": "JAN232023_02B2203",
+  "source": "benchmark_unseen"
+}

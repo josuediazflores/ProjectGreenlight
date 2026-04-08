@@ -1,0 +1,51 @@
+{
+  "petitioner_background": "The petitioner is a mastering engineer employed at a company in California, seeking classification as an alien of extraordinary ability under EB-1A (INA \u00a7 203(b)(1)(A)). The record reflects that he previously received O-1 nonimmigrant status (a classification reserved for nonimmigrants of extraordinary ability) and has worked with accomplished musicians, including participation on a Grammy-nominated recording. The Nebraska Service Center Director initially denied the petition and affirmed that denial on motion, finding he had not satisfied any of the initial evidentiary criteria.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted a certificate from the National Academy of Recording Arts and Sciences 'in recognition of [his] participation' on a Grammy Award-nominated recording in a music album category. He argued that he 'received a certification at the Grammy Awards' and that 'any award from the Grammy Awards should speak for itself.'",
+      "aao_analysis": "The AAO found that the petitioner did not provide further documentation demonstrating that a certificate acknowledging his participation on a Grammy-nominated recording is tantamount to a lesser nationally or internationally recognized prize or award for excellence in the field. The petitioner did not establish that he actually received a Grammy rather than merely participating on a nominated recording. He did not show that he garnered a prize or award from the National Academy of Recording Arts and Sciences.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted: (1) a book in which the author interviewed the petitioner for approximately six pages (without the required date); (2) an article from highwiredaze.com dated after the filing of the initial petition; (3) a screenshot from rocknrollindustries.com highlighting 'Rock N Roll Industries' with a date after the initial filing, without the accompanying article; (4) articles posted on prosoundnetwork.com (two of four without authors) and musicconnection.com; (5) documentation regarding 'Future plc,' claiming 'Pro Sound News is a subsidiary of Future plc, an international media group and leading digital publisher'; and (6) a letter from a representative of Music Connection claiming that 'Music Connection, via its monthly print publication, daily website, podcast and Weekly Bulletin, is a well-known information resource for recording artists, songwriters, producers and engineers.'",
+      "aao_analysis": "The AAO found multiple deficiencies. The book interview lacked the required date of the material. The highwiredaze.com and rocknrollindustries.com items were dated after the filing of the initial petition, violating the requirement under 8 C.F.R. \u00a7 103.2(b)(1) that all eligibility requirements be satisfied from the time of filing through adjudication; the rocknrollindustries.com screenshot also lacked the accompanying article. Although prosoundnetwork.com and musicconnection.com articles were about him, the petitioner did not establish that these websites qualify as professional or major trade publications or major media. The Future plc evidence made no mention of prosoundnetwork.com, and the issue was not the reputation of the publisher but whether the website garners major medium status. Regarding Music Connection, the petitioner did not submit independent, probative evidence to support the publisher's self-promotional claims; USCIS need not rely on self-promotional material per Braga v. Poulos. No objective evidence such as website traffic figures was provided. The petitioner submitted website screenshots rather than printed articles in the magazines.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner claimed his 'professional writing in his field has been featured in three books on mastering and audio engineering.' He submitted: (1) a page from a book authored by another individual giving 'advice from over 100 industry professionals,' containing his thoughts and advice; (2) a page from a second book authored by another individual containing a three-sentence quote from the petitioner regarding the author's topic; and (3) a screenshot from an unidentified website advertising a third book authored by another individual, listing the petitioner as one of the professionals included.",
+      "aao_analysis": "The AAO first noted the petitioner did not demonstrate how books authored by other individuals qualify as 'the alien's authorship of scholarly articles.' Citing USCIS Policy Memorandum PM-602-0005.1, a scholarly article should be written for learned persons in the field \u2014 those having profound knowledge of a field. For the first book, offering advice did not demonstrate that he wrote the page for learned persons with profound knowledge or scholarship. For the second book, the petitioner did not establish that he authored the material; rather, the book's author quoted him, and documentation advertised the manual 'for consideration for course adoption,' signifying it was intended for students or individuals with lesser knowledge. For the third book, the petitioner did not establish what he contributed \u2014 no pages, sections, or chapters reflecting his written work \u2014 and did not show whether he authored the material or was merely quoted. Finally, the petitioner did not demonstrate that any of the books are professional or major trade publications or other major media, providing no statistics or other evidence establishing their major standing.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner did not satisfy the criteria relating to awards, published material, and scholarly articles, and therefore could not meet the initial evidentiary requirement of at least three criteria under 8 C.F.R. \u00a7 204.5(h)(3). The AAO reserved the two additional criteria claimed on appeal (leading or critical role and commercial successes) as unnecessary to reach. Although not required to conduct a final merits determination under Kazarian, the AAO noted it had reviewed the record in the aggregate and concluded it did not support a finding of sustained national or international acclaim. The petitioner had not shown his work was indicative of a 'career of acclaimed work' or that he is among the small percentage who has risen to the very top of the field; although he worked with accomplished musicians, the record did not contain sufficient evidence establishing he is among the upper echelon in his field.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Braga v. Poulos, No. CV 06 5105 SJO (C.D. CA July 6, 2007) aff'd 2009 WL 604888 (9th Cir. 2009)",
+    "Q Data Consulting, Inc. v. INS, 293 F. Supp. 2d 25 (D.D.C. 2003)",
+    "IKEA US v. US Dept. of Justice, 48 F. Supp. 2d 22 (D.D.C. 1999)",
+    "Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103, 1108 (E.D.N.Y. 1989), aff'd, 905 F.2d 41 (2d Cir. 1990)",
+    "La. Philharmonic Orchestra v. INS, No. 98-2855, 2000 WL 282785 (E.D. La. 2000)",
+    "Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994)",
+    "INS v. Bagamasbad, 429 U.S. 24, 25-26 (1976)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "USCIS Policy Memorandum PM-602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions (Dec. 22, 2010)"
+  ],
+  "fraud_or_procedural_issues": "No fraud findings. Procedural issues noted: (1) certain published materials (highwiredaze.com article and rocknrollindustries.com screenshot) were dated after the filing of the initial petition, violating 8 C.F.R. \u00a7 103.2(b)(1) which requires eligibility to be established from the time of filing through adjudication; (2) the book interview lacked the required date of the material under 8 C.F.R. \u00a7 204.5(h)(3)(iii); (3) two of the four prosoundnetwork.com articles lacked identified authors. The AAO also addressed the prior O-1 nonimmigrant approval, explaining that prior approval does not preclude denial of an immigrant petition adjudicated under a different standard, and that the AAO is not bound by service center findings in other petitions.",
+  "filename": "APR292020_01B2203",
+  "source": "benchmark_unseen"
+}

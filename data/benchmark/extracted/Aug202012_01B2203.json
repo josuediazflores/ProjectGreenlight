@@ -1,0 +1,50 @@
+{
+  "petitioner_background": "The petitioner is a self-represented scientist specializing in plant genetics and breeding, genomics and bioinformatics, seeking classification as an alien of extraordinary ability in the sciences under section 203(b)(1)(A) of the Act. He has authored numerous scholarly articles in a variety of scientific journals, with hundreds of independent researchers citing to his work. He also received awards from the central Chinese government and was invited to serve as Guest Lead Editor for a special issue of the Journal of Plant Genomics.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence of awards from the central Chinese government.",
+      "aao_analysis": "The director concluded that the petitioner's awards from the central Chinese government did not meet the requirements of 8 C.F.R. \u00a7 204.5(h)(3)(i). However, the AAO noted that while this criterion was not met, the awards are certainly compatible with a conclusion that the petitioner is at the top of his field, and supported the final merits determination that his achievements are commensurate with sustained national or international acclaim.",
+      "met": false
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence that the petitioner has frequently judged the work of others in his field, including an invitation from the Journal of Plant Genomics for the petitioner to serve as Guest Lead Editor for a special issue of his choice.",
+      "aao_analysis": "The AAO affirmed the director's finding that this evidence met the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(iv). The AAO noted that while there was no evidence that the petitioner actually served in the Guest Lead Editor role, the record did reveal that the Journal of Plant Genomics invited him to serve in that capacity. The AAO cited Kazarian in noting that concerns about the significance of this evidence were properly addressed in the final merits determination rather than the initial counting phase.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "Corroborated reference letters from independent experts in the field detailing the petitioner's specific contributions in plant genetics and breeding, genomics and bioinformatics, and explaining how those contributions have influenced the field at large and are being utilized by others.",
+      "aao_analysis": "The AAO affirmed the director's finding that this evidence met the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(v). The reference letters from independent experts detailed specific contributions and explained how those contributions have influenced the field at large and are being utilized by others, supporting a finding of original contributions of major significance.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "Evidence that the petitioner has authored numerous scholarly articles in a variety of scientific journals, along with evidence showing that hundreds of independent researchers have consistently cited to his work.",
+      "aao_analysis": "The AAO affirmed the director's finding that this evidence met the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(vi). In the final merits determination, the AAO noted that the citations were relevant to determining whether the alien is at the very top of his field, citing Kazarian, 596 F.3d at 1121. The consistent citation by hundreds of independent researchers supported a finding of sustained acclaim.",
+      "met": true
+    }
+  ],
+  "outcome": "sustain",
+  "outcome_reasoning": "The AAO sustained the appeal and approved the petition. Applying the two-part Kazarian framework, the AAO first confirmed that the petitioner met at least three regulatory criteria (judging, original contributions, and scholarly articles under 8 C.F.R. \u00a7\u00a7 204.5(h)(3)(iv), (v), and (vi)). In the final merits determination, the AAO found that the petitioner submitted extensive documentation of his achievements in the sciences and demonstrated a career of acclaimed work in the field as contemplated by Congress. The combination of numerous scholarly articles with hundreds of independent citations, frequent judging activity including the Guest Lead Editor invitation, corroborated reference letters from independent experts, and awards from the central Chinese government established by a preponderance of the evidence that the petitioner is within the small percentage of individuals who have risen to the very top of his field and has sustained national or international acclaim.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Matter of Price, 20 I&N Dec. 953 (Act. Assoc. Comm'r 1994)",
+    "H.R. 723 101st Cong., 2d Sess. 59 (1990)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "56 Fed. Reg. 60897, 60898-99 (Nov. 29, 1991)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "Aug202012_01B2203",
+  "source": "benchmark_unseen"
+}

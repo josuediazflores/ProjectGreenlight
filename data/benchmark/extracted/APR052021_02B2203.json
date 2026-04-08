@@ -1,0 +1,50 @@
+{
+  "petitioner_background": "The petitioner is an operatic vocalist who has performed at various concert and recital venues in the United States and France. She sought classification as an alien of extraordinary ability under EB-1A (INA \u00a7 203(b)(1)(A)). The Director of the Nebraska Service Center denied her petition, finding she satisfied only two of the ten initial evidentiary criteria (judging and display), short of the required three.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "published material",
+      "evidence_submitted": "At initial filing, the petitioner provided articles posted online and printed in publications. In response to the RFE, she submitted translations of two articles published in Midi Libre and circulation data for the publication from 2018 and 2019. She claimed that Midi Libre 'is one of the top newspapers in the entire country of France.' On appeal, she submitted two additional letters but did not present this evidence at initial filing or in response to the RFE.",
+      "aao_analysis": "The AAO disagreed with the Director's finding that Midi Libre qualified as a major medium. Although the petitioner submitted circulation figures, she did not demonstrate the relevance or significance of the data, and did not offer comparative statistics for major newspapers in France to show Midi Libre's standing. She also did not submit documentation to support her assertion that Midi Libre is one of the top newspapers in France. Additionally, the two Midi Libre articles did not include the names of the authors, as required by 8 C.F.R. \u00a7 204.5(h)(3)(iii), and the petitioner had been put on notice in the RFE of the requirement to include the title, date, and author. The AAO declined to consider the two letters submitted on appeal under Matter of Soriano because the petitioner had been put on notice of the required evidence and had a reasonable opportunity to provide it before the denial. The Director had also noted that some articles mentioned the petitioner's name but were about the performance or production rather than about the petitioner herself.",
+      "met": false
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Not discussed in detail on appeal; the Director had previously determined this criterion was satisfied.",
+      "aao_analysis": "The Director determined that the petitioner satisfied this criterion at 8 C.F.R. \u00a7 204.5(h)(3)(iv). The AAO did not disturb this finding on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "Not discussed in detail on appeal; the Director had previously determined this display criterion was satisfied.",
+      "aao_analysis": "The Director determined that the petitioner satisfied the display criterion at 8 C.F.R. \u00a7 204.5(h)(3)(vii). The AAO did not disturb this finding on appeal.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner failed to satisfy at least three of the ten initial evidentiary criteria, meeting only the judging and display criteria. Because the petitioner did not meet the initial evidence threshold, the AAO found it unnecessary to conduct a final merits determination under Kazarian. Nevertheless, the AAO reviewed the record in the aggregate and concluded it did not support a finding that the petitioner established the sustained national or international acclaim required for this highly restrictive classification. The AAO noted that although the record reflected her experience, she did not establish that she is among the upper echelon or small percentage at the very top of her field, as contemplated by Congress for a 'career of acclaimed work in the field.'",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A), 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 103.3(a)",
+    "8 C.F.R. \u00a7 103.5(a)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Negro-Plumpe v. Okin, 2:07-CV-820-ECR-RJJ (D. Nev. Sept. 8, 2008)",
+    "Matter of Soriano, 19 I&N Dec. 764 (BIA 1988)",
+    "Matter of Obaigbena, 19 I&N Dec. 533 (BIA 1988)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "USCIS Policy Memorandum PM 602-0005.1 (Dec. 22, 2010)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue regarding the Form I-290B: the petitioner filed as an appeal but her subsequent brief contested the Director's decision as a motion to reopen and reconsider. The AAO adjudicated it as an appeal because that is what she initially filed, and noted it lacks jurisdiction to adjudicate as a motion since motion jurisdiction lies with the Director. Additionally, the AAO declined to consider two new letters submitted on appeal under Matter of Soriano and Matter of Obaigbena because the petitioner had been put on notice of the required evidence during the RFE stage and had a reasonable opportunity to provide it before the denial.",
+  "filename": "APR052021_02B2203",
+  "source": "benchmark_unseen"
+}

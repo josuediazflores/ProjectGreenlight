@@ -1,0 +1,54 @@
+{
+  "petitioner_background": "The petitioner is a research scientist in the field of machine learning and artificial intelligence seeking classification as an individual of extraordinary ability under EB-1A. He received bachelor's and master's degrees in computer science and technology in 2006 and 2008, and completed doctoral studies in electrical and computer engineering. At the time of filing, he had work experience as a research scientist, a research intern, and a graduate research assistant, and subsequently accepted a senior research scientist position in August 2018 (after the petition was filed).",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence that the petitioner peer reviewed manuscripts for conferences and professional journals in his field of machine learning and artificial intelligence.",
+      "aao_analysis": "The Director found, and the AAO agreed, that the petitioner participated as a judge of the work of others in his field by peer reviewing manuscripts for conferences and professional journals, consistent with 8 C.F.R. \u00a7 204.5(h)(3)(iv). This criterion was met and not contested on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner claimed three significant contributions: (1) development of methods for compression of [redacted], (2) development of a novel regularization method, and (3) development of a [redacted] method originally published in 2016. He submitted expert opinion letters from multiple scientists including professors at the National University and a scientist at an Institute, plus co-author letters. One professor called the method 'extraordinarily important,' a 'major breakthrough,' noted it was open-sourced on GitHub, and stated others used it for their projects. A co-author described it as 'a significant contribution to the machine learning literature' that 'significantly improves the potential of' the methods. Another scientist called it 'revolutionary' and 'the first work' to demonstrate the merit in the literature. The petitioner also submitted his Google Scholar publication and citation record showing his conference paper on the method had 12 citations at time of filing, with his most cited article having 40 citations. The paper was presented at a 'premier international conference' in 2016 and was selected as one of eleven 'Best Paper' finalists. He also claimed contributions from the compression methods and regularization method, but these were based on research published or developed subsequent to the March 2018 filing date.",
+      "aao_analysis": "The AAO determined the petitioner did not meet this criterion for several reasons. First, two of the three claimed contributions (the compression method and the regularization method) were based on research published or developed subsequent to the filing of the petition in March 2018, and a petitioner must establish eligibility from the time of filing through adjudication per 8 C.F.R. \u00a7 103.2(b)(1) and Matter of Izummi. The regularization method was developed after the petitioner joined his new employer in August 2018. As to the remaining [redacted] method from 2016, the AAO found that while the expert letters explained the research and noted its novelty and value, they did not explain with specificity why it was considered important or how its current impact rose to the level of major significance. The letters emphasized potential future impact, making it unclear to what extent the work had already influenced the field. The letters lacked specific, detailed information explaining unusual influence or high impact. Regarding citations, the petitioner did not provide comparative analysis showing his 12 citations (or 40 for his most cited article) were highly cited or widely discussed compared to others in the field \u2014 an appropriate analysis would compare his citations to other highly cited articles the field views as majorly significant. The AAO could not determine whether 12 citations supported testimonial evidence calling the method 'revolutionary' or a 'major breakthrough.' Being a Best Paper finalist and presenting at a premier conference were not shown to indicate the research was recognized as an original contribution of major significance. Even highly cited publications alone are insufficient without evidence of major significance, as citation numbers do not provide sufficient context.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "Evidence that the petitioner authored scholarly articles in the field, including several journal articles and more than 20 papers published in conference proceedings.",
+      "aao_analysis": "The Director found, and the AAO agreed, that the petitioner has written scholarly articles in the field, including several journal articles and more than 20 papers published in conference proceedings, satisfying 8 C.F.R. \u00a7 204.5(h)(3)(vi). This criterion was met.",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner initially claimed to meet this criterion relating to membership in associations in the field which require outstanding achievement of their members, but the specific evidence submitted is not described in detail.",
+      "aao_analysis": "The Director determined the petitioner did not submit sufficient evidence to satisfy the criterion. The petitioner did not contest this determination on appeal, and the AAO deemed the issue waived citing Matter of M-A-S-, 24 I&N Dec. 762, 767 n.2 (BIA 2009).",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner met only two of the three required evidentiary criteria (judging and scholarly articles), failing to establish original contributions of major significance. Because the petitioner did not submit the required initial evidence of either a one-time achievement or documents meeting at least three of the ten criteria, the AAO did not need to provide a final merits determination under Kazarian. Nevertheless, the AAO reviewed the record in the aggregate and concluded it did not support a finding that the petitioner established the required acclaim and recognition. The AAO emphasized that this is a highly restrictive classification intended for individuals already at the top of their fields, not those progressing toward the top, and the petitioner did not show his work was indicative of sustained national or international acclaim or consistent with a 'career of acclaimed work in the field.'",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375 (AAO 2010)",
+    "Matter of Christo's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Matter of M-A-S-, 24 I&N Dec. 762, 767 n.2 (BIA 2009)",
+    "USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADJ 1-14 (Dec. 22, 2010)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "Matter of Izummi, 22 I&N Dec. 169, 175 (Comm'r 1998)",
+    "Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: Two of the three original contributions claimed on appeal were based on research published or developed after the March 2018 filing date (one published in a 2018 conference, the other developed after the petitioner joined a new employer in August 2018). Under 8 C.F.R. \u00a7 103.2(b)(1) and Matter of Izummi, eligibility must be established from the time of filing through adjudication, so these post-filing contributions could not support the petition. Additionally, the petitioner waived the membership criterion issue by not contesting it on appeal.",
+  "filename": "APR232020_15B2203",
+  "source": "benchmark_unseen"
+}

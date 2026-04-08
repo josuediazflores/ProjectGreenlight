@@ -1,0 +1,45 @@
+{
+  "petitioner_background": "The petitioner is G-H- Inc., a humanitarian aid organization seeking to classify the beneficiary as an individual of extraordinary ability in business under EB-1A. The beneficiary is a managing partner and co-founder of organizations advocating for human rights in Nigeria, and served as a local Rotary club president for 2012/2013 in a Nigerian district. The petition was filed as a Form I-140 Immigrant Petition for Alien Worker.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "Photographs of four plaques the beneficiary received from the local Nigerian district of Rotary for local contributions and service, including a plaque for being the club president for 2012/2013. Two certificates of appreciation from the local Nigerian Rotary district acknowledging the beneficiary's roles and contributions in organizing seminars. A letter from a former president for the Nigerian Rotary district restating the beneficiary's awards. A letter from the president and governor for the Nigerian Rotary district indicating that during the beneficiary's tenure as president, the club received the Rotary presidential award (criteria: 'given to outstanding [Rotarians] for distinguishing themselves in excellent humanitarian services'). The letter also stated the beneficiary led the club to receive an award of excellence as the second best club in the district.",
+      "aao_analysis": "The AAO found the petitioner did not show that the plaques and certificates were nationally or internationally recognized for excellence beyond the local Rotary district. Regarding the presidential award and second best club award, the letters and award criteria did not demonstrate they were nationally or internationally recognized for excellence in the field. Additionally, the regulatory criterion requires documentation of the beneficiary's personal receipt of prizes or awards, but the letters reflected that the local Rotary club received the presidential award and second best club in the district award, rather than the beneficiary himself. The petitioner did not establish these awards should be attributed to him personally. The AAO noted that while these do not satisfy the awards criterion, awards garnered by the local Rotary district during the beneficiary's presidency are relevant for the leading or critical role criterion.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Articles posted on several websites, plus photographs with captions from two publications. The articles related to various community projects of the Rotary club, such as polio eradication, medical screenings, and career choices. One submission contained a photograph with a caption identifying the beneficiary but no accompanying article discussing him or his work. Another photograph included a caption indicating that members of the Rotary club were involved in a peace walk.",
+      "aao_analysis": "The AAO found the petitioner did not establish that any of these sources were professional or major trade publications or other major media, as it did not provide documentation regarding the readership of the publications or websites, or other rationale for considering the sources qualifying. Seven of the articles did not contain the titles, dates, or authors of the material as required by the regulation. Additionally, the articles were not about the beneficiary; rather, they related to various community projects of the Rotary club. Although the beneficiary was mentioned or quoted, the articles did not reflect published material about the beneficiary consistent with the plain language of the criterion, citing Negro-Plumpe v. Okin for the principle that articles about a show are not about the actor. The photograph with caption lacked an accompanying article discussing the beneficiary or his work.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "Evidence relating to the beneficiary's role with the local Nigerian Rotary district, including his service as club president for 2012/2013 and awards garnered by the club during his presidency.",
+      "aao_analysis": "The Director determined that the beneficiary met this criterion based on his role with the Rotary organization, and the AAO stated that a review of the record of proceedings supports the Director's findings for this criterion.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the record only satisfied one of the ten regulatory criteria (leading or critical role), while the petitioner must meet at least three criteria or demonstrate a one-time major internationally recognized achievement. Because the petitioner did not submit the required initial evidence meeting the threshold number of criteria, a formal final merits determination was not required. However, the AAO noted that a review of the record in the aggregate supports a finding that the petitioner has not established that the beneficiary has the level of expertise required for classification as an individual of extraordinary ability who has risen to the very top of the field of endeavor with sustained national or international acclaim.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011), aff'd, 683 F.3d 1030 (9th Cir. 2012)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Negro-Plumpe v. Okin, 2:07-CV-820-ECR-RJJ (D. Nev. Sept. 8, 2008)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "APR262017_03B2203",
+  "source": "benchmark_unseen"
+}

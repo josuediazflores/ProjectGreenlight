@@ -1,0 +1,12 @@
+{
+  "petitioner_background": "The petitioner filed an immigrant visa petition seeking classification as an alien of extraordinary ability under Section 203(b)(1)(A) of the Immigration and Nationality Act. No substantive details about the petitioner's field, nationality, or qualifications are provided in the decision text, as the appeal was withdrawn before any merits review occurred.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The Director of the Nebraska Service Center initially denied the petition, and the matter was appealed to the Administrative Appeals Office. On July 30, 2007, counsel for the petitioner requested that the appeal be withdrawn. The AAO dismissed the appeal based on this withdrawal by counsel, without reaching the merits of the extraordinary ability claim.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)"
+  ],
+  "fraud_or_procedural_issues": "The appeal was withdrawn by counsel on July 30, 2007, before the AAO could reach the merits. The dismissal is procedural, based solely on the withdrawal.",
+  "filename": "Aug072007_01B2203",
+  "source": "benchmark_unseen"
+}

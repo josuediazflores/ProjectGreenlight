@@ -1,0 +1,53 @@
+{
+  "petitioner_background": "The petitioner works as a director of product development and management for a technology company. He sought classification as an individual of extraordinary ability under INA section 203(b)(1)(A) (EB-1A). The Nebraska Service Center denied the petition, finding he met only two of the ten regulatory criteria. He appealed to the AAO.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence of authorship of scholarly articles. The specific articles are not detailed in the decision text.",
+      "aao_analysis": "The Director determined that the petitioner fulfilled the requirements of this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vi). This finding was not disturbed on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted evidence of his performance in a leading or critical role for an organization that has a distinguished reputation. Specific details about the organization and role are not provided in the decision text.",
+      "aao_analysis": "The Director determined that the petitioner fulfilled the requirements of this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(viii). This finding was not disturbed on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner provided a letter from his current employer and relevant supporting evidence documenting his job duties, salary earnings, and other guaranteed compensation. He also submitted comparative wage information from the U.S. Department of Labor and other credible sources, which provided a range of salaries (including high salaries) for similarly employed persons working in the same geographic area.",
+      "aao_analysis": "The Director found that the petitioner submitted comparative wage data that relied on average or median salary figures and did not demonstrate that the submitted data was for a similar position. On appeal, the AAO disagreed. The AAO found that while the petitioner's job title did not exactly correspond to the occupational titles for which he provided wage data, his employer's description of his job duties reflected a sufficiently close match. The data was position-appropriate and otherwise supported the petitioner's assertion that he earns a high salary. The AAO cited 6 USCIS Policy Manual F.2(B)(1) as providing guidance on evaluating this criterion. The AAO concluded he established, by a preponderance of the evidence, that he has commanded a high salary or other significantly high remuneration in relation to others.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner asserted on appeal that he made original contributions of major significance in his field under 8 C.F.R. \u00a7 204.5(h)(3)(v). Specific evidence details are not provided in the decision text.",
+      "aao_analysis": "Because the petitioner had already met the initial evidence requirements of at least three criteria (scholarly articles, leading role, and high salary), the AAO found it unnecessary to discuss this additional eligibility claim.",
+      "met": null
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision after finding that the petitioner satisfied the high salary criterion under 8 C.F.R. \u00a7 204.5(h)(3)(ix), giving him three qualifying criteria and thus meeting part one of the two-step Kazarian analysis. However, the AAO declined to make the final merits determination in the first instance because the Director had not reached that finding. The matter was remanded to the Director to evaluate the evidence and consider the petition in its entirety to determine whether the record establishes sustained national or international acclaim and recognized achievements sufficient to place the petitioner among the small percentage at the very top of his field. The final merits determination should weigh the evidence submitted in support of all claimed initial evidentiary criteria, any other potentially relevant evidence, and the petitioner's claims and evidence on appeal.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 103.3",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Amin v. Mayorkas, 24 F.4th 383 (5th Cir. 2022)",
+    "Visinscaia v. Beers, 4 F.Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F.Supp. 2d 1339 (W.D. Wash. 2011)",
+    "6 USCIS Policy Manual F.2(B)(1)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "MAR292024_01B2203",
+  "source": "benchmark_unseen"
+}

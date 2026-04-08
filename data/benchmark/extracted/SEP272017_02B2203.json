@@ -1,0 +1,44 @@
+{
+  "petitioner_background": "The petitioner is an interventional cardiologist seeking classification as an individual of extraordinary ability under INA \u00a7 203(b)(1)(A) (EB-1A). He claims major achievements for his work on the prevention of post cardiac catheterization contrast-induced acute kidney failure and for his work on the non-ischemic cardiomyopathy registry. He was the lead author on a 2012 paper discussing a trial of 320 cardiac catheterization patients with kidney issues, comparing hydration therapies with normal saline or sodium bicarbonate, with or without N-acetylcysteine. Notably, the decision's caption incorrectly states he seeks classification 'in the arts,' though the substance addresses his work in cardiology (sciences).",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence that the petitioner has been engaged as a manuscript reviewer since 2014 for a professional journal (name redacted), reviewing manuscripts on topics related to structural heart disease, which is the core focus of interventional cardiology.",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner established he satisfies this criterion. His review work involved manuscripts on structural heart disease, which is the core focus of interventional cardiology \u2014 the same or an allied field of specification for which classification is sought.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "Evidence of 20 articles written and published since 2009, many of which were published in professional or trade publications.",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner provided evidence of his authorship of scholarly articles published in professional journals, satisfying the plain language of this criterion.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner's 2012 paper (as lead author) on a trial of 320 cardiac catheterization patients with kidney issues, studying hydration therapies (normal saline vs. sodium bicarbonate) with and without N-acetylcysteine, concluding that incidence of contrast-induced acute kidney injury was even between the two hydration therapies and that N-acetylcysteine did not reduce incidence. Evidence that the paper was cited in the 2012 and 2016 SCAI (redacted) consensus statements on best practices for cardiac catheterization laboratories, including in sections on pre-procedural checklists and chronic kidney disease. Citation in a chapter of a major interventional cardiology textbook (described as one of two core references for the specialty). A letter from the director of a cardiac catheterization program stating the consensus statement and petitioner's paper are 'very relevant' to his practice. A letter from a professor of medicine calling the paper and consensus statement 'important' publications. A letter from a Chief of Medicine stating the paper is an important source of evidence for developing best practice guidelines. A letter from one of the senior writers of the consensus statement stating he reviewed hundreds of publications and the petitioner's paper was one of three worthy of citation. Claim that the 2012 article was cited 28 times, which petitioner claims is three times the average citation rate for the journal. Documentation about accreditation programs for cardiac catheterization laboratories and the importance of the consensus statements in the field. Initially also claimed original contributions based on heart attack research and work on the non-ischemic cardiomyopathy register, but these were not pursued on appeal.",
+      "aao_analysis": "The AAO found the petitioner demonstrated an original contribution but failed to substantiate impacts on the field at large showing major significance. The AAO rejected the petitioner's equation of citations to the consensus statement with direct citations to his research, noting the 2012 consensus statement's introduction explains recommendations are based on expert opinions of authors with references provided if available, and the guidance goes beyond his research \u2014 the authors restrict recommendations to patients not contraindicated by congestive heart failure (a topic not addressed by petitioner's paper) and cite additional unassociated work when discussing N-acetylcysteine. The 2016 consensus statement cites his work twice in a chronic kidney disease section but references multiple other sources each time, crediting 2011 joint guidelines (published before petitioner's paper) for the key strategies of hydration and minimizing contrast dose. The testimonial letters were insufficient: they described his work as 'very relevant' or 'important' but failed to substantiate impact on the field or demonstrate major significance. The senior writer's letter noted the paper was one of three cited from hundreds reviewed but provided no explanation of why it was more meritorious or how it impacted the field. The claim of 28 citations (three times the journal average) was unsupported by evidence, and the petitioner's methodology (multiplying journal impact factor by years since publication) was flawed because impact factor is based on only a two-year window and cannot accurately portray average citations over a document's lifetime. The petitioner has not demonstrated the citation level is commensurate with major significance. Documents related to an unnamed accreditation entity did not reference the petitioner, his research, or the consensus statements citing his work, so they could not substantiate impact. The textbook citation only referenced his research in a single sentence alongside four other sources and did not demonstrate major significance impact.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The appeal is dismissed. The petitioner satisfied only two of the required three initial evidentiary criteria (judging and scholarly articles) and failed to establish original contributions of major significance. Because the petitioner did not meet the required number of criteria, the AAO did not need to provide a final merits determination as referenced in Kazarian. Nevertheless, the AAO advised it had reviewed the record in the aggregate and concluded it does not support a finding that the petitioner has established the level of expertise required for the extraordinary ability classification sought.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Silverman v. Eastrich Multiple Investor Fund, L.P., 51 F.3d 28 (3d Cir. 1995)",
+    "APWU v. Potter, 343 F.3d 619 (2d Cir. 2003)"
+  ],
+  "fraud_or_procedural_issues": "No fraud or misrepresentation findings. Procedurally, the decision caption contains an apparent error describing the petitioner (a cardiologist) as seeking classification 'in the arts' rather than the sciences. Additionally, the petitioner initially claimed original contributions based on three areas (heart attack research, non-ischemic cardiomyopathy register, and contrast-induced acute kidney injury) but abandoned two of these on appeal by not submitting evidence or raising concerns about them, so the AAO did not review them.",
+  "filename": "SEP272017_02B2203",
+  "source": "benchmark_unseen"
+}

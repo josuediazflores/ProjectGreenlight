@@ -1,0 +1,55 @@
+{
+  "petitioner_background": "The petitioner is a musician and performer, described by counsel as an 'extraordinary and accomplished musician, unique singer and talented pianist.' The petitioner's work involves combining A22 with Turkmen Folk music, suggesting a connection to Turkmen musical traditions. The petitioner sought classification as an employment-based immigrant of extraordinary ability under section 203(b)(1)(A) of the Immigration and Nationality Act.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence of awards and participation/placements in competitions, as described in a self-serving affidavit submitted on appeal summarizing her musical education and experience. Counsel generally referenced 'internationally recognized awards and information about such awards' but did not specifically identify them on appeal.",
+      "aao_analysis": "The director determined that the petitioner's awards failed to establish national or international recognition for excellence in the field. The AAO noted that the director 'specifically and sufficiently discussed the petitioner's awards and how they failed to establish the national or international recognition for excellence in the field.' While the petitioner's affidavit indicated participation and placements in competitions, she failed to address the national or international recognition for excellence of her awards as required by 8 C.F.R. \u00a7 204.5(h)(3)(i). Counsel on appeal did not specifically identify any erroneous conclusion of law or fact regarding this criterion.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Counsel generally claimed the petition included 'evidence of published material [about the] petitioner in major media,' but no specific publications, articles, dates, or media outlets were identified on appeal. The petitioner's affidavit failed to mention any published material about her relating to her work.",
+      "aao_analysis": "The director determined that the petitioner failed to meet the published material criterion pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(iii). The AAO noted that the petitioner's affidavit fails to mention any published material about the petitioner relating to her work. Counsel made only general assertions without specifically identifying any erroneous conclusion of law or statement of fact, and did not refer to any documentary evidence to support the claim that evidence was 'ignored and not completely considered.'",
+      "met": false
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence that the petitioner judged the work of others was submitted. Counsel referenced 'evidence that petitioner did judge work of others' on appeal.",
+      "aao_analysis": "The director determined that the petitioner did meet the judging criterion pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(iv). This was the only criterion the director found satisfied.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "Counsel claimed on appeal, for the first time, that the petitioner made original contributions, asserting that 'not many can combined [sic] A22 with Turkmen Folk music.' No supporting documentary evidence was identified.",
+      "aao_analysis": "Counsel claimed the petitioner's eligibility for the original contributions criterion pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(v) for the first time on appeal. The AAO noted there was no indication from the record that counsel previously claimed eligibility for this criterion, and the director found that no evidence was submitted for that criterion. The AAO cited that unsupported statements of counsel on appeal are not evidence and are not entitled to any evidentiary weight.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "No specific evidence regarding high salary was identified on appeal. Neither the petitioner's affidavit nor counsel's arguments on appeal contested the director's decision regarding this criterion.",
+      "aao_analysis": "The director determined that the petitioner failed to meet the high salary criterion pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(ix). Because neither the petitioner's affidavit nor counsel's arguments on appeal contested the director's decision regarding the high salary criterion, the AAO considered this issue to be abandoned, citing Sepulveda v. U.S. Att'y Gen., 401 F.3d 1226, 1228 n.2 (11th Cir. 2005).",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The appeal was summarily dismissed pursuant to 8 C.F.R. \u00a7 103.3(a)(1)(v) because counsel failed to identify specifically any erroneous conclusion of law or statement of fact for the appeal. Instead of challenging the director's specific findings, counsel merely repeated the language of the statute and regulations and made general assertions that the evidence met the regulatory criteria. Counsel offered no substantive basis for the filing of the appeal for any of the criteria, mandating summary dismissal under the regulations. The petitioner's self-serving affidavit submitted on appeal did not allege that the director misapplied the law or a statement of fact, and failed to overcome any of the deficiencies cited by the director. The high salary criterion was considered abandoned because it was not contested on appeal.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "INS v. Phinpathya, 464 U.S. 183, 188-89 n.6 (1984)",
+    "Sepulveda v. U.S. Att'y Gen., 401 F.3d 1226, 1228 n.2 (11th Cir. 2005)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues: (1) The appeal was summarily dismissed under 8 C.F.R. \u00a7 103.3(a)(1)(v) for counsel's failure to identify specifically any erroneous conclusion of law or statement of fact. (2) Counsel raised the original contributions criterion for the first time on appeal, which had not been claimed before the director. (3) The high salary criterion was deemed abandoned because it was not contested on appeal. (4) Counsel's statements were characterized as unsupported and not entitled to evidentiary weight.",
+  "filename": "Oct202011_02B2203",
+  "source": "benchmark_unseen"
+}

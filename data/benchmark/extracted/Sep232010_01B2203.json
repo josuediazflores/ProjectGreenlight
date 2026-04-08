@@ -1,0 +1,23 @@
+{
+  "petitioner_background": "The petitioner is a self-represented individual in the field of acupuncture/traditional Chinese medicine, seeking classification as an alien of extraordinary ability under section 203(b)(1)(A) of the Immigration and Nationality Act. The petitioner holds a degree and license in his field, has professional qualification certificates, and obtained a California acupuncture license dated August 28, 2009. He is currently in the United States and acknowledged on motion that it has been difficult to obtain some evidence due to his location.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed both the motion to reopen and the motion to reconsider. The motion to reopen was dismissed because none of the evidence submitted qualified as 'new' under 8 C.F.R. \u00a7 103.5(a)(2) \u2014 all evidence was previously available and could have been discovered or presented in the prior proceeding, with some being duplicative of previously submitted evidence (patent information, award information, letters) and some having been specifically requested by the director in a June 27, 2008 request for additional evidence. The petitioner was previously put on notice and given a reasonable opportunity to provide the required evidence, so a motion is not an opportunity to cure defects such as insufficient translations. The motion to reconsider was dismissed because the petitioner merely reiterated the same arguments from the original appeal and failed to support the motion with any legal argument or precedent decisions establishing that the prior decision was based on an incorrect application of law or USCIS policy. The petitioner did not sustain his burden of proof.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "Matter of Soriano, 19 I&N Dec. 764 (BIA 1988)",
+    "INS v. Doherty, 502 U.S. 314, 323 (1992)",
+    "INS v. Abudu, 485 U.S. 94 (1988)",
+    "Matter of Cerna, 20 I&N Dec. 399, 403 (BIA 1991)",
+    "Matter of Medrano, 20 I&N Dec. 216, 219 (BIA 1990, 1991)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "This decision addresses procedural issues relating to motions rather than the underlying merits of the extraordinary ability criteria. The AAO found that the petitioner improperly used the motion to reopen to submit evidence that was previously available and that had been specifically requested by the director in a June 27, 2008 request for additional evidence \u2014 including evidence duplicative of previously submitted materials. The AAO cited Matter of Soriano to hold that the petitioner had been put on notice of evidentiary requirements and could not use a motion to cure his own defects in the record, such as insufficient translations. The motion to reconsider was procedurally deficient because it merely reiterated prior arguments without citing legal authority or precedent showing an incorrect application of law or policy.",
+  "filename": "Sep232010_01B2203",
+  "source": "benchmark_unseen"
+}

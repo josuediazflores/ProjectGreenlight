@@ -1,0 +1,21 @@
+{
+  "petitioner_background": "The petitioner is a sound editor and designer from Nepal who sought classification as an individual of extraordinary ability under INA section 203(b)(1)(A) via Form I-140. The Nebraska Service Center denied the petition, concluding the record did not establish a qualifying one-time achievement (major internationally recognized award) or satisfaction of at least three of the ten alternate evidentiary criteria. The matter came before the AAO on appeal.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO rejected the appeal as improperly filed without reaching the merits of the extraordinary ability claim. The Form I-290B Notice of Appeal and accompanying Form G-28 were signed by the petitioner's attorney rather than the petitioner himself, in the spaces designated for the petitioner's signature. Although the record contained a 'To Whom it May Concern' letter purportedly authorizing the attorney to sign on the petitioner's behalf, the AAO held this does not satisfy USCIS signature requirements because, except as otherwise specifically authorized, a benefit requestor must personally sign his or her own request before filing it with USCIS. The AAO further noted that the underlying Form I-140 petition itself was also improperly signed by the attorney rather than the petitioner and should have been rejected at filing. Under 8 C.F.R. \u00a7 103.3(a)(1)(iii)(B) and (a)(2)(i), only an affected party may appeal, and since the appeal was filed by the attorney who is not the affected party, the appeal was rejected as improperly filed.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 103.2(a)(2)",
+    "8 C.F.R. \u00a7 292.4(a)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(ii)(A)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(iii)(B)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(i)",
+    "1 USCIS Policy Manual B.2"
+  ],
+  "fraud_or_procedural_issues": "The appeal was rejected on procedural grounds without merits review. The Form I-290B (Notice of Appeal) and Form G-28 (Notice of Entry of Appearance) accompanying the appeal were signed by the petitioner's attorney, not the petitioner, in the spaces designated for the petitioner's signature. Part 4 of the Form I-290B was improperly completed \u2014 it contained the attorney's telephone number, email, and signature in subsection 6.a (designated for petitioner's signature), invalidating the Petitioner's Certification under penalty of perjury. A 'To Whom it May Concern' letter submitted with the Form I-140, signed by both the petitioner and the attorney, purported to authorize the attorney to sign all forms and applications on the petitioner's behalf, but the AAO held this does not satisfy USCIS signature requirements. The underlying Form I-140 petition was also improperly signed by the attorney at Box 8.a (petitioner's certification) and should have been rejected at the time of filing under 8 C.F.R. \u00a7 103.2(a)(7)(ii)(A). Because only an affected party may appeal under 8 C.F.R. \u00a7 103.3(a)(1)(iii)(B) and (a)(2)(i), and the attorney is not the affected party, the appeal was rejected as improperly filed.",
+  "filename": "DEC032021_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,51 @@
+{
+  "petitioner_background": "The petitioner is a bioinorganic chemist who, at the time of filing, was employed as a postdoctoral researcher at the University of California, Davis. He previously pursued his doctoral degree at Michigan State University (MSU), where he worked as a teaching assistant. He self-represented and sought classification as an employment-based immigrant under section 203(b)(1)(A) of the Act as an alien of extraordinary ability in the sciences.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence that he received a Fellowship from Michigan State University for the summer semester of 1996. The submitted letter simply informed the petitioner of his fellowship award without stating the basis or eligibility criteria for the fellowship.",
+      "aao_analysis": "The director noted that fellowships are generally awarded to support future research rather than to recognize past excellence in the field. On appeal, the petitioner contended the fellowship was based on past performance quantified in grades and research progress. The AAO rejected this for two reasons: (1) the record contained no evidence that the fellowship was awarded based on past performance \u2014 the letter did not state the basis or eligibility criteria, and going on record without supporting documentary evidence is insufficient under Matter of Soffici; and (2) fellowships and scholarships awarded to support academic study do not meet this criterion because such financial aid is only available to students \u2014 not established professionals \u2014 to further academic training, and is not equivalent to nationally or internationally recognized prizes or awards for excellence.",
+      "met": false
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner claimed to meet this criterion because he was a teaching assistant while pursuing his doctoral degree at Michigan State University.",
+      "aao_analysis": "The AAO held that duties or activities which nominally fall under a regulatory criterion do not demonstrate national or international acclaim if they are inherent or routine in the occupation itself, or in a substantial proportion of positions within that occupation. The petitioner submitted no evidence that he had judged the work of other scientists in a manner significantly outside the general duties of a graduate teaching assistantship and reflective of national or international acclaim.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted three recommendation letters written by his current and past supervisors and a former colleague as evidence of his original scientific contributions of major significance in the field.",
+      "aao_analysis": "The AAO acknowledged that such letters provide relevant information about an alien's experience and accomplishments but held they cannot by themselves establish eligibility under this criterion because they do not demonstrate that the alien's work is of major significance in his field beyond the limited number of individuals with whom he has worked directly. Even when written by independent experts, letters solicited in support of an immigration petition carry less weight than preexisting, independent evidence of major contributions that one would expect of an alien who has sustained national or international acclaim. The AAO reviewed the letters only as they related to other evidence of contributions.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "At the time of filing, the petitioner had co-authored three articles and one abstract published in reputable scientific journals. On appeal, he submitted evidence of two additional articles that were published after the petition was filed.",
+      "aao_analysis": "The director had initially found the petitioner met this criterion because his published work had been cited. However, the AAO found the record devoid of any evidence that the petitioner's work had actually been cited in the publications of other scientists. The AAO held that frequent publication is inherent to success as an established scientist and does not necessarily indicate sustained acclaim; evidence of publications must be accompanied by documentation of consistent citation by independent experts or other proof of significant impact. The two additional articles submitted on appeal could not be considered because they were published after the petition was filed, and eligibility must be established at the time of filing per 8 C.F.R. \u00a7 103.2(b)(12) and Matter of Katigbak. The petitioner's minimal publication record and lack of any published citations were inconsistent with the requisite sustained acclaim.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner claimed to meet this criterion through his work as a graduate student at MSU and his postdoctoral research at the University of California, Davis. He relied on letters from Professors attesting to the value of his work to their individual laboratories. On appeal, he submitted evidence regarding a grant proposal submitted by a Professor listing the petitioner as one of the key personnel involved in the proposed research.",
+      "aao_analysis": "The AAO found that although the letters attested to the value of the petitioner's work to the individual laboratories of the professors, neither letter demonstrated that the petitioner performed a leading or critical role for MSU or the University of California, Davis as a whole. The grant proposal evidence submitted on appeal could not be considered because it arose after the petition was filed, and eligibility must be established at the time of filing.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the record did not establish that the petitioner had achieved sustained national or international acclaim as a scientist placing him at the very top of his field. The petitioner failed to meet any of the regulatory criteria discussed \u2014 his fellowship was student academic aid rather than a recognized prize, his teaching assistantship did not constitute judging others' work, his recommendation letters were insufficient to establish original contributions of major significance, his minimal publication record lacked any evidence of citation by independent experts, and his work did not demonstrate a leading or critical role for his institutions as a whole. Much of the evidence submitted on appeal could not be considered because it arose after the petition was filed, and the petitioner must establish eligibility at the time of filing. The burden of proof remained with the petitioner, and he did not sustain that burden.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "8 C.F.R. \u00a7 103.2(b)(12)",
+    "Matter of Katigbak, 14 I&N Dec. 45 (Comm. 1971)",
+    "Matter of Soffici, 22 I&N Dec. 158 (Comm. 1998)",
+    "Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "The petitioner was self-represented. A procedural issue noted throughout the decision is that much of the evidence submitted on appeal (two additional articles and a grant proposal listing the petitioner as key personnel) could not be considered because it arose after the petition was filed, per 8 C.F.R. \u00a7 103.2(b)(12) and Matter of Katigbak, which require eligibility to be established at the time of filing.",
+  "filename": "OCT212005_04B2203",
+  "source": "benchmark_unseen"
+}

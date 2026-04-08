@@ -1,0 +1,17 @@
+{
+  "petitioner_background": "The petitioner sought classification as an alien of extraordinary ability under INA section 203(b)(1)(A) via Form I-140. The Texas Service Center Director denied the petition, and the AAO dismissed a subsequent appeal. The petitioner then filed a motion to reopen and reconsider, which was dismissed as untimely, and she now files another motion to reopen relating to her previous untimely motions. No specific details about her field of work, nationality, or career qualifications are provided in this decision.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the motion to reopen because the petitioner failed to demonstrate that the delay in filing her previous motion was both reasonable and beyond her control, as required by 8 C.F.R. \u00a7 103.5(a)(1)(i). Her first justification\u2014that her spouse's COVID-19 diagnosis on May 24, 2022 required family quarantine\u2014was insufficient because CDC guidance at the time recommended only a 5-day isolation period ending May 29, leaving 13 days before the June 11, 2022 deadline. Her second justification\u2014that she mailed the motion via USPS on June 11, 2022 for delivery on June 13, 2022\u2014failed because under 8 C.F.R. \u00a7 103.2(a)(7)(i), the filing date is the date of actual receipt with the required fee, not the date of submission. Because the petitioner did not establish that the delay was reasonable and beyond her control, the AAO found it unnecessary to decide whether to exercise discretion to excuse the delay.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375 (AAO 2010)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(i)"
+  ],
+  "fraud_or_procedural_issues": "The entire decision concerns a procedural issue: the timeliness of the petitioner's motion to reopen. The petitioner's prior motion was filed untimely (received June 13, 2022, two days after the June 11, 2022 deadline), and she failed to demonstrate that the delay was reasonable and beyond her control as required by 8 C.F.R. \u00a7 103.5(a)(1)(i). No fraud or misrepresentation findings are discussed.",
+  "filename": "FEB032023_01B2203",
+  "source": "benchmark_unseen"
+}

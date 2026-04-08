@@ -1,0 +1,51 @@
+{
+  "petitioner_background": "The petitioner is a software developer employed as a principal research engineer, who received his Ph.D. in mechanical engineering in 2008. He focuses on improving simulation software used to predict how products will react to physical or environmental forces. He sought classification as an individual of extraordinary ability in the sciences under INA \u00a7 203(b)(1)(A). The Director of the Nebraska Service Center denied the I-140 petition, finding he met only two criteria, and he appealed claiming to meet four.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence that he received and completed independent requests to review six papers for publication in two journals and six technical publications for technical conferences. These reviews took place in 2014 and 2016. He also served as a judge of the work of others on a committee at a conference in 2014.",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner satisfied this criterion at the initial evidentiary stage, noting he reviewed manuscripts for several journals. However, in the final merits determination, the AAO found that participation in the peer review process does not automatically demonstrate sustained national or international acclaim at the very top of the field. The petitioner did not submit evidence demonstrating a consistent history of completing a substantial number of review requests relative to others in his field, and did not establish that his peer review experience places him among the small percentage at the very top of the field.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner presented evidence showing he authored 12 articles from 2003 to 2014. He also submitted a citation report to demonstrate how his citation count compares to others in the field. On appeal, he offered evidence that his number of citations is higher than 14 other researchers at his organization.",
+      "aao_analysis": "The AAO found the petitioner satisfied this criterion at the initial evidentiary stage. However, in the final merits determination, while acknowledging commendable publication levels within computer science for 2008 and 2009, the AAO found that the petitioner's publication record and citation evidence in the years that followed did not establish sustained national or international acclaim. The AAO acknowledged the petitioner's argument that his citations should not be compared against those of a leading researcher with citations in the thousands due to field differences, but still found the citations did not demonstrate sustained acclaim. The internal comparison to 14 other researchers at his organization did not place him in the small percentage at the very top of the field.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted a letter describing the beginnings of his employer organization with a specialization in Computer Aided Design (CAD) development. The letter explained that CAD innovation and demand is plateauing and the company's current growth trajectory is centered on continued development and enhancement of simulation software, and that the petitioner is relied upon in the development of the company's primary growth strategy.",
+      "aao_analysis": "The AAO concluded the petitioner performed a critical role for an organization that has a distinguished reputation, satisfying this criterion. In the final merits determination, however, the AAO found that while the petitioner established he has a critical role in an organization with a distinguished reputation, the record did not demonstrate how this led to sustained national or international acclaim or placed him at the very top of his field. The petitioner's role was not commensurate with sustained national or international acclaim.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted letters from representatives of two customers, researchers in the field, and company professionals/managers. A Founder/CTO stated the petitioner developed a technique for accurate and efficient computation of view factors for simulating cavity radiation problems, reducing simulation time from several hours to less than an hour, and added support for pyramid shape finite elements important for simulating rubber-like materials. An Engineering Manager stated the petitioner developed techniques that resulted in a 300% increase in the speed of finite element calculations and a technique for parametric optimization. A Product Manager asserted the petitioner was the first researcher to develop an evolutionary algorithm able to properly characterize the physical properties of injection molded plastic materials. Additional letters from a Director/Co-Director at a research center described a technique providing an automated approach for design engineers to study crankshafts, and a Senior Member of Technical Staff described a novel computer program to design crankshafts and create finite elements. A Vice President stated that a major client and a Norway-based oil and gas supplier rely on the petitioner's improved stress response computation techniques for transitioning from metal to composite materials.",
+      "aao_analysis": "The AAO found the petitioner did not meet this criterion. The AAO found it unclear how the authors of these letters, as end users of the company's products, knew specific details regarding the petitioner's contributions and how they are independently attributed to him instead of others on the development team. A Senior Product Manager stated that research contributions in the industry are not publicly attributed to the individual but rather to the company and its products. The AAO found the letters did not demonstrate the extent of the petitioner's original contributions. Regarding media coverage, the record did not demonstrate how contributions to products are directly attributable to the petitioner apart from other developers. For the researcher letters about crankshaft work, neither established what impact the petitioner's contribution had on the field. For the Vice President's letter about clients relying on the software, the record did not specify to what extent the petitioner contributed to the software and what aspects can be fully attributed to him as opposed to other developers, and the record contained no evidence from the named clients corroborating their reliance on the software.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal upon de novo review. Although the petitioner satisfied three of the ten regulatory criteria (judging, scholarly articles, and leading/critical role), the AAO found in the final merits determination that the totality of the evidence did not demonstrate sustained national or international acclaim or place him among the small percentage at the very top of the field of endeavor. The petitioner's peer review experience was not shown to be substantial relative to others in the field, his publication and citation record did not establish sustained acclaim in years following 2008-2009, his critical role was not shown to have led to sustained acclaim, and letters regarding his original contributions failed to clearly attribute contributions to him rather than his development team or establish their impact on the field. The AAO emphasized this is a highly restrictive classification intended for individuals already at the top of their fields, not those progressing toward the top.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011), aff'd, 683 F.3d 1030 (9th Cir. 2012)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "NOV212017_01B2203",
+  "source": "benchmark_unseen"
+}

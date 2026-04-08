@@ -1,0 +1,21 @@
+{
+  "petitioner_background": "The petitioner is a city branding expert who sought classification as an individual of extraordinary ability under INA section 203(b)(1)(A) by filing a Form I-140 Immigrant Petition for Alien Worker. The Texas Service Center Director denied the petition, concluding that the record did not establish eligibility through a one-time achievement or through at least three of the ten evidentiary criteria at 8 C.F.R. \u00a7 204.5(h)(3). The Director also found that the Petitioner had willfully misrepresented material facts with respect to her authorship record.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the only issue before it was whether the Director erred in dismissing the Petitioner's combined motion to reopen and reconsider as untimely, not the merits of the underlying I-140 denial. The Petitioner filed her combined motions on May 28, 2021, well beyond the extended 60-day COVID-19 deadline of May 4, 2021, and conceded the motions were untimely. The regulations do not permit USCIS to excuse an untimely motion to reconsider, and although a motion to reopen may be excused if the delay was reasonable and beyond the petitioner's control, the Petitioner provided no explanation or justification for the late filing at the time of submission. The explanation offered on appeal\u2014that human error and allegedly confusing USCIS guidance led her to believe she had 90 days rather than 60 days\u2014was unpersuasive because the January 28, 2021 USCIS announcement in effect clearly stated 60 calendar days, and the record showed she had obtained supporting documentation well before the May 4, 2021 deadline.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "8 C.F.R. \u00a7 103.5(a)(1)",
+    "8 C.F.R. \u00a7 103.8(b)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(4)"
+  ],
+  "fraud_or_procedural_issues": "The Director found that the Petitioner had willfully misrepresented material facts with respect to her authorship record in the underlying I-140 denial. Additionally, the primary procedural issue on appeal was the untimely filing of the combined motion to reopen and reconsider: the Petitioner filed on May 28, 2021, beyond the extended COVID-19 deadline of May 4, 2021 (60 days plus 3 days for mailing from the March 2, 2021 decision). The Petitioner conceded untimeliness and attributed the delay to human error and allegedly confusing USCIS pandemic guidance, claiming she believed she had 90 days. The AAO rejected this, noting the January 28, 2021 USCIS announcement clearly provided 60 calendar days, and the March 27, 2020 announcement the Petitioner characterized as confusing had expired May 1, 2020. The Petitioner did not receive an opportunity to respond to the willful misrepresentation finding because her motion was properly dismissed as untimely.",
+  "filename": "SEP282022_02B2203",
+  "source": "benchmark_unseen"
+}

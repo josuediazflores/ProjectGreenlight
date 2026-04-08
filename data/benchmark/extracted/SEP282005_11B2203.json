@@ -1,0 +1,38 @@
+{
+  "petitioner_background": "The petitioner is a self-represented Chinese national seeking classification as an alien of extraordinary ability in the arts under section 203(b)(1)(A) of the INA, specifically as a 'Flower Drum Opera Performer.' She has been residing in the United States since February 2000, and filed the petition on October 15, 2004. Notably, her passport issued by the Ministry of Foreign Affairs of the People's Republic of China in Shenyang on June 30, 1999 identifies her profession as 'Manager,' which contradicts her claim of being a nationally recognized Flower Drum Opera performer.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner re-submitted a photograph which she claimed was evidence of her participation as a judge in the '2000 Chinatown Flower drum contest.' No evidence from the competition's organizers describing the competition or confirming the petitioner's participation was provided.",
+      "aao_analysis": "The AAO found that the petitioner does not appear in the photograph, and there is no evidence from the competition's organizers describing the competition or confirming her participation. Going on record without supporting documentary evidence is not sufficient to meet the burden of proof, citing Matter of Soffici, 22 I&N Dec. 158, 165 (Comm. 1998) and Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972). Even accepting the claim, the petitioner did not show that the competition was national rather than local in scope, nor that it involved established professional performers rather than amateur youth. The AAO also noted that serving as a judge for a national competition involving professional performers has far greater probative value than serving as a judge for a local competition involving amateur children. Finally, the petitioner's eligibility claim was based on involvement with only one contest in 2000, and such infrequent participation is not indicative of sustained national or international acclaim.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence of her alleged authorship of an article entitled 'Flower Drum Song - The Reviews are In.' The name of the publication in which the article appeared was not identified.",
+      "aao_analysis": "The AAO found that the name of the publication was not identified, and the record contains no evidence showing that the article was actually published or evidence of its significant national or international distribution. Nor was there supporting evidence showing that the petitioner's article is viewed throughout her field as significantly influential.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The petitioner re-submitted a photograph which she claimed was evidence of an 'advertisement selling tickets' for 'Flower Drum Song,' and also submitted a promotional piece entitled 'Flower Drum Song Tickets.' The petitioner's name was not identified in the advertisement.",
+      "aao_analysis": "The AAO found that the petitioner's name is not identified in the advertisement, and there is no evidence from the producer or director of 'Flower Drum Song' discussing the petitioner's role in the production. Even accepting that the petitioner played a leading role in the production (which the AAO did not), the plain wording of the criterion requires evidence of commercial success in the form of 'sales' or 'box office receipts.' The petitioner did not show that the productions in which she played a leading role (if any) have consistently drawn larger audiences and higher box office grosses than most others in her field, at the national or international level.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO concurred with the director's finding that the petitioner failed to demonstrate she meets at least three of the criteria at 8 C.F.R. \u00a7 204.5(h)(3). The review of the record did not establish that the petitioner has distinguished herself to such an extent that she may be said to have achieved sustained national or international acclaim or to be within the small percentage at the very top of her field. The evidence was not persuasive that the petitioner's achievements set her significantly above almost all others in her field at a national or international level. Additionally, beyond the director's decision, the AAO noted the record contains no clear evidence that the petitioner is coming to the United States to continue work in her area of expertise as required by 8 C.F.R. \u00a7 204.5(h)(5). An unresolved discrepancy between the petitioner's passport (identifying her as a 'Manager') and her claimed profession further undermined the reliability of her evidence.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "Matter of Soffici, 22 I&N Dec. 158, 165 (Comm. 1998)",
+    "Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972)",
+    "Matter of Ho, 19 I&N Dec. 582, 591-92 (BIA 1988)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "The record contains an unresolved discrepancy: the petitioner's passport, issued in Shenyang by the Ministry of Foreign Affairs of the People's Republic of China on June 30, 1999, identifies her profession as 'Manager,' despite her claim to be nationally recognized as a Flower Drum Opera performer. The AAO noted it is incumbent upon the petitioner to resolve any inconsistencies in the record by independent objective evidence, citing Matter of Ho, 19 I&N Dec. 582, 591-92 (BIA 1988), and that doubt cast on any aspect of the petitioner's proof may lead to a reevaluation of the reliability and sufficiency of the remaining evidence. Additionally, the petitioner was self-represented and submitted photographs without explaining who or what was shown in them.",
+  "filename": "SEP282005_11B2203",
+  "source": "benchmark_unseen"
+}

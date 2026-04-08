@@ -1,0 +1,17 @@
+{
+  "petitioner_background": "The petitioner filed a self-represented employment-based immigrant visa petition seeking to classify the beneficiary as an alien of extraordinary ability under section 203(b)(1)(A) of the Immigration and Nationality Act. No details about the beneficiary's field of work, nationality, or career qualifications are provided in the decision, as the appeal was rejected on procedural grounds without reaching the merits.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO rejected the appeal as improperly filed because it was not submitted by an affected party with legal standing. The only G-28 Notice of Entry of Appearance in the record was on behalf of the beneficiary and signed by the beneficiary, not the petitioner. Under 8 C.F.R. \u00a7 103.3(a)(1)(iii)(B), the beneficiary of a visa petition is not an affected party, and under 8 C.F.R. \u00a7 103.3(a)(2)(v)(A)(1), an appeal filed by a person or entity not entitled to file it must be rejected without refund of the filing fee. Because the appeal was filed by counsel for the beneficiary rather than by the petitioner, it was not properly filed and had to be rejected.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(iii)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(v)",
+    "8 C.F.R. \u00a7 103.4",
+    "8 C.F.R. \u00a7 103.5"
+  ],
+  "fraud_or_procedural_issues": "The appeal was rejected on procedural grounds. It was improperly filed by counsel for the beneficiary rather than by the petitioner. The only G-28 in the record of proceeding was on behalf of the beneficiary and signed by the beneficiary, not the petitioner. Because a beneficiary is not an affected party with legal standing under 8 C.F.R. \u00a7 103.3(a)(1)(iii)(B), the appeal had to be rejected as improperly filed under 8 C.F.R. \u00a7 103.3(a)(2)(v)(A)(1), with no refund of the filing fee.",
+  "filename": "Apr292009_10B2203",
+  "source": "benchmark_unseen"
+}

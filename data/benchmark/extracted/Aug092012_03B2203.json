@@ -1,0 +1,48 @@
+{
+  "petitioner_background": "The petitioner is an Israeli rock singer, lyricist, and composer seeking classification as an employment-based immigrant under section 203(b)(1)(A) of the Act as an alien of extraordinary ability in the arts. The petition was filed on May 20, 2011 with the Texas Service Center. The petitioner submitted extensive documentation of his achievements as an Israeli rock musician to demonstrate a career of acclaimed work in the field.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The decision does not specify the particular published material submitted, but the AAO found that the petitioner's evidence met the category of evidence at 8 C.F.R. \u00a7 204.5(h)(3)(iii), which requires published material about the alien in professional or major trade publications or other major media relating to the alien's work in the field.",
+      "aao_analysis": "The AAO found that the petitioner's evidence meets the category of evidence at 8 C.F.R. \u00a7 204.5(h)(3)(iii) without providing detailed individual analysis in the published decision. The AAO accepted this criterion as satisfied as part of the initial evidentiary review under the Kazarian two-part approach.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The decision does not enumerate the specific contributions submitted, but the petitioner submitted evidence of his original artistic contributions of major significance in the field as a rock singer, lyricist, and composer under 8 C.F.R. \u00a7 204.5(h)(3)(v).",
+      "aao_analysis": "The AAO found that the petitioner's evidence meets the category of evidence at 8 C.F.R. \u00a7 204.5(h)(3)(v) regarding original scientific, scholarly, artistic, athletic, or business-related contributions of major significance in the field. The AAO accepted this criterion as satisfied as part of the initial evidentiary review.",
+      "met": true
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The decision does not specify box office receipts or record/sales figures, but the petitioner submitted evidence of commercial successes in the performing arts under 8 C.F.R. \u00a7 204.5(h)(3)(x), as shown by box office receipts or record, cassette, compact disk, or video sales.",
+      "aao_analysis": "The AAO found that the petitioner's evidence meets the category of evidence at 8 C.F.R. \u00a7 204.5(h)(3)(x) for commercial successes in the performing arts. The AAO accepted this criterion as satisfied as part of the initial evidentiary review under the Kazarian two-part approach.",
+      "met": true
+    }
+  ],
+  "outcome": "sustain",
+  "outcome_reasoning": "The AAO sustained the appeal and approved the petition, withdrawing the director's decision. Applying the Kazarian two-part approach, the AAO first found that the petitioner met at least three of the ten regulatory categories of evidence (published material, original contributions, and commercial success). In the final merits determination, the AAO concluded that the petitioner submitted extensive documentation of his achievements as an Israeli rock singer, lyricist, and composer demonstrating a 'career of acclaimed work in the field' as contemplated by Congress, sufficient to establish sustained national acclaim and that his achievements have been recognized in the field of expertise. The AAO found the petitioner is among that small percentage who have risen to the very top of the field of endeavor, that he seeks to continue working in the same field in the United States, and that his entry will substantially benefit the United States prospectively.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 203(b)(1)(A)(i) of the Act",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "56 Fed. Reg. 60897, 60898-99 (Nov. 29, 1991)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "Aug092012_03B2203",
+  "source": "benchmark_unseen"
+}

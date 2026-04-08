@@ -1,0 +1,14 @@
+{
+  "petitioner_background": "The petitioner is a geomorphologist seeking classification as an individual of extraordinary ability under INA section 203(b)(1)(A). The Director of the Nebraska Service Center denied the Form I-140 petition, and the matter came before the AAO on appeal. No further details about the petitioner's specific career, nationality, or qualifications are provided in the decision.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO summarily dismissed the appeal because the petitioner failed to identify specifically any erroneous conclusion of law or statement of fact in the Director's decision, as required by 8 C.F.R. \u00a7 103.3(a)(1)(v). On the Form I-290B, the petitioner indicated that a brief or additional evidence would be submitted within 30 days of filing, but the AAO received nothing further from the petitioner. Because no specific error was identified, summary dismissal was required.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)"
+  ],
+  "fraud_or_procedural_issues": "Procedural dismissal: The petitioner failed to identify any specific erroneous conclusion of law or statement of fact in the appeal, as required by 8 C.F.R. \u00a7 103.3(a)(1)(v). Although the petitioner indicated on Form I-290B that a brief or additional evidence would be submitted within 30 days, nothing further was received, resulting in summary dismissal.",
+  "filename": "JAN222018_02B2203",
+  "source": "benchmark_unseen"
+}

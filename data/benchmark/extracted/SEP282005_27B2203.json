@@ -1,0 +1,44 @@
+{
+  "petitioner_background": "The petitioner is a self-represented photographer seeking classification as an alien of extraordinary ability under section 203(b)(1)(A) of the Act. The petition was filed on October 12, 2004 with the Texas Service Center. In support of the petition, he submitted three samples of what is alleged to be his photography. The record references a 1997 Hong Kong exhibition and a 1993 Chinese-language Certificate of Honor, suggesting a possible Chinese/Hong Kong background, though nationality is not explicitly stated.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "A Certificate of Honor dated March 1993 with an accompanying English language translation indicating that the petitioner received a 'First-Class Award of National Grand Photography Contest.'",
+      "aao_analysis": "The record contains no evidence of publicity surrounding this contest or evidence showing that the petitioner's award enjoys a significant level of recognition. Simply receiving an honor certificate with the word 'national' in the title does not satisfy this very restrictive criterion. The petitioner must provide evidence showing that his award enjoys significant national or international stature. The record contains no documentation from the awarding entity or print media to establish that the Certificate of Honor is a nationally recognized photography award. Additionally, pursuant to 8 C.F.R. \u00a7 103.2(b)(3), foreign language documents must be accompanied by a certified English translation, and the translation accompanying the Certificate of Honor was not certified as required by the regulation.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner re-submitted two samples of what are alleged to be his photography with added captions. One captioned photograph states: 'The rainbow displayed on my photography exhibition of 1997 HK.' The second captioned photograph states: 'The beach displayed on my photography exhibition of 1997 HK.'",
+      "aao_analysis": "An assertion at the bottom of a photograph is of limited probative value. The record lacks substantive evidence to support the petitioner's assertions \u2014 for example, the petitioner did not submit a pamphlet or brochure from the 1997 Hong Kong exhibition to demonstrate his participation. Going on record without supporting documentary evidence is not sufficient for meeting the burden of proof, citing Matter of Soffici. Section 203(b)(1)(A)(i) requires 'extensive documentation' of sustained national or international acclaim. The petitioner must provide ample evidence that the exhibitions were only open to top national or international photographers. A photographer cannot satisfy this criterion simply by arranging for his or her work to be displayed or sold. The petitioner has not shown that his exhibitions enjoy a national reputation, or that he has regularly participated in exclusive exhibitions devoted solely or largely to the display of his photography alone.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner re-submitted what is alleged to be his photograph of a wooded area, with an added caption indicating its dollar amount and year of sale.",
+      "aao_analysis": "The record contains no evidence to support the petitioner's assertion regarding the price at which he sold this photograph. Going on record without supporting documentary evidence is not sufficient for meeting the burden of proof, citing Matter of Soffici. There is no evidence showing that the petitioner's compensation is significantly higher than that of other professional photographers.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The petitioner claimed that the photograph of a wooded area discussed under the high salary criterion is evidence of his commercial success.",
+      "aao_analysis": "The plain wording of this criterion indicates that it is intended for 'performing' artists such as musicians and actors rather than the petitioner's occupation as a photographer. Nevertheless, the regulation calls for commercial success in the form of 'sales' or 'receipts'; simply asserting that one's work has been purchased cannot satisfy the criterion. The record contains no evidence of documented 'sales' or 'receipts' showing significant national distribution of the petitioner's photography or its widespread commercial success.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The petitioner failed to demonstrate that he meets at least three of the ten regulatory criteria required to establish sustained national or international acclaim. Review of the record does not establish that the petitioner has distinguished himself to such an extent that he may be said to have achieved sustained national or international acclaim or to be within the small percentage at the very top of his field. The evidence is not persuasive that the petitioner's achievements set him significantly above almost all others in his field at the national or international level. Beyond the director's decision, the AAO additionally noted the petitioner failed to satisfy 8 C.F.R. \u00a7 204.5(h)(5), which requires clear evidence that the alien is coming to the United States to continue work in the area of expertise \u2014 the record contained no letters from prospective employers, contracts, or statement of plans. Each ground was considered as an independent and alternative basis for denial.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "Matter of Soffici, 22 I&N Dec. 158 (Comm. 1998)",
+    "Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: The English language translation accompanying the petitioner's 1993 Certificate of Honor was not certified as complete and accurate by the translator, nor did it include the translator's certification of competence to translate from the foreign language into English, as required by 8 C.F.R. \u00a7 103.2(b)(3). Additionally, the petitioner was self-represented throughout the proceedings.",
+  "filename": "SEP282005_27B2203",
+  "source": "benchmark_unseen"
+}

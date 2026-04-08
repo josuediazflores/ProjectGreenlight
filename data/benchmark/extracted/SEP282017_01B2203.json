@@ -1,0 +1,50 @@
+{
+  "petitioner_background": "The petitioner is an associate research scholar in the field of theoretical cosmology, focusing on the earliest moments of the universe. At the time of filing, she was a fellow at an institution researching the first moments of the universe. She sought classification as an individual of extraordinary ability in the sciences under INA section 203(b)(1)(A) (EB-1A). Her research centers on identifying flaws in inflationary cosmology and proposing alternative theories, including the ekpyrotic universe model and the anamorphic model.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner offered evidence that she has reviewed manuscripts submitted for publication in multiple professional journals, including what the AAO described as the highest ranked journal in the field of physics and astronomy and the second highest ranked journal in the field of physics. She received and completed independent requests to review a substantial number of manuscripts for these publications.",
+      "aao_analysis": "The Director found that the petitioner met this criterion, and the AAO agreed that the evidence provided meets the requirements of the regulation. In the final merits analysis, the AAO found that her judging experience for top-ranked physics journals, combined with her other achievements, was consistent with a determination that she is among the small percentage at the top of her field of endeavor.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted evidence that she was the first researcher to discover critical flaws in the existing standard paradigm of inflationary cosmology. Using data from (redacted mission/telescope), she proposed a new theory of the origins of the universe, including the ekpyrotic universe model and the anamorphic model, consistent with the 2013 data. Her work was published in top journals in her field. The creator of the inflationary theory wrote a paper addressing her work, and one of the main authors of the accepted inflationary theory dedicated an entire talk at a conference on primordial cosmology to address her theory. The scientific team behind the relevant data included her interpretation of the data related to inflation in their 2015 publication. Major media publications also reported on her study. She also submitted recommendation letters from experts including a professor of theoretical physics, a chair of a department of astronomy who called her work a 'masterpiece' and 'the best theorist that I have ever worked with on the very early universe,' and a professor of theoretical particle physics who described her as belonging to 'a small group of physicists worldwide' at 'the forefront of new discoveries about the universe.'",
+      "aao_analysis": "The Director found the petitioner did not meet this criterion. Upon de novo review, the AAO disagreed and found she had shown original scientific contributions of major significance in the field. The AAO reasoned that her discovery of flaws in the standard inflationary paradigm and her proposed alternative theories (ekpyrotic and anamorphic models) had major significance, as evidenced by top-journal publications, the fact that the creator of inflationary theory wrote a paper responding to her work, a dedicated conference talk addressing her theory, inclusion of her interpretation in a 2015 scientific team publication, and coverage by major media publications.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner provided evidence of authoring published scholarly articles in her field, including 'Inflationary paradigm in trouble after [Planck] 2013,' which appeared in a professional journal. The record also shows multiple articles in top journals relating to her anamorphic universe theory and articles she wrote explaining her theory. Evidence showed her articles garnered an unusually high number of citations.",
+      "aao_analysis": "The Director found, and the AAO agreed, that the evidence meets the plain language requirements of this criterion. In the final merits analysis, the AAO found that the citation history demonstrated impact and sustained influence, noting her work 'sparked a fierce debate among theoretical cosmologists' and continues to be cited and debated at a level commensurate with sustained national or international acclaim. The AAO specifically noted that after the appeal filing, 33 other cosmologists, including a 2006 Nobel Prize recipient in Physics, published a rebuttal article in response to her theory, establishing that her publication record sets her apart through a 'career of acclaimed work in the field.'",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted published material reporting on her study in major media publications.",
+      "aao_analysis": "The Director found that the published material was not about the petitioner; rather, it was about her work. The AAO declined to make a separate finding on this criterion, stating that because she meets the plain language requirements of three other criteria (scholarly articles, judging, and original contributions), any items that might relate to other criteria are better considered under the final merits analysis.",
+      "met": false
+    }
+  ],
+  "outcome": "sustain",
+  "outcome_reasoning": "Upon de novo review, the AAO sustained the appeal, finding that the petitioner met three regulatory criteria (judging, original contributions, and scholarly articles). In the final merits determination, the AAO concluded that when considered in totality, the evidence\u2014including her pioneering research and its impact on the cosmology community, her judging experience for top-ranked physics journals, her highly cited publications that sparked fierce debate among theoretical cosmologists (including a rebuttal by 33 cosmologists including a Nobel laureate), letters from experts describing her 'pioneering discoveries' as having 'shaken the cosmological community,' and extensive media coverage\u2014demonstrated that she possesses extraordinary ability consistent with being one of a small percentage at the very top of the field of endeavor with sustained national or international acclaim.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "H. Rep. No. 101-723, at 59 (Sept. 19, 1990)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "SEP282017_01B2203",
+  "source": "benchmark_unseen"
+}

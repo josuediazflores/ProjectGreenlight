@@ -1,0 +1,37 @@
+{
+  "petitioner_background": "The petitioner sought classification as an 'alien of extraordinary ability' in the sciences pursuant to section 203(b)(1)(A) of the Immigration and Nationality Act. No specific details about the petitioner's nationality, specific scientific field, or career qualifications are provided in the decision. The Director of the Texas Service Center denied the petition on March 31, 2014, finding the petitioner had not satisfied the initial evidence requirements at 8 C.F.R. \u00a7 204.5(h)(3).",
+  "evidence_per_criterion": [
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner submitted three job offer letters with his motion to reopen, one of which postdates the filing of the petition. The petitioner was claiming eligibility under the high salary criterion at 8 C.F.R. \u00a7 204.5(h)(3)(ix) for the first time in the motion to reopen, stating he had not previously submitted such evidence because he believed the remainder of his submitted evidence would clearly demonstrate his qualifications. No objective earnings data comparing the petitioner's salary to others in his field was provided.",
+      "aao_analysis": "The AAO found the evidence insufficient for multiple reasons. First, the job offer letter that postdates the filing of the petition does not establish a salary the petitioner had already commanded as of the filing date, as the regulation requires evidence that the alien 'has commanded' a high salary. Second, the plain language of 8 C.F.R. \u00a7 204.5(h)(3)(ix) requires evidence of high salary or significantly high remuneration 'in relation to others in the field,' meaning the petitioner must submit documentary evidence of earnings of those in his occupation performing similar work at the top level of the field. The petitioner offered no basis for comparison showing his earnings were significantly high in relation to others in his field. Assertions within the appellate brief are not evidence and are not an appropriate comparison to others in the field. The record did not contain objective earnings data showing the petitioner had earned a high salary in comparison with those performing similar work during the same time period.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal on two independent grounds. First, the appeal was summarily dismissed under 8 C.F.R. \u00a7 103.3(a)(1)(v) because the petitioner failed to identify specifically any erroneous conclusion of law or statement of fact, instead offering only general claims of error without specifics about how the director erred or identifying specific evidence the director did not consider. The petitioner did not contest the director's specific findings or distinguish the authority cited by the director (Matter of Soriano). Second, even considering the salary evidence on the merits, the evidence did not satisfy the high salary criterion because the petitioner failed to provide any objective comparative earnings data showing his salary was high in relation to others performing similar work at the top level of the field, and one job offer letter postdated the petition filing.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of E-M-, 20 I&N Dec. 77 (Comm'r 1989)",
+    "Matter of Soriano, 19 I&N Dec. 764 (BIA 1988)",
+    "Matter of Cerna, 20 I&N Dec. 399 (BIA 1991)",
+    "Matter of Soffici, 22 I&N Dec. 158 (Assoc. Comm'r 1998)",
+    "Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg'l Comm'r 1972)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "Racine v. INS, 1995 WL 153319 (N.D. Ill. Feb. 16, 1995)",
+    "Grimson v. INS, 934 F. Supp. 965 (N.D. Ill. 1996)",
+    "Muni v. INS, 891 F. Supp. 440 (N.D. Ill. 1995)",
+    "Desravines v. U.S. Atty. Gen., 343 F. App'x 433 (11th Cir. 2009)",
+    "Tedder v. F.M.C. Corp., 590 F.2d 115 (5th Cir. 1979)",
+    "56 Fed. Reg. 60898-99"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues were central to the dismissal. The petitioner's appeal was subject to summary dismissal under 8 C.F.R. \u00a7 103.3(a)(1)(v) for failing to specifically identify erroneous conclusions of law or statements of fact, instead providing only general claims of error. Additionally, the petitioner raised the high salary criterion for the first time in a motion to reopen, which the director declined to consider under Matter of Soriano because the evidence should have been submitted with the original petition per Form I-140 instructions. The petitioner did not distinguish the Soriano authority on appeal.",
+  "filename": "MAY262015_01B2203",
+  "source": "benchmark_unseen"
+}

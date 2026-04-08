@@ -1,0 +1,40 @@
+{
+  "petitioner_background": "The petitioner is a self-represented Peking Opera Performer seeking classification as an employment-based immigrant under section 203(b)(1)(A) of the Act as an alien of extraordinary ability. The petition was filed on October 15, 2004 with the Texas Service Center and was unaccompanied by supporting evidence at initial filing. Based on the awards submitted, the petitioner appears to be from China, where he received various Peking Opera performance awards during the 1989-1996 timeframe. The director denied the petition on November 19, 2004, finding the petitioner had not established the sustained national or international acclaim required.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted Certificates of Honor with English translations indicating receipt of: (1) 'First Grade Prize in 1994 National Traditional Opera Performance Competition'; (2) 'Outstanding Prize in Wu Sheng series in 1996 National Drama Exchange Performance'; (3) 'Second Grade Prize in Wu Sheng group in 1989 Shan Dong Province Peking Opera Performers Competition'; and (4) 'Outstanding Wu Sheng' award in the Second Northeast Peking Opera TV Grand Prize Competition (1992).",
+      "aao_analysis": "The AAO found multiple deficiencies. First, the translations accompanying the award certificates were not certified as complete and accurate by a competent translator as required by 8 C.F.R. \u00a7 103.2(b)(3). Second, items 3 and 4 reflected only provincial or regional recognition (Shan Dong Province and Northeast region), not national or international recognition. Third, for all four awards, there was no evidence of publicity surrounding the awards or evidence showing they enjoy significant recognition \u2014 simply receiving a certificate with the word 'national' in the title does not satisfy this restrictive criterion. The AAO noted the petitioner must submit contemporaneous evidence (such as event programs listing participants and comprehensive results) showing his awards enjoy significant national or international stature, and the record contained no documentation from the awarding entities or print media establishing the prizes as nationally recognized performing arts awards. Finally, the AAO observed that the petitioner had won no significant performing arts awards after 1996, indicating he had not sustained whatever acclaim he may have earned in China during the 1990s.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence of his alleged authorship of an article in Dazhonghua Yingyi entitled 'History of Peking Opera.'",
+      "aao_analysis": "The AAO found the record contained no evidence showing that this article was actually published under the petitioner's name or evidence of its significant national or international distribution. Additionally, there was no supporting evidence showing that the petitioner's article is viewed throughout his field as significantly influential.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The petitioner submitted three photographs of what were alleged to be his Peking Opera performances, with a dollar amount listed under each photograph asserting that the dollar amount represented the box office revenue for the particular production shown.",
+      "aao_analysis": "The AAO found the record contained no evidence to support the petitioner's assertions about the box office revenue. Going on record without supporting documentary evidence is not sufficient to meet the burden of proof, citing Matter of Soffici. There were no financial records showing the productions actually earned the dollar amounts claimed. The plain wording of this criterion calls for commercial success in the form of 'sales' or 'receipts'; simply asserting that alleged productions grossed varying revenue amounts cannot satisfy the criterion. To satisfy this criterion, the petitioner must establish that his performances have consistently drawn larger audiences and/or higher box office grosses than most others in his field at the national or international level, and the record included no such evidence. The AAO additionally noted in a footnote that a recent photograph of the petitioner attached to his Form I-485 bore little resemblance to any of the men in the Peking Opera photographs submitted on appeal.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner failed to demonstrate that he meets at least three of the regulatory criteria necessary to establish sustained national or international acclaim. Review of the record did not establish that the petitioner had distinguished himself as a performer to such an extent that he may be said to have achieved sustained national or international acclaim or to be within the small percentage at the very top of his field. The evidence was not persuasive that the petitioner's achievements set him significantly above almost all others in his field at the national or international level. Beyond the director's decision, the AAO also noted that the petitioner failed to satisfy 8 C.F.R. \u00a7 204.5(h)(5), which requires clear evidence that the alien is coming to the United States to continue work in the area of expertise, as the record contained no letters from prospective employers, contracts, or statements detailing plans to continue his work. Each ground was considered an independent and alternative basis for denial.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "Matter of Soffici, 22 I&N Dec. 158, 165 (Comm. 1998)",
+    "Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972)",
+    "Spencer Enterprises, Inc. v. United States, 229 F. Supp. 2d 1025, 1043 (E.D. Cal. 2001), aff'd 345 F.3d 683 (9th Cir. 2003)",
+    "Dor v. INS, 891 F.2d 997, 1002 n.9 (2d Cir. 1989)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "Several procedural and credibility issues were noted: (1) The petition was filed unaccompanied by any supporting evidence at initial filing. (2) The English translations of the foreign-language award certificates were not certified as complete and accurate by a competent translator, violating 8 C.F.R. \u00a7 103.2(b)(3). (3) The AAO raised an implicit identity/authenticity concern in a footnote, observing that a recent photograph of the petitioner attached to his Form I-485 bore little resemblance to any of the men shown in the Peking Opera performance photographs submitted on appeal, though the AAO stopped short of stating with certainty that none of the photographs showed the petitioner.",
+  "filename": "OCT202005_03B2203",
+  "source": "benchmark_unseen"
+}

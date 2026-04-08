@@ -1,0 +1,46 @@
+{
+  "petitioner_background": "The petitioner is an insect and pest control researcher from Sudan, working as a researcher at an institution in Sudan. He sought classification as an individual of extraordinary ability in the sciences under EB-1A (INA \u00a7 203(b)(1)(A)). His qualifications include three patents approved by the Republic of Sudan related to insect/pest control, authorship of research papers and a book, editorial work, manuscript review, teaching, co-advising theses and dissertations, and participation in scientific conferences with poster presentations.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence that he has served as an editor for a publication and has reviewed manuscripts for professional publications.",
+      "aao_analysis": "The Director found that the petitioner met this criterion based on his service as an editor and his review of manuscripts for professional publications. The AAO concurred with the Director's determination that this criterion was satisfied.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted evidence of three approved patents from the Republic of Sudan: (1) a patent for a product/formula that he claims increased employment in agricultural and related industries and had a tremendous effect on the Sudanese economy; (2) a patent relating to measuring the susceptibility of insects and others to poisons and pesticides; and (3) a patent on the use of temperatures to fight an insect pest. He also submitted screenshots from a company regarding advertisement for a product, four of his research papers, evidence of authorship of a book, and reference letters from colleagues. One letter from an individual at a stated institution described him as 'an outstanding teacher-researcher particularly in the field of pest management,' citing his long list of publications, teaching courses, co-advising theses and dissertations, and patents. Another reference letter attested that his 'distinguished research and technical work is evidenced by [the fact that] his patents and research publications appeared and [were] cited in several internationally peer-reviewed journals.' He also provided evidence of participation and poster presentations at various conferences, and claimed his research on a substance is used around the world against a particular insect, along with developing non-toxic alternatives including radiation, gamma rays, and lime juice.",
+      "aao_analysis": "The AAO found that while the patent reflects that he invented a new formula, the documentation does not show that the company has utilized his formula, nor does the record demonstrate that his formula (as opposed to previous versions) has influenced others in the field or otherwise represents a contribution of major significance, citing Visinscaia, 4 F. Supp. 3d at 134-35. He did not provide supporting evidence to establish that his patent increased Sudan's employment or affected the economy as asserted. Regarding his other two patents, while the evidence shows the originality of his research, it does not reflect that his work has been of major significance \u2014 he did not provide documentation that others have extensively cited his written work or that his research has been widely applied in the field, and the record does not corroborate his claim that his research is used around the world. The reference letters from colleagues generally indicate that he has authored papers and participated in scientific conferences but do not elaborate on the importance or impact of his patents and related research. While selection of his articles in professional journals verifies the originality of his work, it does not necessarily reflect that his research is considered of major significance. He did not demonstrate that his presentations have been frequently cited by other researchers or have otherwise significantly impacted the field. The letters primarily contain attestations of his status in the field without providing specific examples of how his contributions rise to a level consistent with major significance. Letters that repeat the regulatory language but do not explain how an individual's contributions have already influenced the field are insufficient, citing Kazarian. USCIS need not accept primarily conclusory statements, citing 1756, Inc. v. The U.S. Att'y Gen.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence that he authored articles that were published in professional journals.",
+      "aao_analysis": "The Director found that the petitioner satisfied this criterion based on his authorship of articles published in professional journals. The AAO agreed with that determination.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner has not submitted the required initial evidence of either a one-time achievement or documents that meet at least three of the ten criteria. He satisfied only two criteria (judging and scholarly articles), falling short of the minimum three required. As a result, the AAO did not need to provide the type of final merits determination referenced in Kazarian. Nevertheless, the AAO advised that it reviewed the record in the aggregate and concluded that it does not support a finding that the petitioner has established the level of expertise required for the classification sought as an individual of extraordinary ability.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Kazarian v. USCIS, 580 F.3d 1030 (9th Cir. 2009)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "1756, Inc. v. The U.S. Att'y Gen., 745 F. Supp. 9 (D.C. Dist. 1990)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "JUN062017_01B2203",
+  "source": "benchmark_unseen"
+}

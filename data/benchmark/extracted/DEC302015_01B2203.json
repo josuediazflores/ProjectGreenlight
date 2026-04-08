@@ -1,0 +1,45 @@
+{
+  "petitioner_background": "The petitioner is a painter and performance artist who self-identifies as an independent artist not belonging to any associations. He filed a Form I-140 seeking classification as an individual of extraordinary ability in the arts under INA \u00a7 203(b)(1)(A). The Texas Service Center Director denied the petition, finding he had not satisfied the initial evidentiary requirements under 8 C.F.R. \u00a7 204.5(h)(3), and the petitioner appealed to the AAO.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The Director's decision erroneously stated that the petitioner submitted evidence of membership in the U.S. Table Tennis Association and two Chinese table tennis teams. However, the petitioner did not actually submit any such evidence \u2014 he is an independent artist who does not belong to any associations, and the record does not support the Director's assertion. Notably, the petitioner did not even advance this criterion in his filing.",
+      "aao_analysis": "The AAO found that the Director's discussion of this criterion was entirely erroneous because it referenced a table tennis player unrelated to the arts field in which the petitioner sought classification. The petitioner had not advanced the membership in associations criterion, yet the Director nevertheless included a discussion for it under 8 C.F.R. \u00a7 204.5(h)(3)(ii). The record does not support the Director's assertion about table tennis association memberships, and the petitioner confirmed on appeal that he is an independent artist who does not belong to any associations.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The decision does not describe what published material evidence the petitioner actually submitted relating to his work as a painter and performance artist. The Director's analysis instead improperly referenced materials concerning a table tennis player.",
+      "aao_analysis": "The AAO noted that the Director's discussion for the published material criterion under 8 C.F.R. \u00a7 204.5(h)(3)(iii) erroneously concluded that the petitioner did not show he had 'sustained or [sic] national or international acclaim reported in major sports media as a table tennis player.' This analysis was unrelated to the petitioner's actual field of arts and constituted a major internal error in the Director's decision, contributing to the AAO's withdrawal of the decision.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The decision does not specify what exhibition or showcase evidence the petitioner submitted, but the Director's decision addressed this criterion twice with inconsistent findings.",
+      "aao_analysis": "The AAO identified inconsistent findings by the Director regarding the display at exhibitions or showcases criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vii). On page four of the decision, the Director found 'in light of the above' that the petitioner did not meet this criterion; however, no discussion of the criterion appeared above that conclusion. Then on page seven of the decision, the Director determined that the petitioner did meet the criterion. These contradictory findings were one of the grounds for withdrawing the Director's decision.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's April 23, 2015 decision and remanded the matter for further consideration and entry of a new decision. The AAO agreed with the petitioner that the Director's decision had 'an internal major error' because it extensively discussed the sport of table tennis \u2014 a field unrelated to the arts \u2014 under multiple criteria (membership in associations and published material), even though the petitioner had submitted no materials relating to table tennis. Additionally, the Director made inconsistent findings on the exhibition criterion, concluding on page four that the petitioner did not meet it (with no supporting discussion) and on page seven that he did meet it. Because the petition was not approvable on the current record, the AAO remanded for the Director to issue a new decision containing specific findings that would afford the petitioner the opportunity to present a meaningful appeal, with any adverse decision to be certified to the AAO for review.",
+  "legal_citations": [
+    "Immigration and Nationality Act \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Rijal v. USCIS, 683 F.3d 1030 (9th Cir. 2012)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Matter of Otiende, 26 I&N Dec. 127 (BIA 2013)"
+  ],
+  "fraud_or_procedural_issues": "Significant procedural error by the Texas Service Center Director. The Director's April 23, 2015 decision contained a major internal error by extensively discussing evidence related to a table tennis player \u2014 a field entirely unrelated to the arts in which the petitioner sought classification. The Director improperly analyzed a membership in associations criterion the petitioner had not even advanced, referenced nonexistent evidence of membership in the U.S. Table Tennis Association and two Chinese table tennis teams, and evaluated the published material criterion based on 'major sports media' coverage of table tennis. Additionally, the Director made internally inconsistent findings on the exhibition criterion, concluding both that the petitioner did not meet it (page four, without supporting discussion) and that he did meet it (page seven). These errors deprived the petitioner of a meaningful opportunity to appeal, requiring withdrawal and remand.",
+  "filename": "DEC302015_01B2203",
+  "source": "benchmark_unseen"
+}

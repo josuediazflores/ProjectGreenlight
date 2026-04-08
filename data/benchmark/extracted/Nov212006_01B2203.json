@@ -1,0 +1,19 @@
+{
+  "petitioner_background": "The petitioner sought classification as an 'alien of extraordinary ability' in the arts pursuant to section 203(b)(1)(A) of the Immigration and Nationality Act. No specific details about the petitioner's field, nationality, or career qualifications are provided in the decision, as the matter before the AAO was purely procedural. The director had previously determined that the petitioner had not established the sustained national or international acclaim necessary to qualify for the classification.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The motion to reopen was rejected on two independent grounds. First, the AAO lacked jurisdiction because it had never rendered a decision on the merits \u2014 it had previously rejected the appeal as improperly filed (submitted by a 'case manager' without legal standing under 8 C.F.R. \u00a7 292.1(a)), meaning jurisdiction over any motion resided with the director who made the latest substantive decision. Second, the motion was untimely: the AAO mailed its decision on April 24, 2006, but although counsel dated the motion May 11, 2006, it was not received by the Service Center until August 30, 2006, well beyond the 30-day filing period (plus 3 days for mail service) under 8 C.F.R. \u00a7 103.5(a)(1)(i). The petitioner failed to demonstrate that the delay was reasonable or beyond his control to warrant discretionary excusal.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 292.1(a)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(iii)",
+    "8 C.F.R. \u00a7 103.2(a)(2)(v)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)",
+    "8 C.F.R. \u00a7 103.8(b)"
+  ],
+  "fraud_or_procedural_issues": "The appeal was originally filed by a 'case manager' who submitted a Form G-28 signed by the petitioner but who lacked legal standing under 8 C.F.R. \u00a7 292.1(a), 8 C.F.R. \u00a7 103.3(a)(1)(iii), and 8 C.F.R. \u00a7 103.2(a)(2)(v). The AAO rejected the appeal as improperly filed. The subsequent motion to reopen was both jurisdictionally defective (AAO had rendered no decision to reopen) and untimely \u2014 filed well beyond the 30-day deadline, with the petitioner failing to establish that the delay was reasonable or beyond his control.",
+  "filename": "Nov212006_01B2203",
+  "source": "benchmark_unseen"
+}

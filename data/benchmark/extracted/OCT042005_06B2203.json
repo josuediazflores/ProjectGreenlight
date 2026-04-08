@@ -1,0 +1,33 @@
+{
+  "petitioner_background": "The petitioner is a self-represented Chinese Peking Opera Actor seeking classification as an employment-based immigrant under section 203(b)(1)(A) of the Act as an alien of extraordinary ability in the arts. He has been residing in the United States since August 26, 2001, and previously held an approved P-3 nonimmigrant petition authorizing him to work as an artist/entertainer from February 26, 2002 to February 17, 2003 (filed by Northeast Cultural Exchange Center). The petition was filed on November 1, 2003, and claims a career as a Peking Opera performer/director in China during the 1980s and 1990s.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted certificates with English language translations for three awards: (1) Award of 'First-Class Excellent Young Singer (Duet) of Professional Artistic Organizations of Liaoning Province' (1981); (2) 'Peking Opera Xiao Sheng Award' in the First Art Festival of Shenyang City (1984); and (3) 'Second Place Prize of Wu Sheng' in the 1986 Traditional Opera Grand Contest of Shenyang.",
+      "aao_analysis": "The AAO found multiple deficiencies. First, the translations accompanying the petitioner's award certificates were not certified as complete and accurate by the translator as required by 8 C.F.R. \u00a7 103.2(b)(3). Second, all three awards reflect local or provincial recognition rather than national or international recognition (Liaoning Province and Shenyang City). Third, the record contained no documentation from the awarding entities or print media to establish that the awards are nationally recognized performing arts awards. Finally, the record contained no evidence showing that the petitioner has won any significant performing arts awards subsequent to 1986, indicating that he has not sustained whatever acclaim he may have earned in China during the 1980s.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted a one-sentence 'Notarial Certificate' stating that he 'worked as a professional Peking Opera director in [Peking Opera Troupe] of Shenyang City from September 1985 to January 1998.' This certificate was issued by a Notary in the Liaoyang Notary Public Office. In response to the director's request for evidence, the petitioner submitted a letter allegedly issued by a former Vice Chairman of the China Dramatist Association discussing a few of the petitioner's stage performances. On appeal, the petitioner also submitted three undated photos of alleged stage performances.",
+      "aao_analysis": "The AAO found the petitioner failed to establish both the nature of his role within the organization and the distinguished reputation of the organization. The notarial certificate was issued by a Notary rather than by an official of the Peking Opera Troupe of Shenyang City itself, and the record included no evidence to support the assertion that the petitioner served as director of the troupe. Additionally, there was no evidence showing that this opera troupe has earned a distinguished reputation when compared to other Peking Opera troupes throughout China. The letter from the alleged former Vice Chairman of the China Dramatist Association contained no address, phone number, or other contact information, and failed to demonstrate the petitioner's sustained national or international acclaim \u2014 the AAO noted that an individual with sustained acclaim should be able to produce ample unsolicited materials reflecting that acclaim. The three undated photos submitted on appeal did not satisfy any of the regulatory criteria.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO concurred with the director's finding that the petitioner failed to demonstrate he meets at least three of the criteria at 8 C.F.R. \u00a7 204.5(h)(3). The record was ambiguous regarding the petitioner's acclaim throughout his native China, and there was no evidence showing that the petitioner sustained whatever acclaim he earned in China since his arrival in the United States in 2001 \u2014 despite being in the U.S. since August 2001 and holding P-3 work authorization for approximately one year, he submitted no evidence of performances or work in his area of expertise during that time. The evidence was not persuasive that the petitioner's achievements set him significantly above almost all others in his field at a national or international level, or that he is within the small percentage at the very top of his field. Beyond the director's decision, the AAO also found the petitioner failed to satisfy 8 C.F.R. \u00a7 204.5(h)(5) because the record contained no clear evidence (such as letters from prospective employers, contracts, or a statement detailing plans) that the alien is coming to the United States to continue work in the area of expertise. Each ground was considered an independent and alternative basis for denial.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Spencer Enterprises, Inc. v. United States, 229 F. Supp. 2d 1025, 1043 (E.D. Cal. 2001), aff'd. 345 F.3d 683 (9th Cir. 2003)",
+    "Dor v. INS, 891 F.2d 997, 1002 n. 9 (2d Cir. 1989)"
+  ],
+  "fraud_or_procedural_issues": "Several procedural issues were identified: (1) the English translations of the petitioner's award certificates were not certified as complete and accurate by the translator, violating 8 C.F.R. \u00a7 103.2(b)(3); (2) the notarial certificate regarding the petitioner's role as director was issued by a Notary in the Liaoyang Notary Public Office rather than by an official of the Peking Opera Troupe itself, raising questions about its evidentiary value; (3) the letter from the alleged former Vice Chairman of the China Dramatist Association contained no address, phone number, or other contact information through which the individual could be verified or contacted. No explicit fraud finding was made.",
+  "filename": "OCT042005_06B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,24 @@
+{
+  "petitioner_background": "The petitioner sought classification as an employment creation (EB-5) immigrant under section 203(b)(5) of the Immigration and Nationality Act, not as an alien of extraordinary ability. The petition was based on an investment in Shogun Baytown Japanese Steakhouse and Sushi Bar, a business not located in a targeted employment area, requiring a $1,000,000 minimum capital investment. The petitioner worked as a cook at the new commercial enterprise during an unauthorized period of stay in the United States.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The appeal was summarily dismissed. The petitioner failed to specifically identify any erroneous conclusion of law or statement of fact by the director, as required by 8 C.F.R. \u00a7 103.3(a)(1)(v). The petitioner did not contest the director's findings regarding the lack of documentation of a qualifying $1,000,000 investment, lawful source of funds, creation of 10 jobs, or existence of the new commercial enterprise. Additionally, the AAO declined to consider evidence submitted for the first time on appeal (including a 2010 financial statement, employee list, and Schedule K-1 showing only $44,415 capital contribution) because the petitioner had been given notice and opportunity to respond to the deficiencies in the RFE but failed to do so.",
+  "legal_citations": [
+    "Section 203(b)(5) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(5)",
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.2(b)(8)",
+    "8 C.F.R. \u00a7 103.2(b)(12)",
+    "8 C.F.R. \u00a7 103.2(b)(14)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "Matter of Soriano, 19 I&N Dec. 764 (BIA 1988)",
+    "Matter of Obaigbena, 19 I&N Dec. 533 (BIA 1988)",
+    "Idy v. Holder, No. 11-1078, 2012 WL 975567 (1st Cir. Mar. 23, 2012)",
+    "Desravines v. United States Attorney General, No. 08-14861, 343 F. App'x 433 (11th Cir. 2009)",
+    "Tedder v. F.M.C. Corp., 590 F.2d 115 (5th Cir. 1979)"
+  ],
+  "fraud_or_procedural_issues": "Multiple procedural issues: (1) The petitioner was a cook at the new commercial enterprise during an unauthorized period of stay in the United States. (2) The petitioner failed to respond adequately to the director's RFE, which requested evidence on the establishment of the new commercial enterprise, amount of capital invested, lawful source of funds, job creation, and management engagement. (3) On appeal, the petitioner failed to identify any specific erroneous conclusion of law or statement of fact, resulting in summary dismissal under 8 C.F.R. \u00a7 103.3(a)(1)(v). (4) Evidence submitted for the first time on appeal was not considered per Matter of Soriano and Matter of Obaigbena. (5) Note: This case is an EB-5 employment creation petition, not an EB-1A/O-1A extraordinary ability case as the extraction prompt suggested.",
+  "filename": "Jun112012_01B2203",
+  "source": "benchmark_unseen"
+}

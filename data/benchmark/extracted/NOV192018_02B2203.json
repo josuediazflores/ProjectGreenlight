@@ -1,0 +1,44 @@
+{
+  "petitioner_background": "The petitioner is a performing artist seeking classification as an individual of extraordinary ability in the arts under the EB-1A first preference immigrant visa category. The Director of the Nebraska Service Center initially denied her Form I-140, and the case has a lengthy procedural history including a dismissed appeal, a rejected subsequent appeal, a denied motion to reopen, and a denied motion to reopen and motion to reconsider. The matter is now before the AAO on another motion to reopen.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted documentation regarding her leading or critical role for organizations or establishments that have a distinguished reputation under 8 C.F.R. \u00a7 204.5(h)(3)(viii). Specific evidence is not detailed in this motion decision, as the criterion was addressed in earlier proceedings.",
+      "aao_analysis": "The Director initially determined that the petitioner met this criterion. However, on appeal, the AAO withdrew the Director's favorable decision regarding the leading or critical role criterion, concluding that the petitioner did not satisfy it.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner submitted evidence of the display of her work at artistic exhibitions or showcases under 8 C.F.R. \u00a7 204.5(h)(3)(vii). Specific evidence is not detailed in this motion decision.",
+      "aao_analysis": "In the AAO's original decision dismissing the appeal, the AAO concluded that the petitioner fulfilled only the criterion for artistic display under 8 C.F.R. \u00a7 204.5(h)(3)(vii), which was insufficient to meet the three-criteria threshold required for classification.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied the motion to reopen because the petitioner failed to state new facts supported by documentary evidence as required by 8 C.F.R. \u00a7 103.5(a)(2). The petitioner's brief did not mention or address the AAO's most recent decision denying her motion to reopen and motion to reconsider, and instead referenced the Director's decision and the original AAO decision dismissing her appeal. The motion consisted of documentation previously submitted in earlier proceedings, and the petitioner did not establish that her evidence overcame the prior decision. Reasserting previously stated facts or resubmitting previously provided evidence does not constitute 'new facts' under the AAO's interpretation of the regulation.",
+  "legal_citations": [
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i) - (x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(b)",
+    "8 C.F.R. \u00a7 1003.23(b)(3)",
+    "8 C.F.R. \u00a7 103.1(f)(3)(iii)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(ii)-(iii)",
+    "DHS Delegation Number 0150.1",
+    "Matter of A-B-, ID# 407091 (AAO July 12, 2017)",
+    "Matter of A-B-, ID# 1051883 (AAO Nov. 30, 2017)",
+    "Matter of A-B-, ID# 1258853 (AAO Apr. 12, 2018)"
+  ],
+  "fraud_or_procedural_issues": "The case has significant procedural issues. The petitioner's initial motion to reopen was denied as untimely filed \u2014 the AAO dismissed her appeal on July 12, 2017, but she did not file her motion until September 27, 2017, beyond the 33-day deadline under 8 C.F.R. \u00a7\u00a7 103.5(a)(1)(i) and 103.5(b). The petitioner subsequently claimed a typographical error on her Form I-290B and argued that the timeliness should have been calculated from the date of the rejected appeal rather than the dismissed appeal, but the AAO rejected this argument, noting that a rejected appeal does not retain a filing date under 8 C.F.R. \u00a7 103.2(a)(7)(ii)-(iii). The AAO also noted it lacks appellate jurisdiction over its own decisions and that the petitioner's earlier filing did not meet the requirements of either a motion to reopen or motion to reconsider.",
+  "filename": "NOV192018_02B2203",
+  "source": "benchmark_unseen"
+}
