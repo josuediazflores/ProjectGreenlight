@@ -1,4 +1,4 @@
-{"log_path": "/tmp/qwen_train.log", "current_step": 590, "total_steps": 1962, "progress_pct": 30.07, "current_epoch": 1, "first_loss": 2.9932, "last_loss": 1.13, "loss_reduction": 1.8632, "loss_reduction_pct": 62.2, "elapsed_sec": 10257, "elapsed_hours": 2.85, "recent_steps_per_sec": 0.0609, "eta_sec": 22529, "eta_hours": 6.26, "epochs_seen": [{"epoch": 1, "total_epochs": 3}], "saves": [], "val_losses": [], "_type": "summary"}
+{"log_path": "/tmp/qwen_train.log", "current_step": 650, "total_steps": 1962, "progress_pct": 33.13, "current_epoch": 1, "first_loss": 2.9932, "last_loss": 1.2116, "loss_reduction": 1.7816, "loss_reduction_pct": 59.5, "elapsed_sec": 11212, "elapsed_hours": 3.11, "recent_steps_per_sec": 0.0617, "eta_sec": 21268, "eta_hours": 5.91, "epochs_seen": [{"epoch": 1, "total_epochs": 3}], "saves": [{"epoch": 1, "path": "checkpoints/qwen-7b-r16/epoch-1", "after_step": 650}], "val_losses": [{"epoch": 1, "val_loss": 1.1473, "after_step": 650}], "_type": "summary"}
 {"step": 1, "total_steps": 1962, "loss": 2.9932, "steps_per_sec": 0.0, "elapsed_sec": 228, "epoch": 1, "_type": "step"}
 {"step": 5, "total_steps": 1962, "loss": 2.6472, "steps_per_sec": 0.01, "elapsed_sec": 463, "epoch": 1, "_type": "step"}
 {"step": 10, "total_steps": 1962, "loss": 2.2151, "steps_per_sec": 0.02, "elapsed_sec": 548, "epoch": 1, "_type": "step"}
@@ -118,3 +118,15 @@
 {"step": 580, "total_steps": 1962, "loss": 1.1435, "steps_per_sec": 0.06, "elapsed_sec": 10087, "epoch": 1, "_type": "step"}
 {"step": 585, "total_steps": 1962, "loss": 1.0885, "steps_per_sec": 0.06, "elapsed_sec": 10167, "epoch": 1, "_type": "step"}
 {"step": 590, "total_steps": 1962, "loss": 1.13, "steps_per_sec": 0.06, "elapsed_sec": 10257, "epoch": 1, "_type": "step"}
+{"step": 595, "total_steps": 1962, "loss": 1.1586, "steps_per_sec": 0.06, "elapsed_sec": 10335, "epoch": 1, "_type": "step"}
+{"step": 600, "total_steps": 1962, "loss": 1.1682, "steps_per_sec": 0.06, "elapsed_sec": 10411, "epoch": 1, "_type": "step"}
+{"step": 605, "total_steps": 1962, "loss": 1.1374, "steps_per_sec": 0.06, "elapsed_sec": 10488, "epoch": 1, "_type": "step"}
+{"step": 610, "total_steps": 1962, "loss": 1.1308, "steps_per_sec": 0.06, "elapsed_sec": 10574, "epoch": 1, "_type": "step"}
+{"step": 615, "total_steps": 1962, "loss": 1.1488, "steps_per_sec": 0.06, "elapsed_sec": 10655, "epoch": 1, "_type": "step"}
+{"step": 620, "total_steps": 1962, "loss": 1.1484, "steps_per_sec": 0.06, "elapsed_sec": 10731, "epoch": 1, "_type": "step"}
+{"step": 625, "total_steps": 1962, "loss": 1.164, "steps_per_sec": 0.06, "elapsed_sec": 10819, "epoch": 1, "_type": "step"}
+{"step": 630, "total_steps": 1962, "loss": 1.1739, "steps_per_sec": 0.06, "elapsed_sec": 10901, "epoch": 1, "_type": "step"}
+{"step": 635, "total_steps": 1962, "loss": 1.0682, "steps_per_sec": 0.06, "elapsed_sec": 10972, "epoch": 1, "_type": "step"}
+{"step": 640, "total_steps": 1962, "loss": 1.1442, "steps_per_sec": 0.06, "elapsed_sec": 11051, "epoch": 1, "_type": "step"}
+{"step": 645, "total_steps": 1962, "loss": 1.1425, "steps_per_sec": 0.06, "elapsed_sec": 11127, "epoch": 1, "_type": "step"}
+{"step": 650, "total_steps": 1962, "loss": 1.2116, "steps_per_sec": 0.06, "elapsed_sec": 11212, "epoch": 1, "_type": "step"}
