@@ -249,16 +249,47 @@ def main():
         # Optional per-epoch checkpoint (off by default — only final save matters)
         if args.save_each_epoch:
             ckpt_dir = Path(args.output_dir) / f"epoch-{epoch + 1}"
-            ckpt_dir.mkdir(parents=True, exist_ok=True)
             print(f"==> Saving adapter to {ckpt_dir}")
-            model.save_pretrained(str(ckpt_dir))
-            tokenizer.save_pretrained(str(ckpt_dir))
+            save_lora_adapter(model, tokenizer, ckpt_dir)
 
     # Final save
     print(f"\n==> Final save to {args.output_dir}")
-    model.save_pretrained(args.output_dir)
-    tokenizer.save_pretrained(args.output_dir)
+    save_lora_adapter(model, tokenizer, Path(args.output_dir))
     print("==> Done!")
+
+
+def save_lora_adapter(model, tokenizer, output_dir: Path):
+    """Save the LoRA adapter, working around XLA tensor + safetensors bugs.
+
+    PyTorch/XLA tensors don't expose data_ptr(), which breaks safetensors.
+    We extract the LoRA state dict, move to CPU, and save with safetensors=False
+    (uses pickle/.bin instead, which doesn't poke at storage pointers).
+    """
+    import torch_xla.core.xla_model as xm
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Force any pending XLA operations to complete
+    xm.mark_step()
+
+    # Pull LoRA state dict to CPU manually
+    cpu_state_dict = {}
+    for name, param in model.named_parameters():
+        if param.requires_grad:  # only LoRA params
+            cpu_state_dict[name] = param.detach().cpu().to(torch.float32)
+
+    # Save the trainable params as a regular .bin file (no safetensors weirdness)
+    torch.save(cpu_state_dict, output_dir / "adapter_model.bin")
+
+    # Save the PEFT config so the adapter can be loaded later
+    if hasattr(model, "peft_config"):
+        for adapter_name, peft_config in model.peft_config.items():
+            peft_config.save_pretrained(str(output_dir))
+            break  # only one adapter
+
+    # Save tokenizer
+    tokenizer.save_pretrained(str(output_dir))
+    print(f"  saved {len(cpu_state_dict)} tensors to {output_dir}/adapter_model.bin")
 
 
 if __name__ == "__main__":
