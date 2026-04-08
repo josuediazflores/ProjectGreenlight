@@ -1,4 +1,4 @@
-{"log_path": "/tmp/qwen_train.log", "current_step": 335, "total_steps": 1962, "progress_pct": 17.07, "current_epoch": 1, "first_loss": 3.0117, "last_loss": 1.2093, "loss_reduction": 1.8024, "loss_reduction_pct": 59.8, "elapsed_sec": 5986, "elapsed_hours": 1.66, "recent_steps_per_sec": 0.0604, "eta_sec": 26956, "eta_hours": 7.49, "epochs_seen": [{"epoch": 1, "total_epochs": 3}], "saves": [], "val_losses": [], "_type": "summary"}
+{"log_path": "/tmp/qwen_train.log", "current_step": 440, "total_steps": 1962, "progress_pct": 22.43, "current_epoch": 1, "first_loss": 3.0117, "last_loss": 1.1837, "loss_reduction": 1.828, "loss_reduction_pct": 60.7, "elapsed_sec": 7777, "elapsed_hours": 2.16, "recent_steps_per_sec": 0.0589, "eta_sec": 25825, "eta_hours": 7.17, "epochs_seen": [{"epoch": 1, "total_epochs": 3}], "saves": [], "val_losses": [], "_type": "summary"}
 {"step": 1, "total_steps": 1962, "loss": 3.0117, "steps_per_sec": 0.0, "elapsed_sec": 237, "epoch": 1, "_type": "step"}
 {"step": 5, "total_steps": 1962, "loss": 2.6279, "steps_per_sec": 0.01, "elapsed_sec": 469, "epoch": 1, "_type": "step"}
 {"step": 10, "total_steps": 1962, "loss": 2.2237, "steps_per_sec": 0.02, "elapsed_sec": 555, "epoch": 1, "_type": "step"}
@@ -67,3 +67,24 @@
 {"step": 325, "total_steps": 1962, "loss": 1.2286, "steps_per_sec": 0.06, "elapsed_sec": 5822, "epoch": 1, "_type": "step"}
 {"step": 330, "total_steps": 1962, "loss": 1.1961, "steps_per_sec": 0.06, "elapsed_sec": 5906, "epoch": 1, "_type": "step"}
 {"step": 335, "total_steps": 1962, "loss": 1.2093, "steps_per_sec": 0.06, "elapsed_sec": 5986, "epoch": 1, "_type": "step"}
+{"step": 340, "total_steps": 1962, "loss": 1.2407, "steps_per_sec": 0.06, "elapsed_sec": 6075, "epoch": 1, "_type": "step"}
+{"step": 345, "total_steps": 1962, "loss": 1.1774, "steps_per_sec": 0.06, "elapsed_sec": 6165, "epoch": 1, "_type": "step"}
+{"step": 350, "total_steps": 1962, "loss": 1.306, "steps_per_sec": 0.06, "elapsed_sec": 6259, "epoch": 1, "_type": "step"}
+{"step": 355, "total_steps": 1962, "loss": 1.159, "steps_per_sec": 0.06, "elapsed_sec": 6342, "epoch": 1, "_type": "step"}
+{"step": 360, "total_steps": 1962, "loss": 1.2199, "steps_per_sec": 0.06, "elapsed_sec": 6430, "epoch": 1, "_type": "step"}
+{"step": 365, "total_steps": 1962, "loss": 1.2971, "steps_per_sec": 0.06, "elapsed_sec": 6521, "epoch": 1, "_type": "step"}
+{"step": 370, "total_steps": 1962, "loss": 1.1378, "steps_per_sec": 0.06, "elapsed_sec": 6607, "epoch": 1, "_type": "step"}
+{"step": 375, "total_steps": 1962, "loss": 1.2605, "steps_per_sec": 0.06, "elapsed_sec": 6704, "epoch": 1, "_type": "step"}
+{"step": 380, "total_steps": 1962, "loss": 1.2179, "steps_per_sec": 0.06, "elapsed_sec": 6786, "epoch": 1, "_type": "step"}
+{"step": 385, "total_steps": 1962, "loss": 1.2138, "steps_per_sec": 0.06, "elapsed_sec": 6870, "epoch": 1, "_type": "step"}
+{"step": 390, "total_steps": 1962, "loss": 1.2718, "steps_per_sec": 0.06, "elapsed_sec": 6963, "epoch": 1, "_type": "step"}
+{"step": 395, "total_steps": 1962, "loss": 1.1708, "steps_per_sec": 0.06, "elapsed_sec": 7045, "epoch": 1, "_type": "step"}
+{"step": 400, "total_steps": 1962, "loss": 1.2068, "steps_per_sec": 0.06, "elapsed_sec": 7115, "epoch": 1, "_type": "step"}
+{"step": 405, "total_steps": 1962, "loss": 1.1345, "steps_per_sec": 0.06, "elapsed_sec": 7199, "epoch": 1, "_type": "step"}
+{"step": 410, "total_steps": 1962, "loss": 1.2006, "steps_per_sec": 0.06, "elapsed_sec": 7288, "epoch": 1, "_type": "step"}
+{"step": 415, "total_steps": 1962, "loss": 1.1811, "steps_per_sec": 0.06, "elapsed_sec": 7374, "epoch": 1, "_type": "step"}
+{"step": 420, "total_steps": 1962, "loss": 1.1406, "steps_per_sec": 0.06, "elapsed_sec": 7451, "epoch": 1, "_type": "step"}
+{"step": 425, "total_steps": 1962, "loss": 1.2295, "steps_per_sec": 0.06, "elapsed_sec": 7531, "epoch": 1, "_type": "step"}
+{"step": 430, "total_steps": 1962, "loss": 1.1756, "steps_per_sec": 0.06, "elapsed_sec": 7616, "epoch": 1, "_type": "step"}
+{"step": 435, "total_steps": 1962, "loss": 1.2357, "steps_per_sec": 0.06, "elapsed_sec": 7697, "epoch": 1, "_type": "step"}
+{"step": 440, "total_steps": 1962, "loss": 1.1837, "steps_per_sec": 0.06, "elapsed_sec": 7777, "epoch": 1, "_type": "step"}
