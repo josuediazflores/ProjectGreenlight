@@ -1,0 +1,14 @@
+{
+  "petitioner_background": "The petitioner sought classification as an individual of extraordinary ability in athletics under INA section 203(b)(1)(A). The Nebraska Service Center Director denied the petition, and the petitioner appealed to the AAO. No further details about the petitioner's specific sport, nationality, or career qualifications are provided in the decision.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO summarily dismissed the appeal pursuant to 8 C.F.R. \u00a7 103.3(a)(1)(v) because the petitioner failed to identify specifically any erroneous conclusion of law or statement of fact in the Director's decision. While the petitioner indicated on Form I-290B that a brief or additional evidence would be attached, the petitioner submitted documentary evidence without the required statement in support of the appeal. Because no specific error was identified, summary dismissal was required.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)"
+  ],
+  "fraud_or_procedural_issues": "Procedural deficiency: the petitioner failed to submit a statement specifically identifying any erroneous conclusion of law or statement of fact in the Director's decision, as required by 8 C.F.R. \u00a7 103.3(a)(1)(v). Although the Form I-290B indicated a brief or additional evidence would be attached, only documentary evidence was submitted without the required statement, resulting in summary dismissal.",
+  "filename": "JUN012018_01B2203",
+  "source": "benchmark_unseen"
+}

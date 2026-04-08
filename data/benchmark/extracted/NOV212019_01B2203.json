@@ -1,0 +1,45 @@
+{
+  "petitioner_background": "The petitioner is a forestry research scientist from South Korea, currently employed as a professor at a university in South Korea. He sought classification as an individual of extraordinary ability under INA \u00a7 203(b)(1)(A) (EB-1A). His work is in forest and environmental science, and he has published articles in journals including Leisure Sciences, The Journal of Environmental Education, Annals of Tourism Research, Forest Science and Technology, and Climate Policy. He also served as a principal investigator on an international climate project related to reducing global emissions.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted nine published articles. The Director found this criterion was met.",
+      "aao_analysis": "The Director determined that the petitioner met this criterion pertaining to scholarly articles under 8 C.F.R. \u00a7 204.5(h)(3)(vi), and the AAO noted that the record supports this finding. No further analysis was provided as this criterion was not in dispute on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence of the petitioner's participation as a judge of the work of others in his field.",
+      "aao_analysis": "The Director determined that the petitioner met this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(iv), and the AAO noted that the record supports this finding. No further analysis was provided as this criterion was not in dispute on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner claimed to meet this criterion through heavy citation of his articles, documenting '393 independent citations of [his] published findings,' including one article (a 2000 article in The Journal of Environmental Education) with more than 250 independent citations. He noted that 136 of the independent citations occurred within five years of the filing date. He submitted citation histories for six of his nine articles, with citations concentrated on three articles (Leisure Sciences 1990 with 82 citations; Journal of Environmental Education 2000 with 261 citations; Annals of Tourism Research 2003 with 57 citations). He also submitted a table of 'Average Citation Rates for papers published by field, 2003-2013' from Thomson Corporation, asserting the overall citation average for his field was 7.57 (corresponding to 'Agricultural Sciences'). Additionally, he pointed to his role as principal investigator for an international climate project, submitting a two-page handout co-authored by him proposing 'a new mechanism to extend international climate cooperation' through which host and investor countries may cooperate to reduce global emissions, along with an unfinished draft paper outlining the climate team concept. He also submitted a letter from a collaborator at EDF attesting to his central role in the climate team project.",
+      "aao_analysis": "The AAO found the evidence insufficient. Regarding citations, the AAO noted the petitioner did not establish that Thomson Corporation considered the named journals to be in the field of agricultural sciences (citation rate 7.57); the rate is higher (11.83) for 'Environment/Ecology.' The table provided averages but not percentile ranges, and an above-average citation rate alone is not an indication that a contribution is of major significance. Only one of the six listed articles appeared during the 2003-2013 range covered by the table, and the table reflected citation rates as of 2013, not the 2019 filing date. Regarding the heavily-cited 2000 article, the petitioner did not identify any specific contribution made by him and his co-authors, or explain how any such contribution has impacted the work of other forestry science scholars. The AAO stated that heavy citation can establish that an article has attracted attention, but by itself it cannot establish the nature or significance of the original contributions contained in that article. Regarding the climate team project, the record did not show that any nations have actually taken concrete steps to adopt the proposal, or that it has otherwise impacted the field. While a collaborator attested to the petitioner's central role, the petitioner did not establish that his involvement amounts to a contribution of major significance.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner satisfied only two of the ten initial evidentiary criteria (scholarly articles and judging), failing to meet the minimum three required. Because the petitioner did not meet the initial evidence threshold, the AAO stated it need not provide a formal final merits determination under Kazarian. Nevertheless, the AAO reviewed the record in the aggregate and concluded it did not support a finding that the petitioner established the acclaim and recognition required for the classification. The AAO emphasized that the classification is highly restrictive and intended for individuals already at the top of their fields, and the petitioner's work in forest and environmental science did not demonstrate sustained national or international acclaim or a 'career of acclaimed work in the field' as contemplated by Congress.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Silverman v. Eastrich Multiple Investor Fund, L.P., 51 F.3d 28 (3rd Cir. 1995)",
+    "APWU v. Potter, 343 F.3d 619 (2nd Cir. 2003)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723 (Sept. 19, 1990)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "NOV212019_01B2203",
+  "source": "benchmark_unseen"
+}

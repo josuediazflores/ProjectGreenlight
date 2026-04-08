@@ -1,0 +1,54 @@
+{
+  "petitioner_background": "The petitioner is an artist and representational painter from Iran who conducts collaborative shows with her twin sister. She sought classification as an individual of extraordinary ability in the arts under INA \u00a7 203(b)(1)(A) (EB-1A). At the time of filing, she was employed as a part-time lecturer at a university. Her work includes video paintings and exhibitions held in the United States, Iran, and China.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Articles about the petitioner published in identified publications (names redacted) that discuss her artistic work, along with evidence indicating that the publications are major media.",
+      "aao_analysis": "The Director determined that the petitioner met this criterion, and the AAO agreed. The record contained articles about the petitioner in publications that discuss her artistic work, along with evidence establishing that the publications qualify as major media. The petitioner therefore satisfied this regulatory criterion.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "Testimonials from art professors, critics, curators, and other professionals in the field; online reviews of her work favorably describing her paintings and commending her unique style; a review by an art gallery owner and dealer ranking the petitioner and her sister highly and noting their work 'takes the viewer on a unique internal journey'; invoices demonstrating sales of her paintings to multiple members of the public; a letter from the Director of a gallery in Massachusetts stating that after exhibiting her work the gallery experienced 'a packed opening, sales, and wide-eyed intrigue by every visitor'; over 20 reference letters from critics and colleagues, including one describing her work as 'beautiful and arresting' and another describing it as 'rich and multi-layered'; letters discussing artistic restrictions in Iran and how her expression flourished in the United States; letters attesting to her growing acclaim, including one stating she 'would be able to establish herself as a top artist here,' one describing her as 'rising to the top of her field,' and a professor stating she and her sister 'are in the position of becoming super stars in the art world if they are given the chance'; on appeal, a new letter stating the petitioner and her sister 'are artists at the top of their field of endeavor' with room to expand their influence; and evidence of sales and exhibition invitations postdating the filing of the petition.",
+      "aao_analysis": "The AAO found the evidence insufficient. The online reviews favorably described her paintings and unique style but did not provide specific examples of how her work substantially impacted the visual arts field or influenced other artists. The gallery dealer's review acknowledging her talent was commendable but not indicative of original contributions of major significance \u2014 the plain language of the criterion requires more than attestations of talent and originality; the petitioner must have demonstrably impacted her field. Evidence of artwork sales demonstrates only the ability to earn a living as an artist, not major significance \u2014 impact must extend beyond affiliated galleries and buyers (citing Visinscaia). The 20+ reference letters were deemed vague and solicited, failing to specifically identify contributions or provide concrete examples of how they influenced the field (citing Kazarian). Letters discussing her prospective impact and describing her as 'aspiring' or 'rising' did not demonstrate influence already had on the field \u2014 the regulation requires contributions already made prior to filing. The new appellate letter and post-filing evidence of sales/invitations were unpersuasive because eligibility must be established at the time of filing, and USCIS cannot consider facts coming into being subsequent to filing (citing Izummi and Bardouille).",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "Evidence that the petitioner displayed her paintings at artistic exhibitions in the United States, Iran, and China, and displayed her work in other artistic performances, including the inaugural performance of an interactive exhibition at a venue in Massachusetts.",
+      "aao_analysis": "The Director concluded, and the AAO agreed, that the petitioner satisfied this criterion. The record confirmed her work was on display at artistic exhibitions and showcases in multiple countries, as well as in other artistic performances such as the inaugural interactive exhibition in Massachusetts.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "Not substantively submitted; the AAO noted in a footnote that the record contained insufficient evidence to establish eligibility under this criterion.",
+      "aao_analysis": "The AAO noted in a footnote that the record contained insufficient evidence to establish the petitioner's eligibility under the high salary or other remuneration criterion at 8 C.F.R. \u00a7 204.5(h)(3)(ix).",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner only satisfied two of the ten regulatory criteria (published material and display at artistic exhibitions) and failed to meet the required minimum of three criteria, thus failing the initial evidence requirements. Because she did not meet the required number of criteria, the AAO did not need to fully address the totality of materials in a final merits determination, but noted that upon reviewing the record in the aggregate it did not support a finding that she established the level of expertise required for the classification. Additionally, the petitioner failed to demonstrate her intent to continue working in her claimed area of extraordinary ability upon entry as required by INA \u00a7 203(b)(1)(A)(iii) and 8 C.F.R. \u00a7 204.5(h)(5), because her part-time lecturer position was not shown to be in the area of her claimed extraordinary ability and she did not establish she would otherwise be working in visual arts in the United States.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "8 C.F.R. \u00a7 103.2(b)(1), (12)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Kazarian v. USCIS, 580 F.3d 1030 (9th Cir. 2009)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Izummi, 22 I&N Dec. 169 (Assoc. Comm'r 1998)",
+    "Matter of Bardouille, 18 I&N Dec. 114 (BIA 1981)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "DEC142017_01B2203",
+  "source": "benchmark_unseen"
+}

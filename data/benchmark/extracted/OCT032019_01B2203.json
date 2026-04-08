@@ -1,0 +1,52 @@
+{
+  "petitioner_background": "The petitioner is an actress seeking classification as an individual of extraordinary ability in the arts under EB-1A (INA \u00a7 203(b)(1)(A)). The record indicates she is a member of an artists' union and has served as a judge in beauty and talent competitions. Articles about her work have been published on ambebi.ge, a media outlet that appears to be Georgian based on the domain.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "membership",
+      "evidence_submitted": "Evidence of the Petitioner's membership in an artists' union, including the union's bylaws indicating that the organization requires outstanding achievements as determined by its own experts.",
+      "aao_analysis": "The Director determined that the Petitioner satisfied this criterion, and the AAO agreed. The evidence in the record establishes the Petitioner's membership in an artists' union whose bylaws indicate that the organization requires outstanding achievements as determined by its own experts.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Correspondence confirming that the Petitioner served as a judge in beauty and talent competitions.",
+      "aao_analysis": "The Director determined that the Petitioner satisfied this criterion, and the AAO agreed. The record includes correspondence confirming that the Petitioner served as a judge in beauty and talent competitions.",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Articles about the Petitioner, including at least one article published on ambebi.ge that profiles the actress and discusses her acting roles. On appeal, the Petitioner also provided comparative evidence about the monthly number of unique online visits to ambebi.ge.",
+      "aao_analysis": "The Director concluded that the Petitioner had not met this criterion, finding in part that the articles submitted were not about her and her work in the field. However, upon review, the AAO found that at least one of the submitted articles published on ambebi.ge was in fact about the Petitioner relating to her work in the field \u2014 it profiles the actress and discusses her acting roles. The AAO noted that the Petitioner's comparative evidence on ambebi.ge's monthly unique online visits had not yet been considered by the Director. The AAO remanded this issue for the Director to determine whether the article meets the remaining requirements of the published material criterion.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The Petitioner claimed in her RFE response that she met the criterion for original contribution under 8 C.F.R. \u00a7 204.5(h)(3)(v), and submitted evidence in support of this claim (specific evidence not described in the AAO decision).",
+      "aao_analysis": "The AAO found that the Director did not address the Petitioner's claim that she met the criterion for original contribution at 8 C.F.R. \u00a7 204.5(h)(3)(v). The Petitioner noted on appeal that the Director 'overlooked a regulatory criteria of evidence of the alien's artistic contributions of major significance in the field that the [petitioner] claimed.' The AAO remanded the matter for the Director to analyze the evidence submitted under this criterion.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for entry of a new decision. The AAO found two errors: (1) the Director failed to address the Petitioner's claim under the original contribution criterion at 8 C.F.R. \u00a7 204.5(h)(3)(v), which had been raised in the RFE response, and (2) the Director incorrectly concluded that no submitted articles were about the Petitioner and her work, when at least one article on ambebi.ge in fact profiled her and discussed her acting roles. The AAO directed that if the Director determines the Petitioner satisfies at least one additional criterion beyond the two already met (membership and judging), the decision should include a final merits analysis of the totality of the record evaluating sustained national or international acclaim and whether she is among the small percentage at the very top of her field.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update ADJ 1-14 (Dec. 22, 2010)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues: The Director failed to address the Petitioner's claim under the original contribution criterion (8 C.F.R. \u00a7 204.5(h)(3)(v)) that was raised in the RFE response, and incorrectly analyzed the published material criterion by concluding no articles were about the Petitioner when at least one qualifying article was in the record. These errors led the AAO to withdraw the Director's decision and remand for a new decision.",
+  "filename": "OCT032019_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,27 @@
+{
+  "petitioner_background": "The petitioner sought classification as an alien of extraordinary ability under Section 203(b)(1)(A) of the Immigration and Nationality Act. The record contains minimal information about the petitioner's specific field, nationality, or qualifications, though references to Korean-to-English translations and a letter from a former Vice-President/President of an unnamed organization suggest the petitioner may be of Korean background. The petitioner's achievements referenced span from 1987 to 2005. The Nebraska Service Center denied the petition on September 17, 2011, and the AAO summarily dismissed the subsequent appeal on August 22, 2012.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the motion to reopen and reconsider on three independent grounds. First, the motion was untimely filed \u2014 USCIS received it on September 25, 2012, which was 34 days after the August 22, 2012 unfavorable decision was issued, exceeding the 33-day deadline for mailed decisions under 8 C.F.R. \u00a7 103.5(a)(1)(i) and \u00a7 103.8(b), and neither the petitioner nor counsel demonstrated that the delay was reasonable or beyond their control. Second, the filing failed to include the required statement about whether the validity of the unfavorable decision was the subject of any judicial proceeding, as required by 8 C.F.R. \u00a7 103.5(a)(1)(iii)(C). Third, the filing did not meet substantive motion requirements: the submitted documents (an undated certificate of translation, a September 19, 2012 letter referencing achievements from 1987-2005, and an undated curriculum vitae) did not constitute 'new' evidence that was previously unavailable, and counsel failed to identify any incorrect application of law or USCIS policy or point to specific errors in the AAO's prior decision.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.8(b)",
+    "8 C.F.R. \u00a7 1.2",
+    "8 C.F.R. \u00a7 103.2(a)(7)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)(C)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "Matter of Singh, 24 I&N Dec. 331 (BIA 2007)",
+    "INS v. Abudu, 485 U.S. 94 (1988)",
+    "Matter of Cerna, 20 I&N Dec. 399 (BIA 1991)",
+    "Matter of Medrano, 20 I&N Dec. 216 (BIA 1990, 1991)",
+    "Matter of O-S-G-, 24 I&N Dec. 56 (BIA 2006)"
+  ],
+  "fraud_or_procedural_issues": "The motion was dismissed on multiple procedural grounds: (1) untimeliness \u2014 filed 34 days after the AAO's unfavorable decision, exceeding the 33-day deadline for mailed decisions, with no showing that the delay was reasonable or beyond the petitioner's control; (2) failure to submit the required statement under 8 C.F.R. \u00a7 103.5(a)(1)(iii)(C) regarding whether the validity of the unfavorable decision was the subject of any judicial proceeding; (3) failure to meet substantive motion requirements \u2014 the submitted evidence (undated translation certificate, September 19, 2012 letter, undated CV) did not qualify as 'new' evidence under Matter of Singh, and counsel did not identify any incorrect application of law or specific errors in the prior AAO decision. Additionally, counsel filed two Forms I-290B; the first was delivered September 21, 2012 and the second on September 25, 2012, with this decision relating to the second filing. The undated translation certificate also failed to specify which documents were translated, failing to overcome the prior finding that translations did not comply with 8 C.F.R. \u00a7 103.2(b)(3).",
+  "filename": "JAN252013_03B2203",
+  "source": "benchmark_unseen"
+}

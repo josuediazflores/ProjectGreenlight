@@ -1,0 +1,51 @@
+{
+  "petitioner_background": "The petitioner is a researcher in the biological/agricultural sciences, with work focused on plant biology, crop sustainability, seed priming, post-thaw recovery, and metabolome-transcriptome analysis. She sought first preference immigrant classification as an individual of extraordinary ability under INA section 203(b)(1)(A). At the time of filing, she had authored roughly 20 articles in peer-reviewed scientific journals which had generated a significant number of citations in her field.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence that she participated as a judge of the work of others in her field. Specific documentation details are not elaborated upon in the decision.",
+      "aao_analysis": "The Director determined that the petitioner satisfied this criterion, and upon de novo review the AAO agreed that the petitioner established this criterion. No further analysis was provided as this criterion was not in dispute on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted detailed letters from several researchers in her field describing the nature and impact of her work. The letter from Dr. [redacted] describes her work increasing crop sustainability in the face of climate change, stating she 'identified biomolecules ... with key role[s] in inducing seed-priming led improved germination performance and seedling tolerance to environmental stresses,' and noting she 'has published two pioneer studies on post-thaw recovery using onions and spinach leaves as the model systems' whose findings 'opened the door to improved plant cold hardiness from a new perspective and provided new directions.' A letter from Dr. [redacted] detailed her innovations in developing 'a computation pipeline that performs joint statistical analysis to integrate two high throughput biological datasets' which 'provides a wholistic view of the metabolome-transcriptome associations and reveals many novel findings that are often missed by the tradition approach.' This letter characterized her work as 'truly a unique and novel contribution to biological research' with 'direct applications in plant and animal breeding, as it identifies novel gene functions ... that are critical for improving agricultural productivity,' and confirmed the methodology 'can also be used to study many other metabolic pathways.'",
+      "aao_analysis": "The AAO disagreed with the Director's determination on this criterion. Applying the USCIS Policy Manual standard, the AAO first determined whether the petitioner had made original contributions and then whether they were of major significance to the field. The AAO found that the detailed expert letters explained the nature and significance of the petitioner's contributions with corroborating documentation, noting evidence of significant contributions can include published research that provoked widespread commentary or generated a high number of citations. The AAO credited the expert testimony describing her work on seed priming, post-thaw recovery in onions and spinach, and her novel computational pipeline for joint metabolome-transcriptome analysis. The AAO withdrew the Director's finding and concluded that the petitioner established she made original contributions of major significance in her field.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner established her authorship of roughly 20 articles in peer-reviewed, scientific journals in the field. Her articles have generated a significant number of citations in the field.",
+      "aao_analysis": "The Director determined that the petitioner satisfied this criterion, and upon de novo review the AAO agreed that the petitioner established this criterion. No further analysis was provided as this criterion was not in dispute on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner contended that she performed in a leading or critical role for a distinguished organization or establishment. Specific evidence details are not elaborated upon in the decision.",
+      "aao_analysis": "The AAO reserved this issue without analysis, citing INS v. Bagamasbad, 429 U.S. 24, 25 (1976), because the petitioner had already earned a final merits determination by meeting a requisite third evidentiary requirement, and agencies need not make 'purely advisory findings' on issues unnecessary to their decisions.",
+      "met": null
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "Upon de novo review, the AAO withdrew the Director's decision and remanded the matter for entry of a new decision. The AAO agreed with the Director that the petitioner satisfied the judging and scholarly articles criteria, but disagreed on the original contributions criterion, concluding the petitioner had established contributions of major significance based on expert letters describing her pioneering work on seed priming, post-thaw recovery, and her novel computational pipeline for metabolome-transcriptome analysis. Having met three criteria, the petitioner satisfied part one of the Kazarian two-step process. The AAO remanded for the Director to make the final merits determination in the first instance, rather than conducting that analysis itself.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 103.3",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "6 USCIS Policy Manual F.2(B)",
+    "INS v. Bagamasbad, 429 U.S. 24, 25 (1976)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "JAN162025_01B2203",
+  "source": "benchmark_unseen"
+}

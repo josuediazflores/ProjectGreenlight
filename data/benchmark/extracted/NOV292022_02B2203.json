@@ -1,0 +1,65 @@
+{
+  "petitioner_background": "The petitioner is a senior life science product consultant employed by a Fortune 500 corporation, seeking classification as an alien of extraordinary ability under EB-1A (INA \u00a7 203(b)(1)(A)). She asserts that she has created two original solutions of major significance to the life sciences industry and intends to continue her work focusing on the development of innovative solutions to support pharmaceutical drug and medical device development. She leads the entire product life cycle from ideation, screening, product definition, research, prototyping, design and development, through strategy, roadmap, go-to-market strategy, commercialization, and roll out.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted letters from her employer and its clients, including one from a client partner director for her employer describing her role as a senior life sciences product consultant and noting that she 'leads the entire product life cycle from ideation, screening, product definition, research, prototyping, design and development... strategy, roadmap, go-to-market strategy, commercialization, and roll out.' Additional letters came from a principal architect and senior engagement partner for her employer, and the director of R&D information research for one of her employer's clients, describing her leading role in product design, development, and implementation. She also provided copies of product design documentation and licensing contracts listing her as 'product owner' for products designed, developed and licensed to her employer's clients. She submitted evidence about her employer, including a recent report from an industry research group (E-) which analyzed the performance of 23 digital service providers in the life sciences industry using a framework providing an objective, data-driven, and comparative assessment, reflecting that her employer is considered an industry leader.",
+      "aao_analysis": "The AAO concluded that the petitioner met the plain language evidentiary requirements of 8 C.F.R. \u00a7 204.5(h)(3)(viii) to show that she performed in a leading or critical role for her employer, and that her employer has a distinguished reputation within her industry. The AAO withdrew the Director's determination to the contrary based on the letters describing her leadership of the product life cycle, the product documentation/licensing contracts identifying her as 'product owner,' and the E- industry report establishing her employer's distinguished reputation as a leader among 23 digital service providers in the life sciences industry.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence relating to the petitioner's participation as a judge of the work of others in her field (specific evidence not detailed in the AAO decision).",
+      "aao_analysis": "The Director determined that the petitioner submitted evidence satisfying this criterion, and the AAO did not disturb that finding.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "Evidence relating to the petitioner's authorship of scholarly articles (specific articles not detailed in the AAO decision).",
+      "aao_analysis": "The Director determined that the petitioner submitted evidence satisfying this criterion, and the AAO did not disturb that finding.",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner submitted evidence relating to membership in associations that require outstanding achievements (specific associations not detailed in the AAO decision).",
+      "aao_analysis": "The Director found that the petitioner did not satisfy this criterion. On appeal, the petitioner asserted she meets this criterion, but because the AAO found she already met the leading/critical role criterion (which, combined with judging and scholarly articles, satisfied the three-criterion threshold), the AAO did not need to consider whether she also met this criterion.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner asserted she created two original solutions of major significance to the life sciences industry (specific contributions not detailed in the AAO decision).",
+      "aao_analysis": "The Director found that the petitioner did not satisfy this criterion. On appeal, the petitioner asserted she meets this criterion, but because the AAO found she already met three criteria (leading role, judging, and scholarly articles), it did not need to consider whether she also met this additional criterion.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner initially submitted evidence relating to high salary or other significantly high remuneration in relation to others under 8 C.F.R. \u00a7 204.5(h)(3)(ix), but specific salary evidence was not detailed.",
+      "aao_analysis": "The Director found the petitioner did not satisfy this criterion. The petitioner did not pursue this criterion on appeal and did not contest the Director's decision regarding it. The AAO deemed the issue waived and did not address it, citing Matter of M-A-S-, 24 I&N Dec. 762, 767 n.2 (BIA 2009).",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for a new decision. The AAO found that the petitioner met the initial evidence requirement by satisfying at least three criteria (judging, scholarly articles, and now leading/critical role, which the AAO added on appeal). Because the petitioner met the initial evidence threshold, the AAO determined that the totality of the evidence must be analyzed in a final merits determination to assess whether it shows sustained national or international acclaim and that the petitioner is among the small percentage at the top of her field. Since the Director's decision did not include such a final merits determination, the AAO remanded the matter for the Director to consider the entirety of the record and determine eligibility, expressing no opinion on the ultimate resolution.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of M-A-S-, 24 I&N Dec. 762 (BIA 2009)",
+    "6 USCIS Policy Manual F.2(B)(2)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner waived the high salary criterion by not contesting the Director's decision on that issue on appeal, per Matter of M-A-S-. Additionally, the Director failed to conduct a final merits determination, which is the procedural basis for the remand.",
+  "filename": "NOV292022_02B2203",
+  "source": "benchmark_unseen"
+}

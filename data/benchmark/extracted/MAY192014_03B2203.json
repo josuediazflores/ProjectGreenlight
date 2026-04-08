@@ -1,0 +1,90 @@
+{
+  "petitioner_background": "The petitioner is an ice sculptor (visual artist) who filed an Immigrant Petition for Alien Worker as an Alien of Extraordinary Ability under Section 203(b)(1)(A) of the INA. The petition was filed on July 12, 2010 with the Nebraska Service Center. The petitioner did not respond to the director's RFE, and the petition was denied on the merits on December 14, 2010. The case has gone through multiple unsuccessful appeals and motions, with the current filing being a third motion to reopen and reconsider.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence of qualifying awards received in the field of ice sculpting.",
+      "aao_analysis": "The director concluded that the petitioner received qualifying awards pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(i). This criterion was deemed met.",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "Prior counsel Mr. [name redacted] referenced the petitioner's overall 'membership in the ice sculpting field' in his May 18, 2012 letter.",
+      "aao_analysis": "The AAO found that counsel referenced the petitioner's overall 'membership in the ice sculpting field' rather than 'in associations in the field' as required under 8 C.F.R. \u00a7 204.5(h)(3)(ii). The submission failed to establish that qualifying evidence existed that prior counsel could have submitted.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Prior counsel referenced published material about the petitioner in his May 18, 2012 letter.",
+      "aao_analysis": "The AAO found that counsel referenced published material about the petitioner without responding to the director's concern that the record lacks evidence that the material appeared in professional or major trade publications or other major media as required under 8 C.F.R. \u00a7 204.5(h)(3)(iii).",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "Prior counsel referenced business contributions to one museum in his May 18, 2012 letter.",
+      "aao_analysis": "The AAO found that counsel referenced business contributions to one museum rather than contributions in the petitioner's field of ice sculpting as required under 8 C.F.R. \u00a7 204.5(h)(3)(v). Thus the evidence did not address contributions of major significance in the field.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner submitted evidence that he displayed his work.",
+      "aao_analysis": "The director concluded that the petitioner displayed his work pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(vii). This criterion was deemed met.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "Prior counsel discussed the petitioner's purported leading or critical role in his May 18, 2012 letter, referencing roles that postdate the filing of the petition.",
+      "aao_analysis": "The AAO found that counsel's discussion of the petitioner's purported leading or critical role pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(viii) involved roles that postdate the filing of the petition. Such roles are not probative evidence of the petitioner's eligibility as of the date of filing, citing 8 C.F.R. \u00a7 103.2(b)(1), (12); Matter of Katigbak, 14 I&N Dec. at 49.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "Prior counsel addressed what the petitioner will earn and taxes he has paid.",
+      "aao_analysis": "The AAO found that counsel addressed what the petitioner will earn and taxes he has paid without demonstrating that the petitioner had already commanded a high salary in comparison with others in the field as required under 8 C.F.R. \u00a7 204.5(h)(3)(ix).",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "Prior counsel addressed critical accolades the petitioner, a visual artist, received.",
+      "aao_analysis": "The AAO found that counsel addressed critical accolades the petitioner, a visual artist, received without explaining how such accolades demonstrate commercial success in the performing arts as documented by sales data or box office receipts, as required under 8 C.F.R. \u00a7 204.5(h)(3)(x). The AAO noted this criterion applies to performing arts, not visual arts.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed both the motion to reopen and the motion to reconsider. The motion to reopen failed because the petitioner did not submit new evidence pertaining to his eligibility at the time of filing \u2014 the form and email were previously submitted, and the statement was not a proper affidavit. The motion to reconsider failed because the petitioner did not provide any pertinent precedent decision or other legal authority to support a finding that the AAO's prior determination was in error. The petitioner's ineffective assistance of counsel claim failed because he did not meet the procedural requirements of Matter of Lozada and did not show prejudice \u2014 even if former counsel had submitted the proposed evidence, it would not have satisfied a third criterion because the submissions addressed the wrong things (membership in field rather than associations, roles postdating filing, future earnings rather than past high salary, critical accolades for a visual artist rather than commercial success in performing arts). The prior AAO decision was affirmed and the petition remains denied.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(h)(1)(A)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "8 C.F.R. \u00a7 103.2(b)(12)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Matter of Katigbak, 14 I&N Dec. 45, 49 (Reg'l Comm'r 1971)",
+    "Matter of Izummi, 22 I&N Dec. 169, 175 (Comm'r 1998)",
+    "Matter of Bardouille, 18 I&N Dec. 114 (BIA 1981)",
+    "INS v. Doherty, 502 U.S. 314, 323 (1992)",
+    "INS v. Abudu, 485 U.S. 94, 108 (1988)",
+    "Matter of Medrano, 20 I&N Dec. 216, 220 (BIA 1990, 1991)",
+    "Matter of O-S-G-, 24 I&N Dec. 56, 60 (BIA 2006)",
+    "Matter of Lozada, 19 I&N Dec. 637 (BIA 1988)",
+    "Matter of D-R-, 25 I&N Dec. 445, 457 (BIA 2011)",
+    "Maravilla Maravilla v. Ashcroft, 381 F.3d 855, 858 (9th Cir. 2004)",
+    "Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103, 1108 (E.D.N.Y. 1989), aff'd, 905 F.2d 41 (2d Cir. 1990)",
+    "Avyr Associates, Inc. v. Meissner, No. 95 Civ. 10729, 1997 WL 188942 (S.D.N.Y. Apr. 18, 1997)",
+    "1756, Inc. v. United States Att'y Gen., 745 F. Supp. 9 (D.C. Dist. 1990)",
+    "Matter of Otiende, 26 I&N Dec. 127, 128 (BIA 2013)"
+  ],
+  "fraud_or_procedural_issues": "Multiple procedural issues: (1) The petitioner failed to respond to the director's RFE issued August 19, 2010. (2) The original appeal was summarily dismissed because the petitioner failed to supplement it with a promised brief or additional evidence. (3) The first motion to reopen/reconsider was filed by an unaffected party. (4) The petitioner's statement in the current motion was not a proper affidavit as it was not sworn to or affirmed before an officer authorized to administer oaths. (5) The petitioner raised an ineffective assistance of counsel claim against two former attorneys but failed to comply with any of the procedural requirements of Matter of Lozada (no affidavit detailing the agreement with former counsel, no proof of notifying former counsel, no statement regarding disciplinary complaint) and failed to show prejudice. (6) Some evidence referenced events occurring after the filing date of the petition, which is not probative of eligibility at the time of filing.",
+  "filename": "MAY192014_03B2203",
+  "source": "benchmark_unseen"
+}

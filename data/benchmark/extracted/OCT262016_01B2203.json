@@ -1,0 +1,16 @@
+{
+  "petitioner_background": "The petitioner is an opera singer seeking classification as an 'alien of extraordinary ability' in the arts under INA section 203(b)(1)(A). The Nebraska Service Center Director denied the Form I-140 petition, and the AAO dismissed the subsequent appeal on August 11, 2016. The petitioner then filed a motion to reopen or reconsider, which is the subject of this decision.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied the motion as untimely filed. A motion must be filed within 33 calendar days of the date the unfavorable decision was served by mail. The AAO served its dismissal decision on August 11, 2016, and USCIS received the motion (initially styled as a second appeal) on September 14, 2016 \u2014 34 days after service. Although the Form I-290B was initially sent to an improper filing location and ultimately refiled on September 29, 2016, the AAO treated it as if properly filed on September 14, 2016, which was still one day beyond the 33-day deadline. The AAO noted that regardless of whether the filing is construed as a motion to reopen, motion to reconsider, or appeal, it was untimely.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.8(b)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(i)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: The motion was denied as untimely. USCIS received the motion 34 days after the service date of the unfavorable decision, exceeding the 33-day filing deadline under 8 C.F.R. \u00a7\u00a7 103.5(a)(1)(i) and 103.8(b). Additionally, the Form I-290B was initially sent to an improper filing location and rejected administratively, though the AAO treated the original September 14, 2016 receipt date as the effective filing date for timeliness purposes. The petitioner also incorrectly styled the filing as a second appeal rather than a motion to reopen/reconsider.",
+  "filename": "OCT262016_01B2203",
+  "source": "benchmark_unseen"
+}

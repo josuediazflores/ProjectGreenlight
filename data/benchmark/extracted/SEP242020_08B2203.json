@@ -1,0 +1,56 @@
+{
+  "petitioner_background": "The petitioner is an artisan, photographer, and fashion designer seeking classification as an individual of extraordinary ability under the EB-1A first preference category. The Director of the Nebraska Service Center denied the petition, and the AAO dismissed the appeal. The AAO subsequently denied two previous motions, and this decision concerns a third motion to reconsider and a motion to reopen. Nationality is not specified in the decision.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner submitted evidence of display of her work at artistic exhibitions or showcases (specific details not elaborated in this motion decision).",
+      "aao_analysis": "The Director originally determined that the petitioner satisfied this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vii). This finding was not disturbed in subsequent proceedings.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted evidence of performing in a leading or critical role for organizations or establishments with a distinguished reputation (specific details addressed in an earlier decision not elaborated here).",
+      "aao_analysis": "In the first motion, the AAO concluded that the petitioner met this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(viii), bringing her total met criteria to two.",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted two articles from the magazine domus design (one from 2006 and one from 2007). The 2007 article credits her with 'photographs in the interior' and references 'fresh paints posters with large lilies.' She quoted a passage stating 'I have used stylish accessories to soften the strict orthogonal details, inspired by the Japanese home. This resulted in a delicate glamour...' On the motion to reopen, she submitted a 2014 article from Photographer magazine reflecting published material about her work, along with screenshots from Photographer's website and claims of circulation of 21,500 copies from the website and inside cover of the magazine.",
+      "aao_analysis": "The AAO clarified it did not require published material be 'primarily about' the beneficiary, but the articles from domus design must still be 'about the alien... relating to the alien's work in the field' per the regulation. The articles contained descriptions and photographs of apartment interiors without being about the petitioner. Although the articles mentioned her as one of the designers, they did not discuss her \u2014 the petitioner's own quote showed a discussion of stylish accessories in the apartment rather than about her. Citing Negro-Plumpe v. Okin, articles not about a petitioner do not meet this criterion. Additionally, the petitioner did not demonstrate that domus design qualifies as a professional or major trade publication or other major medium. Regarding the 2014 Photographer magazine article submitted on motion to reopen, although it was about her, the petitioner did not demonstrate Photographer qualifies as a professional or major trade publication or other major medium. Per Braga v. Poulos, USCIS need not rely on self-promotional material of the publisher, and the petitioner did not present objective, probative evidence corroborating the website's assertions. The 21,500 circulation figure was not shown to be significant compared to other publications.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "In the first motion, the petitioner submitted an interior design proposal and a 2017 IRS Form 1099 reflecting nonemployee compensation of $9,800. In the second motion, she submitted occupational employment and wage estimate entries from the U.S. Bureau of Labor Statistics, average salary reports from Payscale.com, and job postings from indeed.com and upwork.com for fashion designers and photographers. On the current motion to reconsider, she claimed the $9,800 compensation was for work as a photographer on a 'Bedroom Design Concept' project, explaining she created collages from photographs for bedding designs. On motion to reopen, she submitted an invoice and pictures for work where she was paid $3,374.79 for one digital print (size 18' on metallic paper and framing).",
+      "aao_analysis": "The AAO found that the petitioner's comparable salary evidence was for fashion designers and photographers, but her actual remuneration was as an interior designer, creating a mismatch. She did not provide evidence of past remuneration for work in fashion design and photography. On motion, her claim that she acted as a photographer for the Bedroom Design Concept was not corroborated \u2014 she first claimed she used her own photographs, then claimed she created collages from the client's photographs, which was internally inconsistent. Moreover, the IRS Form 1099 reflected compensation for services (not salary), so she needed to show significantly high remuneration compared to other interior designers, not fashion designers and photographers. Regarding the $3,374.79 invoice submitted on motion to reopen, the invoice and check were dated after the filing of the initial petition, and per 8 C.F.R. \u00a7 103.2(b)(1) and Matter of Katigbak, eligibility must be established from the time of filing through adjudication, so this evidence could not be considered.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied both the motion to reconsider and the motion to reopen. The petitioner did not establish that the AAO incorrectly applied law or policy in its latest decision regarding the published material and high salary criteria. The new evidence submitted on motion to reopen did not demonstrate she fulfilled at least three of the ten evidentiary criteria \u2014 the Photographer magazine article failed because she did not establish Photographer as a major medium, and the $3,374.79 invoice was dated after the petition filing date and thus could not establish eligibility at the time of filing. Because the petitioner only met two criteria (display and leading/critical role), the AAO could not proceed to a final merits determination under Kazarian.",
+  "legal_citations": [
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "Section 203(b)(1)(A)(ii) of the Act",
+    "Negro-Plumpe v. Okin, 2:07-CV-820-ECR-RJJ (D. Nev. Sept. 8, 2008)",
+    "Braga v. Poulos, No. CV 06 5105 SJO (C.D. CA July 6, 2007), aff'd 2009 WL 604888 (9th Cir. 2009)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "Matter of Katigbak, 14 I&N Dec. 45 (Reg'l Comm'r 1971)",
+    "In Re: 5303295 (Jan. 16, 2020)",
+    "USCIS Policy Memorandum PM 602-0005.1 (Dec. 22, 2010)"
+  ],
+  "fraud_or_procedural_issues": "The AAO noted an internal inconsistency in the petitioner's account of her role on the 'Bedroom Design Concept' project \u2014 she first claimed she used her own photographs, then later claimed she created collages from the client's photographs \u2014 which undermined her assertion that she worked as a photographer rather than an interior designer. Additionally, procedural issue: the $3,374.79 invoice and check submitted on motion to reopen were dated after the filing of the initial petition, violating the requirement under 8 C.F.R. \u00a7 103.2(b)(1) and Matter of Katigbak that eligibility be established from the time of filing through adjudication.",
+  "filename": "SEP242020_08B2203",
+  "source": "benchmark_unseen"
+}

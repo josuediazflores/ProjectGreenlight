@@ -1,0 +1,53 @@
+{
+  "petitioner_background": "The petitioner is a business consultant operating in the area of human resources/personnel management consulting. He claims to have made a profound impact and advancements in the personnel management space in Russian-speaking countries and the business culture among post-Soviet countries, moving them toward more efficient, humane and ethical operations. He sought classification as an alien of extraordinary ability under EB-1A (INA \u00a7 203(b)(1)(A)). Before the Director, he claimed to meet five of the ten regulatory criteria.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The Petitioner provided evidence of his receipt of an award issued by an entity/ministry of the Russian Federation (specific name redacted), received in 2017. He argued that because the award was issued by an entity within the Russian government, it should be considered nationally or internationally recognized, and compared it to awards issued by the U.S. government.",
+      "aao_analysis": "The AAO noted the Director's conclusion appeared to contain a typographical error (analysis pointed to not meeting requirements but conclusion stated it was met), so the AAO made its own assessment. The AAO acknowledged the Petitioner was the recipient of the award, satisfying that element. However, the AAO questioned whether the accolade was nationally or internationally recognized. The AAO held that the mere fact that an award is issued by a national government agency does not prove it meets the regulatory requirements. The record lacked evidence demonstrating its issuance was reported on publicly, and did not reveal recognition extending beyond the issuing entity. The AAO rejected the comparison to U.S. government awards, stating that national/international recognition does not necessarily result from the entity that issued the accolade, but through awareness of it in the field nationally or internationally, evidenced through means such as national or international-level media coverage.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The Petitioner provided several articles he characterized as appearing in professional or major trade publications. This included an article from businessinsider.com, which the AAO noted was a press release distributed through PRWeb (Cision PRWeb), described as an online news distribution and publicity service enabling users to increase web visibility of their news.",
+      "aao_analysis": "The Director had expressed doubts about the objective nature of much of the evidence, and the AAO shared these concerns. The AAO noted that while businessinsider.com is a form of major media, the article the Petitioner provided was a press release distributed via PRWeb, which is a publicity/news distribution service rather than independent journalism. Setting those concerns aside, the AAO explained that USCIS policy (6 USCIS Policy Manual F.2) requires circulation figures for comparative purposes to determine whether resources qualify as professional/major trade publications or major media. Because the record did not contain circulation statistics to compare against the provided resources, the Petitioner did not demonstrate eligibility under this criterion.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The Petitioner initially provided foreign tax documents and consulting contracts. In response to the RFE, he asserted he earns a certain hourly rate as a business consultant in the United States but did not identify corroborating evidence. He provided two articles showing his U.S.-based earnings were significantly higher than average hourly earnings for a business consultant. He converted his foreign earnings to U.S. dollars and compared them with average hourly earnings in those articles. On appeal, he claimed to establish his U.S. hourly earnings through a Form 1040-NR (U.S. Nonresident Alien Income Tax Return) for 2020. The record also contained two letters claiming what top consultants earn in the United States and in Russia.",
+      "aao_analysis": "The AAO found multiple deficiencies. First, the Petitioner did not identify evidence demonstrating the tax forms were actually filed and contained accurate figures, nor did he specify what material demonstrated that his 2020 U.S. earnings were solely for business consulting services. Second, USCIS policy reflects that the agency should not evaluate foreign country earnings, convert them to U.S. dollars, and use that as a means of comparison. Third, the Petitioner conceded he was unable to locate market evidence showing how much management consultants earn on an hourly basis in his home country. Fourth, the articles provided only average hourly earnings for business consultants, but the plain language of the regulation requires the salary to be high compared to others in the field \u2014 average statistics do not meet this requirement, citing Strategati, LLC v. Sessions. Finally, the two letters claiming what top consultants earn were not corroborated by other evidence and were considered inadequate conclusory assertions that USCIS is not required to accept.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the Petitioner failed to satisfy at least three of the ten regulatory criteria required under 8 C.F.R. \u00a7 204.5(h)(3), as he did not have a major internationally recognized award. Because his arguments failed on three criteria (awards, published material, and high salary), he could not numerically meet the required number of criteria, and the AAO declined to reach the remaining claimed criteria (original contributions and leading/critical role) under the principle in INS v. Bagamasbad. The AAO additionally noted that even reviewing the record in the aggregate, it did not support a finding of sustained national or international acclaim or that the Petitioner is among the small percentage at the very top of the field. The AAO emphasized that this is a highly restrictive classification intended for individuals already at the top of their fields, not those progressing toward that goal.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375 (AAO 2010)",
+    "Matter of Christo's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022)",
+    "Matter of Caron International, 19 I&N Dec. 791, 795 (Comm'r 1988)",
+    "Matter of V-K-, 24 I&N Dec. 500, n.2 (BIA 2008)",
+    "6 USCIS Policy Manual F.2 (Appendices)",
+    "Strategati, LLC v. Sessions, No. 3:18-CV-01200-H-AGS, 2019 WL 2330181 (S.D. Cal. May 31, 2019)",
+    "Fano v. O'Neill, 806 F.2d 1262, 1266 (5th Cir. 1987)",
+    "1756, Inc. v. The Attorney General of the United States, 745 F. Supp. 9, 17 (D.D.C. 1990)",
+    "INS v. Bagamasbad, 429 U.S. 24, 25 (1976)",
+    "Matter of D-L-S-, 28 I&N Dec. 568, 576-77 n.10 (BIA 2022)",
+    "Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)"
+  ],
+  "fraud_or_procedural_issues": "The AAO noted a procedural issue with the Director's decision: under the awards criterion, the Director's analysis pointed to the evidence not satisfying the regulatory requirements, but the conclusion stated 'the submitted evidence meets this criterion,' which the AAO treated as a typographical error. The AAO also observed that the Director did not adequately explain how certain recommendation letters were not in accord with other evidence or why they were questionable, which might have assuaged the Petitioner's objections regarding the application of Matter of Caron International. Additionally, the AAO raised concerns about the objective nature of the businessinsider.com article, which was actually a press release distributed through PRWeb, a publicity service \u2014 suggesting the Petitioner mischaracterized promotional/paid content as independent journalism. No fraud or willful misrepresentation findings were made.",
+  "filename": "FEB082023_02B2203",
+  "source": "benchmark_unseen"
+}

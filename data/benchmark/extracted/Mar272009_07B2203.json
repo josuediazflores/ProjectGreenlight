@@ -1,0 +1,25 @@
+{
+  "petitioner_background": "The petitioner is an alien of extraordinary ability in the arts seeking classification as an employment-based immigrant pursuant to section 203(b)(1)(A) of the Immigration and Nationality Act. The decision does not discuss the petitioner's specific field, nationality, or career qualifications in detail because it addresses only procedural issues regarding the timeliness of the appeal. The Form I-140 was filed on September 15, 2006.",
+  "evidence_per_criterion": [],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO rejected the appeal as untimely filed, noting it was received 175 days after the director's October 10, 2007 decision, well beyond the 33-day deadline for mailed decisions under 8 C.F.R. \u00a7 103.5a(b). However, the AAO found that the untimely appeal met the requirements of a motion to reopen and reconsider, because the director's decision was flawed in two respects: (1) it erroneously stated that no response to the RFE had been received, when FedEx tracking confirmed the response was received by the Nebraska Service Center on August 6, 2007, well before the August 15, 2007 deadline; and (2) the decision was mailed to previous counsel rather than to current counsel's address as indicated on the July 25, 2007 Form G-28, violating 8 C.F.R. \u00a7 103.2(b)(19) and 8 C.F.R. \u00a7 103.5a(a)(1). The AAO returned the matter to the director to consider the untimely appeal as a motion to reopen and reconsider, with instructions that the new decision must thoroughly address all evidence submitted in response to the RFE and be sent to counsel at her address of record.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(i)",
+    "8 C.F.R. \u00a7 103.5a(b)",
+    "8 C.F.R. \u00a7 1.1(h)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(i)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(v)(B)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.2(b)(19)",
+    "8 C.F.R. \u00a7 103.5a(a)(1)",
+    "8 C.F.R. \u00a7 103.2(a)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)"
+  ],
+  "fraud_or_procedural_issues": "Significant procedural issues: (1) The director denied the petition on October 10, 2007, erroneously stating that no response to the RFE had been received, when in fact the petitioner's response was received by the Nebraska Service Center on August 6, 2007 (verified by FedEx Express tracking receipt), well before the August 15, 2007 deadline. (2) The director's decision was mailed to previous counsel's address rather than to current counsel's address as indicated on the July 25, 2007 Form G-28 Notice of Entry of Appearance as Attorney, in violation of 8 C.F.R. \u00a7 103.2(b)(19) and 8 C.F.R. \u00a7 103.5a(a)(1). As a result, neither the petitioner nor her current attorney of record received written notification of the decision, contributing to the 175-day delay in filing the appeal. The AAO rejected the appeal as untimely but remanded for treatment as a motion to reopen and reconsider.",
+  "filename": "Mar272009_07B2203",
+  "source": "benchmark_unseen"
+}

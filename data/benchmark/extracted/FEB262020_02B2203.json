@@ -1,0 +1,47 @@
+{
+  "petitioner_background": "The petitioner is a mechanical engineer who earned a Ph.D. at a university and is now employed as a mechanical engineer at a company in California. He sought classification as an alien of extraordinary ability under INA \u00a7 203(b)(1)(A) (EB-1A). His work involved robotics research at a laboratory, focusing on three interrelated projects: robotic adhesive/gripping technology, robotic technology for space debris removal, and technology for UAV/drone applications.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence of having served as a peer reviewer of papers submitted for publication in journals or presentation at conferences, along with invitations to perform peer review indicating he was selected based on his expertise in the field.",
+      "aao_analysis": "The Director found that the petitioner met this criterion, and the AAO agreed. However, in the final merits determination, the AAO noted that the judging was only in the context of routine peer review, and the petitioner had not shown that the number of requests or the reputation of the requesting organizations reflected standing above others performing similar work.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted citations to his published work and letters from experts in his field, both from collaborators and from researchers who had not worked with him (including researchers who trained at the same laboratory but whose time did not overlap with the petitioner's). The evidence related to three interrelated projects at the laboratory: robotic adhesive/gripping technology, pioneering robotic technology for space debris removal, and technology for UAV/drone applications. A professor who led the laboratory described the petitioner's work applying adhesive technology inspired by nature and developing novel robotic grippers, stating the adhesive developed in their laboratory was unique and that the petitioner's contributions included harnessing forces for acquiring and handling large objects in space and enabling quadrotors to land and perch on walls and ceilings. The professor also stated that the new technology the petitioner developed for handling glass panels and delicate objects could reduce manufacturing costs by more than 50% compared to pneumatics and vacuum systems. A group leader from a sponsoring organization stated that before the petitioner joined the project, early results 'achieved less than 20% of the material's potential,' but after the petitioner identified 'intrinsic design flaws' and 'designed several prototypes with his new insights,' performance improved to '96% material efficiency.'",
+      "aao_analysis": "The Director found that the petitioner did not meet this criterion, but the AAO reversed on appeal. The AAO agreed that the Director did not give sufficient weight to letters in the record from both collaborators and independent researchers. The AAO found that some of the petitioner's published papers attracted coverage in science publications, researchers at other laboratories attested that they relied on and built upon the petitioner's published work in robotics, and the petitioner provided sufficient detail to establish the nature and significance of his contributions to the laboratory projects.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence of his authored scholarly articles. At the time of filing, Google Scholar listed 19 articles by the petitioner, 17 of which had been cited.",
+      "aao_analysis": "The Director found that the petitioner met this criterion, and the AAO agreed.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "Although the AAO found the petitioner satisfied three initial evidentiary criteria, the petitioner failed the final merits determination. The AAO concluded that any acclaim resided predominantly with the laboratory and its head rather than specifically with the petitioner \u2014 recognition of the laboratory preceded his involvement, and acclaim did not follow him after leaving. The petitioner's judging was only routine peer review without showing standing above others. Regarding citations, the petitioner did not meet Thomson Reuters' definition of a 'highly cited' researcher (only 4 of his articles fell in the top 1%, and those were recent 2016-2017 articles with only 2-12 citations when single-digit counts sufficed), and he did not provide a basis to compare his citations to other articles from the same laboratory. The AAO also found that highlighted passages in citing articles did not constitute specific endorsements of the petitioner's work \u2014 some referenced 'motion capture systems' not developed by the petitioner, others merely called his work 'promising,' and still others were self-citations by mentors and collaborators. The record showed the petitioner trained successfully at a highly-regarded robotics laboratory but did not earn sustained individual acclaim at the very top of his field.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "USCIS Policy Memorandum PM 602-0005.1"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "FEB262020_02B2203",
+  "source": "benchmark_unseen"
+}

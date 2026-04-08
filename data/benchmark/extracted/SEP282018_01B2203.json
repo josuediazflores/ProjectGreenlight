@@ -1,0 +1,51 @@
+{
+  "petitioner_background": "The petitioner is a technology entrepreneur seeking classification as an individual of extraordinary ability in business under EB-1A (INA \u00a7 203(b)(1)(A)). He has worked at multiple technology companies, including serving as Director of Product Innovation and New Businesses leading a New Product Innovation Group of 25 employees, and previously worked at a file sharing and collaboration platform where he built a user engagement/communications system. He co-founded a company referenced in multiple tech publications and launched a social network product in India with 70 million users, as well as a mobile app and a collaboration technology that was acquired prior to public launch.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Articles from Yahoo Finance, TechCrunch.com, Tech Times and other publications that name the petitioner as a co-founder of a company. The petitioner is quoted in one of the articles (Yahoo Finance). Additionally, an article published by Le Temps, a Swiss multi-media news source (www.letemps.ch), about the petitioner and his work. On appeal, the petitioner submitted evidence of circulation statistics for the Le Temps website to support it as a qualifying publication.",
+      "aao_analysis": "The AAO held the Yahoo Finance, TechCrunch, Tech Times and similar articles are not about the petitioner and do not discuss his individual abilities. Although they identify him, they are about the company he co-founded. The quotation in the Yahoo Finance article comes from a joint statement from all of the co-founders providing a brief overview of what the company does. The AAO distinguished Muni v. INS, where articles discussed the petitioner's 'hitting ability and his record as a defenseman,' noting that here the articles do not focus directly on the petitioner or contain information about him beyond identifying him as a co-founder. Regarding the Le Temps article, the AAO did not address the qualifications of the publication because the original article is in a foreign language, and the record contains an uncertified translation and lacks a copy of the original source. Under 8 C.F.R. \u00a7 103.2(b)(3), foreign language documents must be accompanied by a full English language translation certified by a competent translator. Because the petitioner did not submit a properly certified translation, the AAO could not meaningfully determine whether the translated material supports his claims.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "A letter from the Director of Engineering at a file sharing and collaboration platform stating that before the petitioner launched the communications project, it would take months of engineering effort to launch a basic email campaign, but with the system built by the petitioner, advanced campaigns can be launched within hours without needing engineering intervention; the letter states his contributions had 'an enormous positive impact' on the company, described as 'the leading file sharing and collaboration platform in the world,' and that 'his contribution cannot be overstated.' A letter from the CEO stating the petitioner 'identified an opportunity in social networking and tirelessly worked outside of his regular duties on weekends to single-handedly build and launch' what is described as 'the largest social network to originate in India.' A letter from the SVP and Chief Product Officer calling the petitioner 'one of the most sought-after experts in the field of consumer social products' and stating the social network has '70 [million] users.' References to the petitioner's experience building a mobile app. A letter stating the petitioner created a technology that 'revolutionized the way enterprises and consumers collaborate' which was 'so disruptive' that a company acquired it before its public launch. Evidence that the petitioner has been invited to advise companies in two locations.",
+      "aao_analysis": "The Director held the petitioner met this criterion without explaining her reasoning. On de novo review, the AAO found the record indicates the petitioner has made original contributions but does not establish these have been of major significance in the field. Citing Kazarian, the AAO noted letters that repeat the regulatory language but do not explain how an individual's contributions have influenced the field are insufficient. The Director of Engineering's letter states the petitioner's contributions positively impacted the company, but the record does not demonstrate how these contributions impacted the field to reach the level of major significance. Regarding the India social network, while acknowledging the success of launching the product, the AAO found without evidence to corroborate what it is and how it impacts the field, the petitioner has not established original contributions of major significance. The evidence about the mobile app was insufficient to demonstrate how it represents a contribution of major significance. Regarding the acquired collaboration technology, the AAO noted it is unclear whether it is still being improved internally or whether it has been introduced as a product in the industry, so the record does not demonstrate how it constitutes a contribution of major significance. Regarding the advisory roles at the two companies, the petitioner has not shown what original contributions he provided these companies or how they have impacted the field.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "Evidence that at one company, the petitioner led a New Product Innovation Group of 25 employees and currently serves as the Director of Product Innovation and New Businesses. Evidence that at the file sharing and collaboration platform, the petitioner developed a product and systems architecture at a crucial time for the company which greatly decreased the length of time it would take to launch a new user engagement strategy, significantly improving user engagement and increasing the company's growth and revenue.",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner meets this criterion. A leading role should be apparent by its position in the overall organizational hierarchy and through the role's matching duties. A critical role should be apparent from the petitioner's impact on the organization or establishment's activities. The record shows his leading role in heading the New Product Innovation Group and serving as Director of Product Innovation and New Businesses, and his critical role at the file sharing platform where he developed architecture that greatly decreased the time to launch user engagement strategies, improving growth and revenue.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "Evidence of the petitioner's salary as Director of Product and Development at his employer, along with documentation from the U.S. Department of Labor, PayScale, and Glassdoor demonstrating his annual salary is high in relation to others in the field.",
+      "aao_analysis": "The AAO found that the petitioner established he meets this criterion based on the salary documentation and comparative wage data from DOL, PayScale, and Glassdoor showing his salary is high relative to others in the field.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner established he met only two of the ten initial evidentiary criteria (leading or critical role and high salary), rather than the required three. The AAO reversed the Director's finding on original contributions of major significance, concluding the record showed original contributions but not that they rose to the level of major significance in the field. The AAO affirmed that the published material criterion was not met because the articles were about the company rather than the petitioner, and the one article about him from Le Temps lacked a properly certified English translation. Because the petitioner failed the initial evidence threshold, the AAO did not need to conduct a full final merits determination, though it noted that upon reviewing the record in the aggregate, it does not support a finding of the sustained acclaim and recognition required for the classification.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Muni v. INS, 891 F. Supp. 440 (N.D. Ill. 1995)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue with evidence submission: the petitioner submitted a foreign language article from Le Temps with an uncertified English translation and failed to include a copy of the original source document, violating 8 C.F.R. \u00a7 103.2(b)(3), which requires foreign language documents to be accompanied by a full English language translation certified by a competent translator. This procedural defect prevented the AAO from meaningfully evaluating the translated material.",
+  "filename": "SEP282018_01B2203",
+  "source": "benchmark_unseen"
+}

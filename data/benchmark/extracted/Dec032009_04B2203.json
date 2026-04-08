@@ -1,0 +1,22 @@
+{
+  "petitioner_background": "The petitioner is self-represented and filed an Immigrant Petition for Alien Worker as an Alien of Extraordinary Ability under Section 203(b)(1)(A) of the Immigration and Nationality Act. No substantive information about the petitioner's field of work, nationality, or qualifications is provided in the decision, as the AAO did not reach the merits of the case. The matter was handled solely on procedural grounds related to the timeliness of the appeal.",
+  "evidence_per_criterion": [],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO rejected the appeal as untimely filed. The director issued the decision on April 8, 2009, and properly notified the petitioner of the 33-day filing deadline. Although the petitioner dated the appeal May 7, 2009, it was not received by the director until May 12, 2009, which was 34 days after the decision was issued. Neither the Act nor the regulations grant the AAO authority to extend the 33-day time limit. Because the untimely appeal met the requirements of a motion to reopen, the AAO returned the matter to the director to consider it as a motion to reopen and render a new decision.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.3(a)(2)(i)",
+    "8 C.F.R. \u00a7 103.5a(b)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(i)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(v)(B)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)"
+  ],
+  "fraud_or_procedural_issues": "The appeal was untimely filed. The director issued the decision on April 8, 2009, and the appeal was received on May 12, 2009, which was 34 days after issuance \u2014 one day beyond the 33-day deadline for mailed decisions. The director erroneously annotated the appeal as timely and forwarded it to the AAO. The AAO rejected the appeal as untimely but, pursuant to 8 C.F.R. \u00a7 103.3(a)(2)(v)(B)(2), treated the filing as a motion to reopen and returned the matter to the director for further consideration.",
+  "filename": "Dec032009_04B2203",
+  "source": "benchmark_unseen"
+}

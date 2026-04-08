@@ -1,0 +1,29 @@
+{
+  "petitioner_background": "The petitioner is a martial artist who sought classification as an individual of extraordinary ability under the EB-1A first preference immigrant category via Form I-140. The Director of the Texas Service Center denied the petition, the AAO dismissed the appeal, and subsequently dismissed a combined motion to reconsider and reopen. The matter came before the AAO on a second motion to reconsider.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence for the judging criterion at 8 C.F.R. \u00a7 204.5(h)(3)(iv). On the prior combined motion, he provided additional documentation to support eligibility for this criterion. On the current motion to reconsider, the petitioner submitted a brief that, aside from the introductory paragraph, was identical to his prior motion brief, without any mention or discussion of the AAO's decision dismissing his combined motions.",
+      "aao_analysis": "The Director originally concluded that the petitioner satisfied only the judging criterion. However, in dismissing the appeal, the AAO withdrew the Director's determination relating to the judging criterion and decided that the petitioner did not fulfill any of the claimed criteria. On the combined motion, the AAO determined that the new evidence did not demonstrate the petitioner's eligibility for the judging criterion. On the current motion, the petitioner merely disagreed with the AAO's conclusions without showing that the AAO erred as a matter of law or pointing to policy that contradicts the analysis of the evidence, which is not a ground to reconsider the decision.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the motion to reconsider for two independent reasons. First, the petitioner failed to include the required statement under 8 C.F.R. \u00a7 103.5(a)(1)(iii) about whether the validity of the unfavorable decision has been or is the subject of any judicial proceedings, meaning the motion did not meet the applicable requirements under 8 C.F.R. \u00a7 103.5(a)(4). Second, the petitioner's current motion brief was identical to his prior motion brief (except for the introductory paragraph) and did not establish that the AAO's decision was based on an incorrect application of law or policy. Merely disagreeing with the AAO's conclusions without showing legal error or pointing to contradictory policy is not a ground to reconsider a decision. Therefore, the petitioner did not establish that he met the requirements of a motion to reconsider.",
+  "legal_citations": [
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "Matter of O-S-G-, 24 I&N Dec. 56, 58 (BIA 2006)",
+    "In Re: 9809356 (AUG. 11, 2020)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner failed to include the required judicial proceeding statement under 8 C.F.R. \u00a7 103.5(a)(1)(iii), which requires a statement about whether the validity of the unfavorable decision has been or is the subject of any judicial proceedings. Additionally, the petitioner submitted a motion brief that was essentially identical to his prior motion brief (except for the introductory paragraph), without addressing the AAO's prior decision dismissing his combined motions, which the AAO found procedurally improper under Matter of O-S-G-.",
+  "filename": "APR052021_04B2203",
+  "source": "benchmark_unseen"
+}

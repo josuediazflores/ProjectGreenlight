@@ -1,0 +1,60 @@
+{
+  "petitioner_background": "The petitioner is an industrial and systems engineer with a long history in automotive engineering, who also works part-time as a translator and voice-over performer in Spanish and English. He received an Ingeniero Industrial y de Sistemas degree from the Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey, Mexico in 1984, and has more than ten years of experience in industrial management, including work at Visteon Corporation's plant in Queretaro, Mexico as an Engineering Manager and Quality Manager. He sought classification under INA \u00a7 203(b)(2) as a member of the professions holding an advanced degree or as an alien of exceptional ability, together with a national interest waiver of the job offer/labor certification requirement, seeking employment as an industrial engineering manager, translator, and voice-over performer.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "Counsel cited a 'certificate acknowledging the petitioner's receipt of the Shingo Prize,' described by counsel as 'a very high level national prize recognizing outstanding professional achievement.' The petitioner submitted only the certificate itself, in Spanish, without any background information or documentation about the Shingo Prize and without a certified English translation. The certificate referred to the petitioner's 'participaci\u00f3n' and contained repeated references to 'Regi\u00f3n Centro de M\u00e9xico,' with an English-language legend reading 'Shingo Prize for excellence in manufacturing.'",
+      "aao_analysis": "The AAO rejected this evidence, holding that unsupported assertions of counsel do not constitute evidence (citing Matter of Obaigbena, Matter of Laureano, and Matter of Ramirez-Sanchez). Because no certified translation was provided as required by 8 C.F.R. \u00a7 103.2(b)(3), the certificate did not even establish that the petitioner won the prize \u2014 he may have received it for being involved with the prize committee, as the certificate referenced his 'participaci\u00f3n.' The references to 'Regi\u00f3n Centro de M\u00e9xico' suggested the prize was regional, not national as counsel claimed, and the English legend 'Shingo Prize for excellence in manufacturing' suggested the prize is awarded to companies rather than individuals. The AAO found the petitioner had not established he received 'a very high level national prize,' and noted that counsel's unsupported and likely inaccurate claims raised broader credibility doubts about other exhibits under Matter of Ho.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner identified himself on his Form I-485 adjustment application as a 'lay member' of the American Bar Association, offering 'credentialed legal and para professional translation and interpretation.'",
+      "aao_analysis": "The AAO found that the petitioner had not established any memberships that require or demonstrate a degree of expertise significantly above that ordinarily encountered in his occupation. The AAO also noted it was unclear how the petitioner was 'credentialed,' as the record proved that the State of Michigan denied him a court translator's credentials (he scored 73% on the Michigan State Court Administrative Office Foreign Language Certification Program interpreter examination on March 2, 2007, below the minimum passing score of 80%).",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner submitted general evidence regarding his career and employment at companies including Visteon Corporation, but no specific salary documentation demonstrating earnings significantly above the norm in his occupation.",
+      "aao_analysis": "The AAO found that the petitioner had not established that his earnings have significantly exceeded the norm in his occupation.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal on multiple independent and alternative grounds. First, the AAO affirmed the director's denial of the national interest waiver, finding that while the petitioner had a productive career with some success in production management and translation/voice-over work, the record did not offer objective support for the petitioner's opinion of his talents, and he had not established that he so stands out from his peers in importance or influence that a waiver of the job offer requirement would serve the national interest under Matter of New York State Dept. of Transportation. Second, on de novo review, the AAO found the petitioner had not demonstrated he qualifies for the underlying classification at all \u2014 he made contradictory claims about his occupation (Industrial Production Manager SOC 11-3051 vs. Engineering Managers SOC 11-9041), failed to submit a credential evaluation showing his 1984 Mexican degree equates to a U.S. bachelor's degree (made more troubling by a June 8, 2007 Michigan High School Equivalency Certificate suggesting the state did not consider him to even have a high school equivalent before 2007), and failed to establish exceptional ability by meeting at least three of the six regulatory criteria. The asserted labor shortage argument was rejected as actually supporting the need for labor certification rather than waiving it. Credibility concerns arising from the unsupported Shingo Prize claims further undermined the remaining evidence under Matter of Ho.",
+  "legal_citations": [
+    "Section 203(b)(2) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(2)",
+    "Section 203(b)(2)(A) of the Act",
+    "Section 203(b)(2)(B)(i) of the Act",
+    "Section 101(a)(32) of the Act",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 204.5(k)(2)",
+    "8 C.F.R. \u00a7 204.5(k)(3)",
+    "8 C.F.R. \u00a7 204.5(k)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(k)(3)(ii)(A)",
+    "8 C.F.R. \u00a7 204.5(k)(3)(ii)(B)",
+    "8 C.F.R. \u00a7 204.5(k)(3)(ii)(C)",
+    "8 C.F.R. \u00a7 204.5(k)(3)(ii)(D)",
+    "8 C.F.R. \u00a7 204.5(k)(3)(ii)(E)",
+    "8 C.F.R. \u00a7 204.5(k)(3)(ii)(F)",
+    "8 C.F.R. \u00a7 204.5(k)(4)(ii)",
+    "5 U.S.C. \u00a7 557(b)",
+    "S. Rep. No. 55, 101st Cong., 1st Sess., 11 (1989)",
+    "56 Fed. Reg. 60897, 60900 (November 29, 1991)",
+    "Matter of New York State Dept. of Transportation, 22 I&N Dec. 215 (Commr. 1998)",
+    "Matter of Katigbak, 14 I&N Dec. 45, 49 (Regl. Commr. 1971)",
+    "Matter of Obaigbena, 19 I&N Dec. 533, 534 n.2 (BIA 1988)",
+    "Matter of Laureano, 19 I&N Dec. 1, 3 n.2 (BIA 1983)",
+    "Matter of Ramirez-Sanchez, 17 I&N Dec. 503, 506 (BIA 1980)",
+    "Matter of Ho, 19 I&N Dec. 582, 591 (BIA 1988)",
+    "Janka v. U.S. Dept. of Transp., NTSB, 925 F.2d 1147, 1149 (9th Cir. 1991)",
+    "Dor v. INS, 891 F.2d 997, 1002 n. 9 (2d Cir. 1989)"
+  ],
+  "fraud_or_procedural_issues": "Multiple procedural and credibility issues: (1) The petitioner failed to submit the required Form ETA-750B (or equivalent sections of ETA Form 9089) in duplicate as required by 8 C.F.R. \u00a7 204.5(k)(4)(ii), meaning he did not properly apply for the national interest waiver, though the AAO proceeded to review on the merits. (2) Counsel indicated on appeal that a brief and further evidence would be forthcoming within 30 days, but over a year later nothing further had been submitted. (3) The petitioner submitted two nearly identical witness letters (from officials at Visteon), which the director flagged and counsel failed to address on appeal. (4) The petitioner submitted the Shingo Prize certificate in Spanish without the required certified translation under 8 C.F.R. \u00a7 103.2(b)(3), and counsel's characterization of it as a 'very high level national prize' appeared unsupported and likely inaccurate, raising broader credibility concerns under Matter of Ho. (5) The petitioner claimed on his resume he was 'capable of performing as a Court Interpreter' despite having failed the Michigan court interpreter certification examination with a 73% score. (6) The petitioner identified himself as offering 'credentialed' legal translation services on his I-485 despite Michigan having denied him court translator credentials. (7) The petitioner made contradictory claims about his intended occupation, citing two different SOC codes (11-3051 Industrial Production Manager and 11-9041 Engineering Managers). (8) The petitioner never specified whether he was seeking classification as an advanced-degree professional or as an alien of exceptional ability.",
+  "filename": "Sep082009_04B2203",
+  "source": "benchmark_unseen"
+}

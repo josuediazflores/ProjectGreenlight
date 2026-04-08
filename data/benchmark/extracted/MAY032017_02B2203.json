@@ -1,0 +1,48 @@
+{
+  "petitioner_background": "The petitioner is a soccer player seeking classification as an individual of extraordinary ability in athletics under the EB-1A first preference immigrant category. He previously played on a team that won two bronze medals at an unspecified competition. The Director of the Texas Service Center denied his Form I-140 petition, and his subsequent motions to reopen and reconsider were also denied. The AAO dismissed his appeal, and this decision addresses his motion to reconsider that dismissal.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted eight articles published in an unnamed sports magazine (redacted in the decision). On motion, he quoted excerpts from these previously submitted articles and argued they were about him. He cited the Merriam-Webster Online Dictionary definition of 'about' as 'with regard to: concerning,' arguing that the regulation does not require articles to be primarily about him. He also asserted that the magazine is a major trade publication and claimed it is the most popular and highest-circulated print sports media in Georgia.",
+      "aao_analysis": "The AAO found that a review of the articles did not indicate they pertained to the petitioner. Rather, they discussed soccer matches in which he participated and teams of which he was a member. Although he was briefly mentioned along with other players, the articles did not include additional information about him, such as his biography or competitive history. The AAO cited Negro-Plumpe v. Okin for the proposition that articles about a show are not about the actor. Regarding the magazine's status as major media, the AAO clarified it had not agreed the magazine was the most popular and highest-circulated \u2014 rather, it had determined the petitioner did not demonstrate that circulation was indicative of major media status in the country. Without supporting documentation such as circulation statistics for other publications in Georgia, the petitioner did not establish that the magazine is a major trade publication or other major media.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner submitted evidence of his participation in soccer competitions, characterizing them as 'athletic showcases.' On motion, he referenced the Merriam-Webster Online Dictionary definition of 'showcase' as 'an event, occasion, etc., that shows the abilities or good qualities of someone or something in an attractive or favorable way,' and argued that 'artistic' only modifies 'exhibitions,' not 'showcases.'",
+      "aao_analysis": "The AAO found that this criterion applies to artists who have displayed their work at 'artistic exhibitions or showcases,' rather than soccer players who have participated in competitions. The AAO cited the Adjudicator's Field Manual, which instructs adjudicators to '[d]etermine whether the venues (virtual or otherwise) where the alien's work was displayed were artistic exhibitions or showcases' (emphasis in original), emphasizing that exhibitions or showcases must be artistic in nature. The petitioner did not point to legal authorities supporting his position that soccer matches are artistic in nature. Accordingly, he did not demonstrate that the AAO incorrectly applied the regulation.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted reference letters stating he made 'significant contribution to the most important victories regarding the team's two bronze medals' at an unspecified competition, and that 'he played one of the decisive roles in the team's success \u2014 both as a player and as a person.' On motion, he referenced the Merriam-Webster Online Dictionary, noting that 'critical' means 'crucial,' defined as 'very important,' and argued no further elaboration was required beyond the plain language of the regulation.",
+      "aao_analysis": "The AAO found that while the reference letters made such claims, they did not sufficiently explain how the petitioner's roles were either leading or critical, or whether his performances led to the successes or standings of his teams. Neither the petitioner nor his references provided specific examples showing how his roles rose to a level of leading or critical. The AAO held that repeating the language of the statute or regulations does not satisfy a petitioner's burden of proof, citing Fedin Bros. Co. v. Sava and Avyr Associates v. Meissner. In the absence of corroborative evidence, statements in reference letters alone are insufficient to satisfy this criterion.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied the motion to reconsider. The petitioner did not demonstrate that he meets any of the criteria under 8 C.F.R. \u00a7 204.5(h)(3)(i)-(x), of which he must satisfy three. He failed to establish that the AAO's prior decision was based on an incorrect application of law or policy, or that it was incorrect based on the evidence in the record. The petitioner's reliance on dictionary definitions and restatement of regulatory language was insufficient to overcome the evidentiary deficiencies identified in the prior decision. The AAO noted the petitioner had requested an additional 30 days to supplement his motion but had not submitted anything further by the date of the decision.",
+  "legal_citations": [
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Negro-Plumpe v. Okin, 2:07-CV-820-ECR-RJJ, 2008 WL 10697512 (D. Nev. Sept. 8, 2008)",
+    "Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103 (E.D.N.Y. 1989), aff'd, 905 F.2d 41 (2d Cir. 1990)",
+    "Avyr Associates, Inc. v. Meissner, No. 95 CIV. 10729, 1997 WL 188942 (S.D.N.Y. Apr. 18, 1997)",
+    "USCIS Policy Memorandum PM-602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; Revisions to the Adjudicator's Field Manual (AFM) (Dec. 22, 2010)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner requested an additional 30 days to supplement his motion, but as of the date of the decision, the AAO had received nothing further. No fraud or misrepresentation findings were made.",
+  "filename": "MAY032017_02B2203",
+  "source": "benchmark_unseen"
+}

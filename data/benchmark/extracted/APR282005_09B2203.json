@@ -1,0 +1,49 @@
+{
+  "petitioner_background": "The petitioner is a software engineer from Ukraine (formerly U.S.S.R.) seeking classification as an alien of extraordinary ability in the sciences under INA \u00a7 203(b)(1)(A). At the time of filing on November 13, 2002, he was working as a Senior Software Engineer with Supra Telecom of Miami, Florida, and later joined Lexar Media, Inc. in August 2003. He has been residing in the United States since 2000 and previously worked at Electronpribor Design Bureau in Kiev as a System Architect and Team Leader starting in 1989. The petitioner is self-represented.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "Multiple award certificates and honorable diplomas with English translations presented during the 1980's in Kiev, Ukraine. Many were pre-printed 'form' documents with the petitioner's name in blank spaces. Several referred to him as 'The best young specialist of the branch' or noted recognition at a 'conference of young scientists and specialists.' Awards were presented by the 'Mayak' Kiev Scientific and Industrial Association and the Scientific Research Institute of Electro Mechanical Instruments. Also submitted an 'Inventor of the U.S.S.R.' medal received in 1988. Additionally submitted a January/February 2004 Photoelectric Imaging Magazine article announcing Lexar Media as winner of the 2003 Cool2 Award for its Image Rescue 2.0 'Data Recovery' application, along with a letter from Neal Galbo, Senior Director at Lexar Media, noting the petitioner was responsible for coding the Microsoft Windows version of Image Rescue.",
+      "aao_analysis": "The AAO found the Ukrainian awards inadequate because the existence of pre-printed 'form' certificates suggested multiple winners, and awards for 'young specialists' meant the petitioner only competed against his approximate age group rather than the entire field. The awards from the 'Mayak' association and the Scientific Research Institute of Electro Mechanical Instruments reflected institutional or regional recognition, not national or international. No evidence was provided showing the significance of the 'Inventor of the U.S.S.R.' medal. The Lexar Media Cool2 Award evidence was rejected because it came into existence after the petition's filing date (citing 8 C.F.R. \u00a7 103.2(b)(12) and Matter of Katigbak), the petitioner's name did not appear in the article, and there was no indication he was the leading force behind the data recovery aspect for which the award was given. The AAO emphasized that the petitioner failed to provide evidence of the total number of awards presented, how many others were recognized, selection criteria, or media coverage, and that simply alleging an award is nationally recognized is insufficient.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Four articles appearing in the newspaper Peredovik during the 1980's. The petitioner stated that Peredovik 'had about 4,000 subscribers.'",
+      "aao_analysis": "The AAO found that absent evidence of significant national distribution, Peredovik could not be concluded to qualify as major media. The AAO noted that to qualify as major media, a publication should have significant national or international distribution, and an alien would not earn acclaim at the national level from a local publication. The AAO further observed that the record contained no evidence showing the petitioner was the primary subject of any major media articles published subsequent to the 1980's, failing the sustained acclaim requirement.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "Evidence that the petitioner authored several patents in the U.S.S.R. during the 1980's. Several witness letters including: (1) Adnan Zejnilovic, VP of IT and CIO at Supra Telecom, stating the petitioner designed system and software architecture for next generation systems and led development using Visual C++, SQL Server, DCOM, and Java; (2) Evenor Ponce, Software Engineer at Supra Telecom, stating the petitioner's algorithms increased system performance 'by at least ten times'; (3) Neal Galbo of Lexar Media describing hiring the petitioner for his strong software background; (4) Vitaliy Timkiv of SaM Solution in Kiev, describing collaborative work on the Scheduling System for Delta Airlines and Media Face 2 for Neato LLC; (5) Anatoliy Ksyunz, Senior Systems Engineer at Video King Gaming Systems, describing the petitioner's work on the ELS-218 avionics project at Electronpribor Design Bureau and calling him 'one of the five best engineers in the company'; (6) Tom Archer of Archer Consulting Group commenting on the petitioner's popular online article; (7) Edward Gadziemski of SoftGee LLC commenting on how the petitioner's online article saved his firm time and inspired his own articles about OLE DB with WTL.",
+      "aao_analysis": "The AAO held that granting of a patent only documents originality, not that it constitutes a significant contribution. The record contained no evidence that the patented innovations were widely utilized on a national or international scale or hailed as major contributions by engineers throughout the industry. Regarding witness letters, the AAO found that only two witnesses (Archer and Gadziemski) had not worked directly with the petitioner, and the absence of substantial independent testimony raised doubt about the extent of his reputation. Letters from colleagues at affiliated institutions were not first-hand evidence of acclaim outside those institutions. The AAO noted that an individual with sustained acclaim should be able to produce ample unsolicited materials. The ELS-218 project and the characterization as 'one of the five best engineers in the company' showed only institutional recognition. The AAO also noted that articles authored by the petitioner belonged under the scholarly articles criterion, not contributions, because the regulatory criteria are separate and distinct.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "Evidence of authorship of six journal articles from 1984 to 1990 and several internet articles posted online.",
+      "aao_analysis": "The AAO held that publication or internet posting of a scholarly article is not presumptive evidence of sustained acclaim; the greater field's reaction to the article must also be considered. The AAO stated that the citation history is a more reliable gauge of influence than the mere act of publication. Frequent citation by independent engineering researchers would demonstrate widespread interest, but few or no citations suggest the work has gone largely unnoticed. In this case, there was no evidence that the petitioner's articles were widely cited in software engineering literature.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "In response to the director's request for evidence, the petitioner noted that his work had been presented at technical conferences and trade shows.",
+      "aao_analysis": "The AAO found this criterion applies to the visual arts rather than scientific or engineering research. In science and engineering, acclaim is generally not established by merely presenting work at a conference or trade show. The record contained no documentation that presentation of one's work is unusual in the petitioner's field, that his invitations were extended only to a few top software engineers, or that he served as a keynote speaker at a national or international software engineering conference. Many professional fields hold conferences to present work, and participation does not elevate the petitioner above almost all others in the field.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner failed to demonstrate that he met at least three of the regulatory criteria necessary to establish sustained national or international acclaim. Review of the record did not establish that the petitioner had distinguished himself as a software engineer/software architect to such an extent that he had achieved sustained national or international acclaim or was within the small percentage at the very top of his field. The evidence was not persuasive that his achievements set him significantly above almost all others in his field at the national or international level. The AAO also noted that given the petitioner's residence in the U.S. since 2000, it was reasonable to expect him to have earned national acclaim in the U.S. during that time, and the burden of proof in visa petition proceedings remained entirely with the petitioner, who had not sustained that burden.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 103.2(b)(12)",
+    "Matter of Katigbak, 14 I&N Dec. 45 (Comm. 1971)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "The AAO noted a procedural issue regarding the Lexar Media Cool2 Award evidence: it came into existence subsequent to the petition's filing date, and a petitioner must establish eligibility at the time of filing per 8 C.F.R. \u00a7 103.2(b)(12) and Matter of Katigbak. No fraud or misrepresentation findings were made.",
+  "filename": "APR282005_09B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,20 @@
+{
+  "petitioner_background": "The petitioner sought classification as an employment-based immigrant under section 203(b)(1)(A) of the Immigration and Nationality Act as an alien of extraordinary ability. The decision does not specify the petitioner's field of endeavor, nationality, or specific career details. The petition was filed on August 25, 2005 with the Vermont Service Center.",
+  "evidence_per_criterion": [],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the director's decision and remanded the petition for further action. While the AAO agreed with the director that the evidence accompanying the petition was not adequate to demonstrate the petitioner's eligibility for the benefit sought, the AAO found that the director erred by denying the petition without first issuing a request for evidence as required by 8 C.F.R. \u00a7 103.2(b)(8). The regulation requires that where initial evidence is missing or does not fully establish eligibility, the Service shall request the missing initial evidence. The director was instructed to request any additional evidence deemed warranted and allow the petitioner 12 weeks to respond, with any new adverse decision to be certified to the AAO for review.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 103.2(b)(8)",
+    "8 C.F.R. \u00a7 103.2(b)(12)",
+    "Matter of Katigbak, 14 I&N Dec. 45, 49 (Comm. 1971)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Policy memorandum by William Yates, Requests for Evidence (RFE) and Notices of Intent to Deny (NOID), HQOPRD 70/2 (February 16, 2005)"
+  ],
+  "fraud_or_procedural_issues": "Procedural error: The director denied the petition on February 21, 2006 without first issuing a request for evidence (RFE) or notice of intent to deny (NOID), despite the evidence being insufficient to establish eligibility. Under 8 C.F.R. \u00a7 103.2(b)(8), where there is no evidence of ineligibility but the initial evidence does not fully establish eligibility, the Service shall request the missing initial evidence. The AAO found this procedural failure warranted withdrawal of the director's decision and remand for further action.",
+  "filename": "Nov292006_01B2203",
+  "source": "benchmark_unseen"
+}

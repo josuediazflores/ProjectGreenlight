@@ -1,0 +1,69 @@
+{
+  "petitioner_background": "The petitioner is a business specialist from Chile (inferred from her affiliation with the Chilean Chamber of Shopping Centers) who sought classification as an individual of extraordinary ability under EB-1A, section 203(b)(1)(A) of the INA. She filed Form I-140 with the Texas Service Center, which was denied. She appealed to the AAO, asserting she submitted sufficient evidence to establish eligibility and that the Director erred in reviewing the information.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The Petitioner claimed and submitted evidence with the initial petition to satisfy the lesser nationally or internationally recognized prizes or awards criterion under 8 C.F.R. \u00a7 204.5(h)(3)(i). Specific awards are not detailed in the AAO decision.",
+      "aao_analysis": "The Director's decision only addressed this criterion (awards) but did not adequately explain the reasons for denial. The AAO found the Director's treatment insufficient for review and remanded the matter so the Director could properly consider all evidence submitted and specifically address its deficiencies and inconsistencies.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The Petitioner submitted a December 2022 letter from the president of the Chamber of Shopping Centers of Chile that 'certif[ied] the participation of the Petitioner as an integral part of the Chamber of Shopping Centers through the company' [redacted]. On appeal, she submitted an April 2023 letter 'certif[ying] that [the Petitioner] is a member of the Chilean Chamber of Shopping Centers, representing' [redacted]. She also submitted Article One of the Constitutive Assembly of the Chilean Chamber of Shopping Centers A.G. of August 2008 establishing it as a trade association of shopping centers, Article Five explaining two categories of members (A and B) \u2014 Category A members 'own or operate' at least one shopping center and supervise and coordinate operation under uniform rules, while Category B members are 'linked to category A members and ... act or participate in the commercial activity of the Shopping Centers in a capacity other than that of owners or operators' \u2014 and Article Ten stating that legal entity members 'must designate their representative before the association.'",
+      "aao_analysis": "The AAO noted a discrepancy between the December 2022 letter (stating she participates 'through the company') and the April 2023 letter (stating she 'is a member ... representing' the company). The AAO directed the Director to determine whether the Petitioner has established that she is a member of the trade association pursuant to Article Five, rather than merely a representative pursuant to Article Ten. The AAO emphasized it is the Petitioner's burden to resolve these discrepancies with independent, objective evidence pointing to where the truth lies, citing Matter of Ho. Further, the AAO noted that the record does not show that either Category A or B membership in the trade association requires outstanding achievements as judged by recognized national or international experts.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The Petitioner claimed and submitted evidence with the initial petition to satisfy the published material criterion under 8 C.F.R. \u00a7 204.5(h)(3)(iii), which requires published material about the individual in professional or major trade publications or other major media relating to her work. Specific publications are not detailed in the AAO decision.",
+      "aao_analysis": "The Director did not address this criterion in the decision, stating only that 'the petitioner did not submit evidence for' the remaining criteria under 8 C.F.R. \u00a7 204.5(h)(3)(ii)\u2013(x). The AAO found this inadequate because an officer's written decision must fully explain the specific reasons for denial under 8 C.F.R. \u00a7 103.3(a)(1)(i), and remanded for proper consideration.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "In response to the Director's RFE, the Petitioner claimed and submitted evidence of original business-related contributions of major significance in the field under 8 C.F.R. \u00a7 204.5(h)(3)(v). Specific contributions are not detailed in the AAO decision.",
+      "aao_analysis": "The Director did not address this criterion in the decision, stating only that 'the petitioner did not submit evidence for' the remaining criteria. The AAO found this inadequate and remanded for proper consideration of the RFE response evidence.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The Petitioner claimed for the first time on appeal that she meets the authorship of scholarly articles criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vi). She did not address this criterion when responding to the Director's RFE, despite the RFE advising her of what type of evidence she could submit in support of it.",
+      "aao_analysis": "The AAO declined to consider this criterion because the Petitioner had been put on notice of a deficiency in the evidence through the RFE and given an opportunity to respond, but did not do so. The AAO will not accept evidence offered for the first time on appeal, citing Matter of Soriano and Matter of Obaigbena.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "In response to the Director's RFE, the Petitioner claimed and submitted evidence that she performed in a leading or critical role for organizations or establishments with a distinguished reputation under 8 C.F.R. \u00a7 204.5(h)(3)(viii). Specific roles and organizations are not detailed in the AAO decision.",
+      "aao_analysis": "The Director did not address this criterion in the decision, stating only that 'the petitioner did not submit evidence for' the remaining criteria. The AAO found this inadequate and remanded for proper consideration of the RFE response evidence.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for entry of a new decision. Although the AAO conducted de novo review, it found remand warranted because the Director's decision was insufficient for review \u2014 it only addressed the awards criterion under 8 C.F.R. \u00a7 204.5(h)(3)(i) and summarily stated that 'the petitioner did not submit evidence for' the remaining criteria, despite the Petitioner having submitted evidence for multiple additional criteria both initially and in response to the RFE. The AAO held that under 8 C.F.R. \u00a7 103.3(a)(1)(i), a written decision must fully explain the specific reasons for denial so the petitioner has a fair opportunity to contest the decision on appeal. On remand, the Director must consider all evidence submitted, specifically address its deficiencies and inconsistencies (particularly the discrepancies in the membership letters), and if the initial evidence requirements are met, evaluate whether the Petitioner has demonstrated sustained national or international acclaim placing her among the small percentage at the very top of the field.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 103.3",
+    "8 C.F.R. \u00a7 103.3(a)(1)(i)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Amin v. Mayorkas, 24 F.4th 383 (5th Cir. 2022)",
+    "Matter of Soriano, 19 I&N Dec. 764 (BIA 1988)",
+    "Matter of Obaigbena, 19 I&N Dec. 533 (BIA 1988)",
+    "Matter of M-P-, 20 I&N Dec. 786 (BIA 1994)",
+    "Matter of Ho, 19 I&N Dec. 582 (BIA 1988)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues: (1) The Director's decision was inadequate because it only addressed one criterion (awards) and summarily stated no evidence was submitted for the other criteria, despite the Petitioner having submitted evidence for multiple criteria both initially and in RFE response \u2014 violating 8 C.F.R. \u00a7 103.3(a)(1)(i)'s requirement to fully explain reasons for denial. (2) The Petitioner attempted to raise the scholarly articles criterion for the first time on appeal after failing to address it in her RFE response, which the AAO rejected under Matter of Soriano and Matter of Obaigbena. (3) Discrepancies/inconsistencies in the record regarding membership \u2014 the December 2022 letter described the Petitioner as participating 'through the company,' while the April 2023 letter described her as a member 'representing' the company \u2014 which the Petitioner bears the burden to resolve with independent, objective evidence under Matter of Ho.",
+  "filename": "DEC202023_01B2203",
+  "source": "benchmark_unseen"
+}

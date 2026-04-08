@@ -1,0 +1,40 @@
+{
+  "petitioner_background": "The petitioner is a female alien seeking classification as an employment-based immigrant of extraordinary ability in the arts under section 203(b)(1)(A) of the Immigration and Nationality Act. Based on the evidence referenced, she appears to work in the field of documentaries/television arts in China, with claimed affiliations to the China TV Artist Association. Her specific role and career details are not elaborated in the AAO decision.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner claimed receipt of the Golden Eagle Award, asserting it is a national award, and the Star Flower Prize, asserting it is a national level award for documentaries. No supporting documentary evidence was submitted on appeal to substantiate these claims.",
+      "aao_analysis": "The AAO found that the petitioner's appellate submission was unaccompanied by evidence to support her assertions, citing Matter of Soffici, 22 I&N Dec. 158, 165 (Comm. 1998) and Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972), for the principle that simply going on record without supporting documentary evidence is not sufficient to meet the burden of proof. There was no evidence establishing that the Golden Eagle Award and the Star Flower Prize were primarily attributable to the petitioner's work and were nationally recognized awards for excellence in the field. The AAO found the director properly considered the evidence submitted and appropriately addressed it in his detailed discussion of 8 C.F.R. \u00a7 204.5(h)(3)(i).",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner claimed membership in the China TV Artist Association, asserting that the association requires outstanding achievements for applicants to apply for membership. No supporting documentary evidence was submitted on appeal.",
+      "aao_analysis": "The AAO found that there was no evidence establishing that the China TV Artist Association requires outstanding achievements of its members as judged by recognized experts in her field. The petitioner's assertion was unsupported by documentary evidence, which is insufficient under Matter of Soffici. The AAO found the director properly addressed the evidence under 8 C.F.R. \u00a7 204.5(h)(3)(ii), and the petitioner did not specifically challenge any of the director's statements or analyses on appeal.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner claimed that 'Cultural Messenger' and 'China International Academic Journal' are two trade journals in the field of culture and arts that published material about her. No supporting documentary evidence was submitted on appeal.",
+      "aao_analysis": "The AAO found that there was no evidence establishing that Cultural Messenger and China International Academic Journal constitute major trade publications or some other form of major media. The petitioner's mere assertions were insufficient without supporting documentary evidence. The AAO found the director properly addressed the evidence under 8 C.F.R. \u00a7 204.5(h)(3)(iii), and the petitioner did not specifically challenge the director's analysis on appeal.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The appeal was summarily dismissed because the petitioner failed to identify specifically any erroneous conclusion of law or statement of fact, as required by 8 C.F.R. \u00a7 103.3(a)(1)(v). The petitioner's appellate submission was unaccompanied by evidence to support her assertions, and she did not specifically challenge any of the director's statements or analyses regarding the criteria at 8 C.F.R. \u00a7\u00a7 204.5(h)(3)(i), (ii), and (iii). The appellate submission also failed to address any of the remaining regulatory criteria. The petitioner indicated she was not submitting a supplemental brief and/or evidence in support of her appeal, warranting summary dismissal.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)",
+    "Matter of Soffici, 22 I&N Dec. 158, 165 (Comm. 1998)",
+    "Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: the appeal was summarily dismissed under 8 C.F.R. \u00a7 103.3(a)(1)(v) because the petitioner failed to identify specifically any erroneous conclusion of law or statement of fact, submitted no supporting documentary evidence on appeal, and indicated she was not submitting a supplemental brief or evidence.",
+  "filename": "Apr202009_02B2203",
+  "source": "benchmark_unseen"
+}

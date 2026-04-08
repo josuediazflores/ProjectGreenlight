@@ -1,0 +1,52 @@
+{
+  "petitioner_background": "The petitioner is an actress who works in the Chinese film and television industry. She sought classification as an individual of extraordinary ability under INA section 203(b)(1)(A) (EB-1A). She has maintained a professional acting career in China's television and film industries, winning multiple acting awards, receiving media coverage in Chinese publications, and experiencing some commercial success through her film roles.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence of five acting awards from national performing arts entities in China: (1) the Television Drama Actress award at the China Television Awards in 2010; (2) the TV Actress award at the China TV Art Festival in 2010, which the petitioner claimed 'is the highest award for a television drama performing actress in China'; (3) the Actress award at the Television Award of China Radio and Television Grand Prize in 2011 for her performance in a television series, described as 'the only government award for Chinese TV series' and issued biennially; (4) the Award of China Most Favored Actress at the China TV Festival in 2012, supported by Google search result statistics and a list of previous award winners from Baidu Encyclopedia noting internationally renowned past winners; and (5) a China Film Performing Arts Institute Award received in 2019, which is awarded to individuals who played roles in films 'in the immediate past two years' and requires candidates to have achieved 'excellent results in the new film performance' and submit an academic article summarizing their role's creative process. The petitioner also submitted Beijing Daily coverage and other Chinese media coverage of the 2010 award events.",
+      "aao_analysis": "The AAO acknowledged the Director's determination that the petitioner met this criterion and did not disturb that finding. However, in the final merits determination, the AAO found that while the 2010 awards were nationally recognized and garnered some national acclaim, the petitioner received them approximately 10 years prior to filing and had to demonstrate sustained acclaim. For the 2011 Grand Prize award, the record lacked evidence that the ceremony or winners received attention from major media or entertainment industry publications. For the 2012 Most Favored Actress award, the record did not demonstrate significant media coverage, and the petitioner relied on user-edited Baidu Encyclopedia; additionally, the nearly seven-year gap before her next award (2019) undermined claims of sustained acclaim. For the 2019 China Film Performing Arts Institute Award, the petitioner again relied on Baidu for information about past winners and provided insufficient evidence that the competition is prestigious or well-known enough to confer national or international recognition. Overall, the AAO found she received all but one award eight or more years prior to filing, and the significance of her one recent award was not established, so the evidence did not demonstrate sustained national acclaim.",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted articles and media coverage about her from within China, including coverage in Beijing Daily and other Chinese publications. She relied primarily on the publications' own websites to establish that they qualified as major media.",
+      "aao_analysis": "The AAO did not disturb the Director's determination that this criterion was met. However, in the final merits determination, the AAO noted that the Director found the record lacked evidence of major media coverage outside of China and internationally. Many submitted articles were not supported by sufficient independent evidence to establish that the publications qualified as major media, because the petitioner relied primarily on the publications' own websites without providing objective evidence of high circulation or distribution relative to others, or that they were professional or major trade media. Even assuming the articles appeared in major media, the AAO found the coverage over a decade-long career inconsistent with sustained national or international acclaim. The petitioner works in a high-profile industry where most projects receive media coverage, and without evidence setting her apart from others in the field, she had not shown she was among the small percentage at the very top.",
+      "met": true
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The petitioner provided evidence reflecting the commercial success of a 2018 Chinese film in which she appeared, including box office ratings showing the film had been widely viewed.",
+      "aao_analysis": "The AAO did not disturb the Director's determination that this criterion was met. However, in the final merits determination, the AAO found that while the box office ratings showed the film was widely viewed and the petitioner achieved some degree of commercial success, she did not offer evidence demonstrating that she has been recognized in the field for this success. For example, she did not offer evidence showing how this film's commercial success sets her apart from the success of other films and therefore other actors in her field of endeavor.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence that she served as a juror for a Youth Film Festival in 2017.",
+      "aao_analysis": "The AAO considered this evidence as additional documentation in the totality review. The AAO found that the petitioner did not establish that her work on the judging committee of this youth film festival reflects a career of acclaimed work in the field or is indicative of the required sustained national or international acclaim. She did not show that this single judging instance places her among the small percentage at the very top of her field, did not demonstrate how her judging experience compares to others at the top of the field, did not show that the committee included only nationally acclaimed artists, and did not establish that the judging committee members received significant recognition in the field as a result of their participation.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal upon de novo review. Although the petitioner met three evidentiary criteria (awards, published material, and commercial success), the AAO conducted a final merits determination and concluded that the totality of the evidence did not show sustained national or international acclaim or that the petitioner is among the small percentage at the very top of her field. The AAO rejected the petitioner's argument that meeting three criteria automatically qualifies her, explaining that Kazarian sets forth a two-part analysis where evidence is first counted and then considered in a final merits determination. The record showed she had a career as a film and television actress with some industry and press recognition for a few projects, but most awards were received 8+ years before filing and the evidence did not demonstrate a 'career of acclaimed work in the field' as contemplated by Congress. The petitioner on appeal largely failed to address the Director's substantive findings beyond objecting to the multi-part analysis itself.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "56 Fed. Reg. 30703, 30704 (July 5, 1991)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "JUN012022_01B2203",
+  "source": "benchmark_unseen"
+}

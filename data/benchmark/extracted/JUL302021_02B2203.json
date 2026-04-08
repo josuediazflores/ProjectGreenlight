@@ -1,0 +1,45 @@
+{
+  "petitioner_background": "The petitioner is a researcher in the field of computational chemistry who was employed as a postdoctoral associate in the Department of Chemistry at a university at the time of filing. He received a bachelor of science in chemistry from a university in China in 2011 and earned his doctorate in chemistry in 2016. He worked as a graduate research assistant, visiting graduate scholar, and postdoctoral researcher at various universities before joining his current position in January 2018 in F-1 nonimmigrant student status. He sought classification as an individual of extraordinary ability under INA section 203(b)(1)(A).",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence that he peer reviewed manuscripts for professional publications including Journal of Molecular Modeling and Journal of Chemical Information and Modeling. The record reflects he peer reviewed at least 50 manuscripts for 14 different journals in his field since 2015, including 16 reviews for Journal of Molecular Modeling, 13 reviews for Journal of Chemical Information and Modeling, and one or two reviews for most of the other 12 journals. He also submitted journal rankings from Google Scholar indicating many of the journals were ranked in the top ten in their respective subject matter sub-categories in terms of 'h-5 index.' He also submitted a letter from his Ph.D. advisor stating the petitioner is an 'active peer reviewer' and that 'only verified experts are entrusted with such a duty.'",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner satisfied the judging criterion at the initial evidence stage based on his peer review of manuscripts for professional publications. The criterion was met.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence of authoring scholarly articles published in various journals, including Journal of Chemical Theory and Computation, Chemical Reviews, Journal of Chemical Information and Modeling, and Journal of Physical Chemistry B. He emphasized his work resulted in '15 peer-reviewed articles and 5 published software packages' published in 'some of the most prestigious high impact journals in his field,' and highlighted the ranking and impact factor of seven journals including Chemical Reviews and Journal of the American Chemical Society.",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner satisfied the scholarly articles criterion based on evidence of authorship of scholarly articles published in various journals in his field. The criterion was met.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted evidence of his development of a software program published in Journal of Chemical Information and Modeling in 2016, which has been released as part of a widely used molecular dynamics software package since 2015. He submitted a letter from a professor in Organic Chemistry discussing the petitioner's program as the first of its kind, noting it 'supports extensive force fields as well as ions' and has superior functionality and efficacy compared to previous programs. The letter emphasized the program received significant citations and that the petitioner was invited to write a book chapter 'for a project in which the editors aim to selectively review some of the most influential advances' in the field. He also submitted evidence he has been listed as an author of the software package since 2015, and a letter from a primary author of the software at a university Institute for Quantitative Biomedicine, who stated that by facilitating the simulation of ions, the petitioner 'has vastly expanded the applications and utility of this software package.' His Google Scholar citation history showed approximately two-thirds of his cumulative citations related to his publication on the program and the software package that incorporated it.",
+      "aao_analysis": "The Director concluded the petitioner did not satisfy this criterion, but the AAO disagreed on appeal, noting the Director's decision did not adequately address certain evidence. The AAO found the letters from the professor and the primary author of the software, combined with evidence that the petitioner's program represents an important advance to the widely used software package's capabilities and utility, and that approximately two-thirds of his cumulative citations related to this work, was sufficient to demonstrate the nature and significance of his contributions to a widely used molecular dynamics modeling software in his field. The AAO concluded he satisfied the criterion by a preponderance of the evidence.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "Although the petitioner met the initial evidentiary requirements by satisfying three criteria (judging, scholarly articles, and original contributions), the AAO dismissed the appeal based on the final merits determination. The AAO found that while the petitioner has been a productive researcher who has made significant contributions to computational chemistry, the record did not demonstrate that his achievements reflect a 'career of acclaimed work' or sustained national or international acclaim. His peer review activities did not differentiate him from peers since he did not establish journals' selection requirements, and his citation record (while above average) did not compare him to scientists already recognized as being at the top of the field. His contribution to the software package, where he was one of 39 contributors, did not elevate him to the top of the field, and the recommendation letters did not sufficiently corroborate that he is recognized among the small percentage at the very top of his field. The AAO found the petitioner, though early in his postdoctoral career with significant research contributions, fell short of the highly restrictive standard for extraordinary ability classification.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375 (AAO 2010)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner argued on appeal that the Director's decision contained 'almost no discussion of the particular evidence submitted' in support of the original contributions criterion, noting that much of the analysis was directly copied from the request for evidence issued prior to the denial. The AAO partially agreed, finding the Director's decision did not adequately address certain evidence submitted in support of that criterion.",
+  "filename": "JUL302021_02B2203",
+  "source": "benchmark_unseen"
+}

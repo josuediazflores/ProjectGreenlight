@@ -1,0 +1,35 @@
+{
+  "petitioner_background": "The petitioner is an actor seeking classification as an employment-based immigrant under section 203(b)(1)(A) of the Act as an alien of extraordinary ability in the arts. The petition was filed on December 14, 2006. The record indicates the petitioner received multiple acting awards between 1998 and 2004, was the subject of articles in major national newspapers from the late 1990s to 2006, and served as a judge at the Asian Television Awards in 2002.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence showing he received an internationally recognized acting award in 2001, as well as nationally recognized acting awards in 1998, 1999, 2000, and 2004. The record included documentation demonstrating the significance of these awards.",
+      "aao_analysis": "The AAO concurred with the director's finding that the petitioner meets this criterion. The documentation demonstrating the significance of the awards, combined with the international recognition of the 2001 award and the multiple nationally recognized awards spanning 1998-2004, satisfied the requirement for lesser nationally or internationally recognized prizes or awards for excellence in the field of endeavor.",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted numerous articles about him and his work published in major national newspapers from the late 1990s to 2006.",
+      "aao_analysis": "The AAO concurred with the director's finding that the petitioner meets this criterion. The numerous articles in major national newspapers spanning from the late 1990s to 2006 constituted published material about the petitioner in major media relating to his work in the field for which classification is sought.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence showing that he served on the panel of judges for the Asian Television Awards in 2002. The record included documentation demonstrating the significance of this event.",
+      "aao_analysis": "The AAO found that the petitioner established he meets this criterion. His service on the judging panel for the Asian Television Awards in 2002, combined with documentation demonstrating the significance of the event, satisfied the requirement for participation as a judge of the work of others in the same field.",
+      "met": true
+    }
+  ],
+  "outcome": "sustain",
+  "outcome_reasoning": "The AAO found that the petitioner satisfied three of the regulatory criteria required for classification as an alien of extraordinary ability under 8 C.F.R. \u00a7 204.5(h)(3). While not all of the petitioner's evidence carried the weight imputed to it by counsel, the totality of the evidence established an overall pattern of sustained national acclaim and extraordinary ability. The petitioner also established that he seeks to continue working in the same field in the United States and that his entry would substantially benefit the United States prospectively. The petitioner therefore overcame the stated grounds for denial and established eligibility for immigrant classification, so the director's denial was withdrawn and the petition approved.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "56 Fed. Reg. 60897, 60898-99 (Nov. 29, 1991)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "Aug132009_02B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,40 @@
+{
+  "petitioner_background": "The petitioner is a clinical investigator seeking classification as an individual of extraordinary ability under INA \u00a7 203(b)(1)(A) (EB-1A). The Director of the Texas Service Center revoked the approval of the petition, finding that the petitioner had not satisfied the initial evidentiary requirements at 8 C.F.R. \u00a7 204.5(h)(3). The AAO affirmed the revocation on appeal, denied a first motion to reopen and reconsider, and is now reviewing a second joint motion to reopen and reconsider.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "membership",
+      "evidence_submitted": "In the instant motion, the petitioner submitted several pages from the Standard Occupational Classification (SOC) Manual, highlighting the occupational description for Medical Scientists, Except Epidemiologists, under SOC code 19-1042, and resubmitted other material already in the record. In the prior (first) motion, he had submitted new evidence related to his membership in an organization (name redacted in decision).",
+      "aao_analysis": "The AAO found that the petitioner did not explain how the information from the SOC manual relates to his claim regarding the membership criterion, nor did he show how it establishes eligibility under 8 C.F.R. \u00a7 204.5(h)(3)(ii). Resubmitting previously provided evidence does not constitute 'new facts' for a motion to reopen. In the prior decision, the AAO had already determined that evidence of his membership failed to satisfy the regulatory requirements of 8 C.F.R. \u00a7 204.5(h)(3)(ii). Therefore, the petitioner did not meet the requirements for a motion to reopen.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner previously submitted evidence of authorship of scholarly articles, which the AAO had accepted in its dismissal of his appeal. No new evidence regarding this criterion was discussed in the instant motion.",
+      "aao_analysis": "In its dismissal of his appeal, the AAO held that the petitioner met the scholarly articles criterion at 8 C.F.R. \u00a7 204.5(h)(3)(vi). This was the only criterion he was found to satisfy, which is insufficient because at least three criteria must be met.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied both the motion to reconsider and the motion to reopen. The motion to reconsider was denied because the petitioner did not cite binding precedent decisions or other legal authority establishing that the AAO incorrectly applied the pertinent law or agency policy; his citation to Food and Drug Administration regulations was not dispositive. The motion to reopen was denied because the SOC Manual pages did not constitute relevant new facts tied to the membership criterion, and resubmitting previously provided evidence does not qualify as 'new facts.' Overall, the petitioner failed to demonstrate that he meets at least three of the criteria under 8 C.F.R. \u00a7 204.5(h)(3)(i)-(x), having only satisfied the scholarly articles criterion.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Matter of H-X-, ID# 1227778 (AAO Jun. 15, 2018)",
+    "Section 204 of the Act",
+    "Section 204(a)(1)(E) of the Act, 8 U.S.C. \u00a7 1154(a)(1)(E)",
+    "Section 205 of the Act",
+    "8 C.F.R. \u00a7 2.1",
+    "8 C.F.R. \u00a7 205.2"
+  ],
+  "fraud_or_procedural_issues": "Procedural posture: This is a second motion to reopen and reconsider following revocation of a previously approved petition. The petitioner challenged the Director's authority to revoke the approval under section 205 of the Act, arguing that such authority did not extend to the Director. The AAO noted this issue was beyond the scope of its review but observed that section 204(a)(1)(E) of the Act gives the Attorney General (now Secretary of DHS) authority over extraordinary ability petitions, that 8 C.F.R. \u00a7 2.1 allows delegation of authority, and that 8 C.F.R. \u00a7 205.2 authorizes a Service officer who may approve a petition under section 204 to revoke that approval.",
+  "filename": "JAN282019_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,52 @@
+{
+  "petitioner_background": "The Petitioner is a violinist from Ukraine who sought classification as an individual of extraordinary ability in the arts under EB-1A. She claimed to have been a professor of Music at an unnamed institution since 2011 and submitted evidence of a purported recording career, including images of CD cover art for several albums. The Director of the Nebraska Service Center initially approved the petition but later revoked approval, finding the Petitioner had not satisfied at least three of ten initial evidentiary criteria and had provided false information regarding her plans to continue working in the area of claimed extraordinary ability.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The Petitioner claimed that, as a professor of Music at an institution since 2011, she performed in a leading or critical role for an organization or establishment with a distinguished reputation. She claimed no other employment during that period.",
+      "aao_analysis": "The AAO found that the Petitioner misrepresented material facts relating to her past employment in Ukraine. Her own prior statements contradicted her claimed employment history: on January 30, 2016, when applying for a nonimmigrant visa at the U.S. Embassy in Ukraine, she indicated she was employed as 'Head of Department of Advertising' at a different entity, contradicting her later claim to have worked as a music professor since 2011. The AAO noted that past employment is material because eligibility under section 203(b)(2)(A)(i) is based on acclaim earned in one's past career.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The Petitioner submitted images purporting to be front and back cover art of several compact discs (CDs) of her recorded work to demonstrate commercial success in the performing arts. She did not submit the actual CDs or their original packaging.",
+      "aao_analysis": "The AAO found the CD back cover art submitted by the Petitioner derived from altered images taken from real CD packaging. Specifically: one purported CD showed a catalog number and artwork corresponding to a compilation album called '\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430 \u0410\u0432\u0430\u0440\u0438\u044f - \u0412\u0441\u0435 \u0425\u0438\u0442\u044b: \u0410\u0432\u0430\u0440\u0438\u044f \u041f\u0440\u043e\u0442\u0438\u0432!'; another showed a bar code that actually scanned as 4607115072715, corresponding to '\u041f\u0430\u0440\u0435\u0439,' an album by Reflex, with text and logos matching the Reflex album and an altered catalog number corresponding to the compilation XXXL 15 - \u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439; a third showed a blurred photo of trees, a bar code, logos for Fiction Records, Polydor, and Universal, and the web address 'www.thecure.com,' with text providing separate catalog numbers for 'DISC ONE' and 'DISC TWO' despite only having 10 tracks, corresponding to a 2-CD reissue of 'Seventeen Seconds' by the Cure. The AAO concluded the Petitioner submitted no credible evidence that her claimed CDs actually exist, and her reliance on falsified images indicated she did not actually release the claimed CDs. Citing Matter of Ho, the AAO stated doubt cast on any aspect of a petitioner's proof may undermine the reliability of the remaining evidence. The AAO also noted the Director had previously concluded the Petitioner submitted 'digitally manipulated' images relating to awards and media coverage, which the Petitioner did not dispute.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The appeal was dismissed based on the Petitioner's withdrawal of the appeal after the AAO issued a Notice of Intent to Dismiss (NOID). Under 8 C.F.R. \u00a7 103.2(b)(6) and Matter of Cintron, a withdrawal may not be retracted or refused. However, notwithstanding the withdrawal, the AAO entered a separate finding of willful misrepresentation of a material fact against the Petitioner, finding she submitted falsified CD packaging evidence to create the appearance of a recording career and made conflicting claims about her employment history. The AAO stated that if the Petitioner had not withdrawn the appeal, it would have dismissed the appeal based in part on these misrepresentations.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A), 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 205 of the Act, 8 U.S.C. \u00a7 1155",
+    "8 C.F.R. \u00a7 205.2",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "8 C.F.R. \u00a7 103.2(b)(6)",
+    "Matter of Cintron, 16 I&N Dec. 9 (BIA 1976)",
+    "Matter of Ho, 19 I&N Dec. 582 (BIA 1988)",
+    "8 C.F.R. \u00a7 103.2(b)(16)(i)",
+    "Matter of Kai Hing Hui, 15 I&N Dec. 288 (BIA 1975)",
+    "Matter of Healy and Goodchild, 17 I&N Dec. 22 (BIA 1979)",
+    "Matter of Ng, 17 I&N Dec. 536 (BIA 1980)",
+    "Spencer Enters. Inc. v. U.S., 345 F.3d 683 (9th Cir. 2003)",
+    "Section 203(b)(3)(A) of the Act",
+    "Section 203(b)(2)(A)(i) of the Act",
+    "8 C.F.R. \u00a7 103.2(b)(14)",
+    "Section 212(a)(6)(C) of the Act, 8 U.S.C. \u00a7 1182(a)(6)(C)",
+    "Matter of M-, 6 I&N Dec. 149 (BIA 1954)",
+    "Matter of L-L-, 9 I&N Dec. 324 (BIA 1961)",
+    "Section 287(b) of the Act, 8 U.S.C. \u00a7 1357(b)",
+    "8 C.F.R. \u00a7 103.2(a)(2)",
+    "Kungys v. U.S., 485 U.S. 759 (1988)"
+  ],
+  "fraud_or_procedural_issues": "The AAO entered a formal finding of willful misrepresentation of a material fact against the Petitioner under section 212(a)(6)(C) of the Act. The misrepresentations consisted of: (1) submitting falsified/altered CD packaging images derived from real albums by other artists (D\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430 \u0410\u0432\u0430\u0440\u0438\u044f, Reflex, and the Cure) to fabricate the appearance of a recording career addressing 8 C.F.R. \u00a7 204.5(h)(3)(x); and (2) falsely claiming employment as a music professor since 2011 when her 2016 nonimmigrant visa application stated she was employed as 'Head of Department of Advertising,' contradicting her petition claim relevant to 8 C.F.R. \u00a7 204.5(h)(3)(viii). The Director had also previously found the Petitioner submitted 'digitally manipulated' images relating to awards and media coverage, which she did not dispute. The AAO found the misrepresentations were willful (made under penalty of perjury via Form I-140 signature) and material (capable of affecting the petition's outcome since the Director initially approved the petition). The Petitioner withdrew her appeal after the NOID without addressing the adverse findings, but the AAO noted withdrawal does not prevent a finding of willful misrepresentation. This finding may render her inadmissible in future proceedings.",
+  "filename": "MAY052021_02B2203",
+  "source": "benchmark_unseen"
+}

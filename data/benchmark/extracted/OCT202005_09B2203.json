@@ -1,0 +1,46 @@
+{
+  "petitioner_background": "The petitioner is a self-represented 'Mini Red Wood Carving Artist' seeking classification as an alien of extraordinary ability under section 203(b)(1)(A) of the Act. The petitioner has been residing in the United States since July 1997, and filed this petition on October 15, 2004 \u2014 more than seven years after arrival. The record indicates prior work in China, including claimed design exhibitions in Shanghai in 1990 and 1995, and a September 1996 design contest award.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "A Certificate of Award dated September 1996 with an accompanying English language translation indicating that the petitioner received a 'first-class award of national design contest.'",
+      "aao_analysis": "The AAO found the evidence insufficient because the record contained no evidence of publicity surrounding the contest or evidence showing that the award enjoys a significant level of recognition. Simply receiving an award certificate with the word 'national' in the title does not satisfy this very restrictive criterion. The petitioner failed to provide documentation from the awarding entity or print media establishing that the Certificate of Award is a nationally recognized award. Additionally, the AAO noted that the translation accompanying the Certificate of Award was not certified as complete and accurate by a competent translator as required by 8 C.F.R. \u00a7 103.2(b)(3).",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "Two photographs of what are alleged to be the petitioner's woodwork creations, with claims that the items were displayed at individual design exhibitions in Shanghai, China in 1990 and 1995.",
+      "aao_analysis": "The AAO found that the record contained no evidence showing that any such exhibitions ever took place or that the petitioner's creations were featured items. Going on record without supporting documentary evidence is not sufficient to meet the burden of proof, citing Matter of Soffici. The AAO stressed that an artist does not satisfy this criterion simply by arranging for his work to be displayed or sold. The petitioner did not demonstrate that his works were displayed at significant national venues, nor that his creations were featured alongside those of artists with national or international reputations. The petitioner also failed to demonstrate regular participation in shows or exhibitions at exclusive venues devoted largely to display of his work alone, or that participation in his exhibitions was a privilege extended only to top national or international artists.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "Six photographs of what are alleged to be the petitioner's woodwork creations, with a dollar amount listed by each photograph on appeal.",
+      "aao_analysis": "The AAO found no evidence showing that the petitioner actually earned the dollar amounts listed. Going on record without supporting documentary evidence is not sufficient to meet the burden of proof, citing Matter of Soffici. There was no evidence showing that the petitioner's compensation is significantly higher than that of others in his field.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The same six photographs of alleged woodwork creations submitted under the high salary criterion, which the petitioner claimed were evidence of his 'commercial success.'",
+      "aao_analysis": "The AAO noted that the plain wording of this criterion indicates it is intended for 'performing' artists such as musicians and actors rather than the petitioner's occupation as a woodwork artist. Nevertheless, the regulation calls for commercial success in the form of 'sales' or 'receipts'; simply asserting that one's work has been purchased cannot satisfy the criterion. The record contained no evidence of documented 'sales' or 'receipts' showing significant national distribution of the petitioner's woodwork creations or their widespread commercial success.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The petitioner failed to demonstrate that he meets at least three of the criteria required to establish sustained national or international acclaim necessary to qualify as an alien of extraordinary ability. Review of the record did not establish that the petitioner has distinguished himself to such an extent that he may be said to have achieved sustained national or international acclaim or to be within the small percentage at the very top of his field. The evidence was not persuasive that the petitioner's achievements set him significantly above almost all others in his field at the national or international level. Beyond the director's decision, the AAO also found that the petitioner failed to submit clear evidence that he is coming to the United States to continue work in the area of expertise as required by 8 C.F.R. \u00a7 204.5(h)(5). Given that the petitioner had resided in the U.S. for more than seven years before filing, it was reasonable to expect him to have earned national acclaim during that time, which he had not.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "Matter of Soffici, 22 I&N Dec. 158 (Comm. 1998)",
+    "Matter of Treasure Craft of California, 14 I&N Dec. 190 (Reg. Comm. 1972)",
+    "Spencer Enterprises, Inc. v. United States, 229 F. Supp. 2d 1025 (E.D. Cal. 2001), aff'd 345 F.3d 683 (9th Cir. 2003)",
+    "Dor v. INS, 891 F.2d 997 (2d Cir. 1989)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "The English translation accompanying the petitioner's Certificate of Award was not certified as complete and accurate by a competent translator as required by 8 C.F.R. \u00a7 103.2(b)(3). Additionally, the petitioner repeatedly went on record without supporting documentary evidence regarding his claimed exhibitions and sales figures.",
+  "filename": "OCT202005_09B2203",
+  "source": "benchmark_unseen"
+}

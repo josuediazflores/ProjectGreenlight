@@ -1,0 +1,32 @@
+{
+  "petitioner_background": "The petitioner works in marketing and communications and sought classification as an individual of extraordinary ability under INA section 203(b)(1)(A) (EB-1A). No specific nationality, employer, or detailed career achievements are described in the decision. She claimed to satisfy seven of the ten initial regulatory criteria at 8 C.F.R. \u00a7 204.5(h)(3)(i)-(x).",
+  "evidence_per_criterion": [
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The decision does not describe the specific salary evidence submitted, but notes that the Director found the petitioner satisfied the high salary or other remuneration criterion.",
+      "aao_analysis": "The Director concluded that the Petitioner met the high salary or other remuneration criterion. This determination was not disturbed on appeal, as the AAO summarily dismissed the appeal on procedural grounds without reaching a final merits determination.",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The decision does not identify the specific published material submitted. The petitioner referenced 'significant evidence ... in the record' regarding published material discussing her work, but did not identify any specific articles, publications, or dates on appeal.",
+      "aao_analysis": "The Director concluded that the published material did not discuss the petitioner's work. On appeal, the petitioner asserted without elaboration that this conclusion was erroneous, stating 'Decision erroneously concludes that published material does not discuss petitioner's work despite significant evidence to the contrary contained in the record.' The AAO found this assertion too general, noting the petitioner did not identify any specific evidence or explain how it overcame the stated grounds for denial. The criterion was not met.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO summarily dismissed the appeal under 8 C.F.R. \u00a7 103.3(a)(1)(v) because the petitioner failed to specifically identify any erroneous conclusion of law or statement of fact. Although the petitioner indicated on Form I-290B that she would submit a brief and/or additional evidence within 30 calendar days, seven months later no supplemental brief or evidence had been filed, nor had the petitioner shown good cause to extend the time for submission under 8 C.F.R. \u00a7 103.3(a)(2)(vii). The petitioner's appeal consisted of general assertions that the Director erred and that the record supported approval, without identifying specific evidence or explaining how the Director misstated the law. The AAO did not reach a final merits determination because the petitioner did not overcome the initial evidentiary requirement of meeting at least three of ten criteria.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(vii)"
+  ],
+  "fraud_or_procedural_issues": "Procedural dismissal under 8 C.F.R. \u00a7 103.3(a)(1)(v) for failure to specifically identify erroneous conclusions of law or fact. The petitioner indicated on Form I-290B that she would submit a brief and/or additional evidence within 30 calendar days of filing the appeal on February 5, 2021, but never submitted the promised brief or evidence, and did not request an extension or show good cause under 8 C.F.R. \u00a7 103.3(a)(2)(vii). The appeal consisted only of general, conclusory assertions lacking the specificity required by regulation.",
+  "filename": "SEP022021_01B2203",
+  "source": "benchmark_unseen"
+}

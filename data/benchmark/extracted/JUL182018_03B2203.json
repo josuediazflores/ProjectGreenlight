@@ -1,0 +1,65 @@
+{
+  "petitioner_background": "The petitioner is a badminton player seeking classification as an individual of extraordinary ability in athletics under INA section 203(b)(1)(A). He has competed in tournaments around the world, with his most recent events in the United States. He previously received P-1 nonimmigrant status (a classification reserved for nonimmigrants of extraordinary ability). The Texas Service Center Director denied his I-140 petition, finding he satisfied only two of the ten initial evidentiary criteria.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence that he received medals at sanctioned tournaments (specific tournament sanctioning body name redacted in the decision).",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner satisfied the awards criterion based on the medals received at the sanctioned tournaments. This criterion was not contested on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted articles from major publications in India that wrote about him relating to his performances in badminton tournaments.",
+      "aao_analysis": "The AAO agreed with the Director that the petitioner satisfied the published material criterion, as major publications in India wrote articles about him relating to his badminton tournament performances. This criterion was not contested on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner submitted a contract showing an annual salary of $36,000 and evidence of a yearly housing allowance of $13,908, arguing his total salary is $49,908 per year. He cited definitions from merriam-webster.com and oxforddictionaries.com defining 'salary' as 'fixed compensation paid regularly for services' and 'a fixed regular payment,' and 'remunerate' as 'to pay an equivalent for' and 'money paid for work or a service.' He provided a letter from the president of his employer stating that the housing allowance is '$1159 per month and payable directly to the landlord.' He also argued that since his $36,000 per year was based on 24 working hours per week, his annualized/full-time salary would have been $60,000 a year if he worked 40 hours per week. He submitted an addendum to his contract reflecting 'a yearly salary of $60,000 base pay... in return of 24 working hours per week' based on a recent increase to $5,000 per month. He also provided median range data for 'athletes and sports competitors' in the Texas area, reflecting $32,040 for a Level 1 Wage to $160,320 for a Level 4 Wage.",
+      "aao_analysis": "The AAO found the regulations make a distinction between 'remuneration' and 'salary,' and the petitioner did not establish that the housing allowance is part of his salary\u2014his paystubs did not reflect that a housing allowance was included in his bi-weekly salary, and the employer letter confirmed it was paid directly to the landlord. The AAO noted the petitioner did not establish that he worked 40 hours per week or earned $60,000 a year, as his paystubs reflected bi-weekly gross earnings of $1,500 and his contract stipulated 24 working hours per week. The recent contract addendum was inadmissible because eligibility must be established from the time of filing through adjudication per 8 C.F.R. \u00a7 103.2(b)(1). The AAO also noted the petitioner did not submit salary data specific to badminton players, citing Matter of Price (professional golfer vs. PGA Tour golfers), Grimson v. INS (NHL enforcer vs. other NHL enforcers), and Muni v. INS (NHL defenseman vs. other NHL defensemen). Regardless, the petitioner's $39,000 salary was only slightly above a Level 1 Wage, and even considering the $60,000 increase plus $13,908 housing allowance, his salary remained under a Level 2 Wage of $74,800. His hourly rate was approximately $17 per hour (now $29 per hour), compared to approximately $15 per hour for Level 1 and $77 per hour for Level 4 employees. The petitioner failed to establish he commanded a high salary in relation to others in his field.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The petitioner argued that his player ranking 'is comparative to box office receipts or record, cassette, compact disk, or video sales for a performance artist,' seeking to submit his badminton rankings as comparable evidence under 8 C.F.R. \u00a7 204.5(h)(4). He also argued that the standards of comparable evidence for 'outstanding professors and researchers' under section 203(b)(1)(B) should be universally applied to 'aliens of extraordinary ability,' referencing 81 Fed. Reg. 2068, 2075 (January 15, 2016).",
+      "aao_analysis": "The AAO agreed that 8 C.F.R. \u00a7 204.5(h)(3)(x) relates to performing artists rather than athletes and badminton players, but found the petitioner did not demonstrate his eligibility to substitute the commercial successes criterion for comparable evidence. The petitioner failed to explain why he could not submit evidence satisfying at least three of the enumerated criteria and why his submitted evidence is 'comparable' to that required. The AAO noted badminton players could potentially submit evidence for other criteria such as memberships (8 C.F.R. \u00a7 204.5(h)(3)(ii)), original contributions (8 C.F.R. \u00a7 204.5(h)(3)(v)), and leading or critical roles (8 C.F.R. \u00a7 204.5(h)(3)(viii)). Further, the petitioner did not demonstrate how his rankings are 'truly comparable' to commercial successes\u2014he did not provide evidence of sold-out venues or fans flocking to his tournaments, which would be more comparable to a performing artist with commercial successes. The AAO also found his rankings appear more analogous to the awards criterion (which he already satisfied), as his finishes and tournament results impact his rankings. Regarding his argument about the outstanding professors and researchers standards, the AAO noted the response to comments in the final rule specifically distinguished the need to apply different standards to the classifications.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner satisfied only two of the ten initial evidentiary criteria (awards and published material), falling short of the required three. Because the petitioner failed to meet the initial evidence threshold, the AAO found it unnecessary to conduct a final merits determination under Kazarian. Nevertheless, the AAO reviewed the record in the aggregate and concluded it did not support a finding that the petitioner established the acclaim and recognition required for the classification. The AAO emphasized that the extraordinary ability classification is highly restrictive and intended for individuals already at the top of their fields, noting that even athletes performing at the major league level do not automatically meet the standard (citing Matter of Price). The petitioner did not show his athletic accomplishments were indicative of sustained national or international acclaim consistent with a 'career of acclaimed work in the field' as contemplated by Congress.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "INA \u00a7 203(b)(1)(B)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "Grimson v. INS, 934 F. Supp. 965 (N.D. Ill. 1996)",
+    "Muni v. INS, 891 F. Supp. 440 (N.D. Ill. 1995)",
+    "Q Data Consulting, Inc. v. INS, 293 F. Supp. 2d 25 (D.D.C. 2003)",
+    "IKEA US v. US Dept. of Justice, 48 F. Supp. 2d 22 (D.D.C. 1999)",
+    "Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103 (E.D.N.Y. 1989), aff'd, 905 F.2d 41 (2d Cir. 1990)",
+    "Louisiana Philharmonic Orchestra v. INS, No. 98-2855, 2000 WL 282785 (E.D. La. 2000)",
+    "USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update AD11-14 (Dec. 22, 2010)",
+    "H.R. Rep. No. 101-723 (Sept. 19, 1990)",
+    "81 Fed. Reg. 2068, 2075 (January 15, 2016)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "JUL182018_03B2203",
+  "source": "benchmark_unseen"
+}

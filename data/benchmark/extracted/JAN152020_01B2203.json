@@ -1,0 +1,39 @@
+{
+  "petitioner_background": "The petitioner describes himself as a 'sponsor-investigator' in the medical/clinical research field, seeking classification as an individual of extraordinary ability under EB-1A (INA \u00a7 203(b)(1)(A)). The Texas Service Center had originally approved the I-140 petition but later revoked approval, finding the petitioner failed to satisfy the initial evidentiary requirements of 8 C.F.R. \u00a7 204.5(h)(3). The AAO previously found the petitioner established eligibility for only one criterion \u2014 scholarly articles under 8 C.F.R. \u00a7 204.5(h)(3)(vi). This is the third combined motion to reconsider and reopen, following AAO decisions between 2013 and 2018, including Matter of H-X-, ID# 1925252 (AAO Jan. 29, 2019).",
+  "evidence_per_criterion": [
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner previously submitted evidence of authorship of scholarly articles, which was accepted in prior proceedings as satisfying the criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vi).",
+      "aao_analysis": "The AAO noted in a footnote that the record reflects the petitioner established he met only this one criterion \u2014 scholarly articles under 8 C.F.R. \u00a7 204.5(h)(3)(vi). This was not in dispute on the current motion.",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "On the prior motion to reopen, the petitioner presented several pages from the Standard Occupational Classification (SOC) Manual, highlighting the occupational description for medical scientists, except epidemiologists, under SOC code 19-1042. He also resubmitted other previously evaluated material. In the current motion, the petitioner offered additional FDA regulations and a final rule from the Department of Health and Human Services relating to a responsible party for a clinical trial.",
+      "aao_analysis": "The AAO determined that the petitioner did not explain how the information from the SOC Manual related to or established his claimed eligibility for the membership criterion under 8 C.F.R. \u00a7 204.5(h)(3)(ii). Regarding the FDA regulations and HHS final rule submitted on the current motion, the AAO found the petitioner did not establish that these regulations show his eligibility for any additional criteria under 8 C.F.R. \u00a7 204.5(h)(3). The AAO had previously explained that FDA regulations cited by the petitioner were not dispositive to the initial evidence requirements.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied both the motion to reconsider and the motion to reopen. First, the motions failed procedurally because the petitioner did not include the required statement under 8 C.F.R. \u00a7 103.5(a)(1)(iii) about whether the validity of the unfavorable decision has been or is the subject of any judicial proceedings. Second, on the motion to reconsider, the petitioner merely reasserted the same prior arguments without demonstrating that the AAO improperly adjudicated his second motion as a matter of law or policy \u2014 disagreement with conclusions alone is not a ground for reconsideration. Third, on the motion to reopen, the petitioner offered previously submitted documentation that does not qualify as 'new facts,' and the additional FDA regulations and HHS final rule did not establish eligibility for any additional criteria under 8 C.F.R. \u00a7 204.5(h)(3). The petitioner still met only one of the required three criteria.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "section 291 of the Act",
+    "8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 1003.2(c)(1)",
+    "Matter of O-S-G-, 24 I&N Dec. 56 (BIA 2006)",
+    "Matter of H-X-, ID# 1925252 (AAO Jan. 29, 2019)"
+  ],
+  "fraud_or_procedural_issues": "Procedural deficiency: The petitioner failed to include the statement required by 8 C.F.R. \u00a7 103.5(a)(1)(iii) regarding whether the validity of the unfavorable decision has been or is the subject of any judicial proceedings. On this basis alone, the motions did not meet the applicable requirements under 8 C.F.R. \u00a7 103.5(a)(4). Additionally, the petitioner repeatedly reasserted previously made arguments and resubmitted previously evaluated evidence across multiple motions.",
+  "filename": "JAN152020_01B2203",
+  "source": "benchmark_unseen"
+}

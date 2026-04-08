@@ -1,0 +1,53 @@
+{
+  "petitioner_background": "The petitioner is a researcher in the field of biology, with a focus on a specific area of biology (the exact subfield is redacted in the decision, though on appeal he referred to his field as microbiology, creating a discrepancy the AAO noted). He sought classification as an individual of extraordinary ability under EB-1A, INA \u00a7 203(b)(1)(A). The Texas Service Center initially approved the petition but later revoked the approval after concluding he met only two of the initial evidentiary criteria. His qualifications include peer-reviewed publications in journals such as Journal of Nutrition, Environmental Health Perspectives, Emerging Infectious Diseases, and Journal of Infectious Diseases, along with 958 cumulative citations at the time of filing and service as a peer reviewer.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence of the petitioner's participation as a peer reviewer/judge of the work of others in his field (specific details not elaborated in the AAO decision because this criterion was not contested on appeal).",
+      "aao_analysis": "The Director determined, and the AAO agreed, that the petitioner satisfied the judging criterion at 8 C.F.R. \u00a7 204.5(h)(3)(iv). This criterion was not in dispute on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence of his authorship of scholarly articles published in journals including Journal of Nutrition, Acta Obstretica et Gynecologica Scandinavica, Environmental Health Perspectives, Epigenetics, Journal of Developmental Origins of Health and Disease, Antioxidants and Redox Signaling, Emerging Infectious Diseases, and Journal of Infectious Diseases.",
+      "aao_analysis": "The Director determined, and the AAO agreed, that the petitioner satisfied the scholarly articles criterion at 8 C.F.R. \u00a7 204.5(h)(3)(vi). This criterion was not in dispute on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner argued that his research 'pushed researchers understanding' of the effects of certain factors on human health and characteristics of diseases. He pointed to publication of his articles in top/highly ranked journals (Journal of Nutrition, Acta Obstretica et Gynecologica Scandinavica, Environmental Health Perspectives, Epigenetics, Journal of Developmental Origins of Health and Disease, Antioxidants and Redox Signaling, Emerging Infectious Diseases, Journal of Infectious Diseases), a cumulative citation count of 958 at the time of filing, and Google Scholar data showing his three highest-cited articles received 160 citations (Emerging Infectious Diseases), 135 citations (Journal of Infectious Diseases), and 64 citations (Environmental Health Perspectives). He submitted journal impact factor evidence, Altmetric Attention Scores (five papers in the top 25% of all research outputs scored by Altmetric, three with good or above-average scores), and Dimensions statistical analyses showing some articles received 'more attention than normal' and others were 'extremely highly cited,' earning 8.16 to 24 times more citations than average. He also submitted recommendation letters from experts, including one expert who commented on his research at a laboratory on the prevalence of infections, development of identification methods, and immunity; another who stated the work 'helped define the scope of the prevalence of this pathogen'; another who discussed his research on exposure and cancer effects published in Environmental Health Perspectives; another who referenced his articles in Environmental Health Perspectives and Metallomics on toxicity and modification from exposure; and another who commented on his research on deficiency and supplementation during pregnancy finding improved outcomes and immune function in infants. He also cited a non-precedent AAO decision involving citations to co-authored work.",
+      "aao_analysis": "The AAO found the petitioner failed to establish that publication in highly ranked or popular journals inevitably demonstrates the field considers the work to be an original contribution of major significance \u2014 a journal's high ranking or impact factor reflects the publication's overall citation rate, not the influence or impact of any particular author or article. The 958 cumulative citations were found insufficient because aggregate citation figures tend to reflect overall publication record rather than identifying which research the field considers majorly significant; the petitioner bore the burden to identify his original contributions and explain why they are of major significance. Regarding the individual article citations (160, 135, 64), the AAO noted the petitioner did not articulate the significance or relevance of those citations, did not demonstrate the citations were unusually high in his field, did not show how they compared to other articles the field views as majorly significant, and did not specify whether any were self-citations. On the non-precedent decision cited, the AAO noted non-precedent decisions do not bind USCIS under 8 C.F.R. \u00a7 103.3(c), and the petitioner neither submitted a copy nor demonstrated analogous facts. Regarding Altmetric Attention Scores, the AAO noted these are based on online attention from social media, blogs, Wikipedia, Twitter, and mainstream news \u2014 Altmetric's own website cautions that metrics are 'merely indicators,' 'not themselves evidence,' that altmetrics complement rather than replace peer review and citation metrics, that anyone with enough time can artificially inflate altmetrics, and to 'use and interpret altmetrics carefully.' Wikipedia was cited as an unreliable open, user-edited source per Badasa v. Mukasey. The AAO found social media attention does not demonstrate significance to other scientists in the field. The Dimensions data was found misleading because the citation range is broad and 'above average is not necessarily synonymous with the top of the field.' Regarding the recommendation letters, the AAO found they recounted research and findings, noted publications and citations, and reflected novelty of the work, but did not sufficiently articulate how the research had been considered important or how its impact on the field rose to major significance. Specifically, one expert did not describe how the petitioner significantly influenced the field; another did not supplement with specific examples of field impact; another discussed citing the research but did not explain why or how it affected her research, focusing instead on journal prestige; another did not explain how the findings affected her own research, again focusing on journal prestige; and another speculated only on potential future impact ('potential to lower health care costs') without explaining whether the research had ever been applied in the field. The AAO concluded that letters lacking specifics and using hyperbolic language do not add value, citing Kazarian for the principle that letters repeating regulatory language without explaining actual influence are insufficient. The AAO also rejected the petitioner's argument that the Director erred by requiring contributions 'to the field' rather than 'in the field,' finding no meaningful distinction and noting USCIS policy uses 'to the field.'",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal, upholding the revocation because the petitioner satisfied only two of the required three initial evidentiary criteria (judging and scholarly articles), failing to establish original contributions of major significance. Because the petitioner did not submit the required initial evidence meeting at least three criteria, the AAO stated it need not provide a final merits determination under Kazarian. Nevertheless, the AAO reviewed the record in the aggregate and concluded it did not support a finding of sustained acclaim and recognition. The AAO emphasized that EB-1A is a highly restrictive classification intended for individuals already at the top of their fields, not those progressing toward it, and that the petitioner's work did not reflect the required sustained national or international acclaim consistent with a 'career of acclaimed work.' Although the petitioner had reviewed manuscripts, conducted research, and authored scholarly articles, the record lacked sufficient evidence establishing he was among the upper echelon in his field.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Section 205 of the Act, 8 U.S.C. \u00a7 1155",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "8 C.F.R. \u00a7 103.3(c)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Kazarian v. USCIS, 580 F.3d 1030 (9th Cir. 2009)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Ho, 19 I&N Dec. 582 (BIA 1988)",
+    "Matter of Estime, 19 I&N Dec. 450 (BIA 1987)",
+    "Lamilem Badasa v. Michael Mukasey, 540 F.3d 909 (8th Cir. 2008)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "1756, Inc. v. The U.S. Att'y Gen., 745 F. Supp. 9 (D.C. Dist. 1990)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "6 USCIS Policy Manual F.2(B)(2)"
+  ],
+  "fraud_or_procedural_issues": "This case involves a revocation proceeding: the Director initially approved the petition and subsequently revoked the approval under section 205 of the Act, finding the petitioner met only two criteria. The AAO noted a discrepancy in the record regarding the petitioner's field \u2014 on appeal he referred to his field as microbiology, while in support of the petition he claimed to be a researcher in a different biology subfield \u2014 which the petitioner must resolve with independent, objective evidence per Matter of Ho. No fraud or misrepresentation findings were made.",
+  "filename": "OCT252022_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,59 @@
+{
+  "petitioner_background": "The petitioner is a cloud communications company seeking to classify the beneficiary as an individual of extraordinary ability in the sciences and business under EB-1A. The beneficiary is a senior product manager with the petitioning organization and previously worked as a software engineer for other companies. The petitioner claims the beneficiary has demonstrated extraordinary ability in the field of technical product management through sustained national and international acclaim.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner previously claimed the beneficiary satisfied the awards criterion based on awards he received. The specific awards are not named in the decision text.",
+      "aao_analysis": "The Director determined that these awards were related to projects the beneficiary performed as a company employee, and that the evidence did not show they were nationally or internationally recognized awards in the field. The petitioner did not offer additional evidence or arguments for this criterion on appeal, and the record did not support a finding that the beneficiary meets it.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Various online articles about companies that employed the beneficiary and their software product launches. This included a 2016 article discussing a company's revenue growth, stock valuation, quarterly losses, and service offerings, which briefly noted the company 'introduced a service which provides developers with deeper analytics of their voice application users.' Also a 2016 article entitled 'new analytics service aims to help optimize web calls' describing a service 'that promises to help pinpoint the technical issues responsible for drops in audio quality.' A large number of articles discussed a company and its new product offerings, including a 2014 article about the launch of an Internet streaming and gaming device, plus additional articles commenting on product launches. The record also included articles about processors but not mentioning the beneficiary or his Android software development work.",
+      "aao_analysis": "None of the articles were about the beneficiary himself. The articles discussed the beneficiary's employers and their products but did not name or identify the beneficiary, nor mention his specific work (such as enabling external USB mass storage on devices). The plain language of the regulatory criterion requires 'published material about the alien,' and articles that are not about the beneficiary do not meet this criterion, citing Negro-Piumpe v. Okin. On appeal, the petitioner asserted articles 'are about [the Beneficiary] and his work' without citing specific examples, and argued that software engineers/product managers would not normally be named in press relating to their company. The petitioner alternatively sought to rely on comparable evidence under 8 C.F.R. \u00a7 204.5(h)(4), but failed to provide evidentiary support that the criterion does not readily apply to software engineers or product managers, and did not show the evidence was of the same caliber as that required by the regulation.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "Various recommendation letters. One letter from a staff systems engineer stated the beneficiary 'worked on multiple products' and 'helped to design and develop power management software that is used in countless Android products worldwide.' A letter from a senior manager for tablet product software stated the beneficiary was involved in 'developing multiple products across different teams,' with notable contributions serving in lead roles for core product development for various apps, storage, and remote app features, and that the beneficiary 'developed plans for measuring user activity' using web technology to help evaluate quality of features. A letter from the petitioner's vice president of product management asserted the beneficiary 'created and released a wildly successfully product with millions in projected revenues' that customers had adopted. Three customer letters (from a general manager, managing partner, and founder) discussed their utilization of the product, with one stating it 'is a highly innovative product' that allows them 'to identify how, where and when problems arise in communications pipeline with our customers,' and others explaining how it helped improve customer service. The petitioner also submitted a revenue report, multiple invoices reflecting itemized charges, and various articles discussing the beneficiary's employers and their new product offerings.",
+      "aao_analysis": "While the references spoke highly of the beneficiary and described various projects, they were insufficient to establish that his work rises to the level of original contributions of major significance in the field. The regulatory language requires contributions be 'of major significance in the field' rather than mainly affecting software development projects for his employers and their product offerings, citing Visinscaia. While the beneficiary was involved in developing multiple products as a software engineer and senior product manager, the evidence did not show his work substantially influenced the field as a whole or otherwise rose to the level of an original contribution of major significance in software development or technical product management. The articles mentioned new products the beneficiary was involved with but were not sufficient to demonstrate his specific development work is considered of major significance in the field.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "Letters from company executives discussing the beneficiary's specific responsibilities as Senior Product Manager and stating that he led the development of one of the petitioner's 'most important product releases' and a source of 'significant additional revenue.' The petitioner also offered various articles to demonstrate the company has garnered a distinguished reputation.",
+      "aao_analysis": "The AAO found that the beneficiary performed in a critical role for an organization with a distinguished reputation. The letters from company executives established his critical role, and the articles provided sufficed to demonstrate the company has a distinguished reputation. Accordingly, the petitioner established that the beneficiary meets this criterion and the Director's finding on this issue was withdrawn.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner provided its October 2015 job offer to the beneficiary stating a 'gross base annual salary' of $145,000, and a January 2017 letter listing an 'updated annual compensation figure of $150,991.' Salary information from the OOH stating the median annual wage for computer and information systems managers was $135,800 in May 2016, with the highest 10 percent earning more than $208,000, and in the 'Information' industry the median was $150,190. The petitioner also presented 2015 and 2016 Forms W-2 reflecting earnings of $186,318.42 (from both the petitioner at $15,026.62 and another employer at $171,291.80) and $134,070.41 respectively. A July 2017 letter and July/August 2017 pay statements indicated base salary of $157,031.68. Other remuneration included annual vesting of stock options of $86,609.60, an Employee Stock Purchase Plan 15% discount of $4,156.72 per year, and employee benefits (401(k), medical, dental) of $34,500.00 annually.",
+      "aao_analysis": "The AAO noted that earnings and remuneration received after June 8, 2017 post-dated the filing of the petition and cannot be considered. While the information showed the beneficiary's 2015 and 2017 earnings were above the median, his salary remained well below the top decile in his field, and the record was not sufficient to demonstrate a 'high salary' relative to others in the field. With respect to other remuneration (stock options, ESPP discount, benefits), the petitioner did not offer comparative evidence demonstrating that this was significantly high relative to others in the field. The Director's finding that this criterion was met was withdrawn.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The appeal was dismissed because the petitioner did not submit required initial evidence of either a qualifying one-time achievement or documents meeting at least three of the ten criteria. The AAO found the beneficiary met only one criterion (leading or critical role), while withdrawing the Director's finding on high salary and rejecting the petitioner's arguments on published material and original contributions. Because the initial evidence threshold was not met, the AAO did not need to fully address the totality of materials in a final merits determination, though it advised that having reviewed the record in the aggregate, it did not support a finding that the beneficiary established the level of expertise required for the classification sought.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "8 C.F.R. \u00a7 103.2(b)(1), (12)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Negro-Piumpe v. Okin, 2:07-CV-00820 (D. Nev. Sept. 2008)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "MAY312018_01B2203",
+  "source": "benchmark_unseen"
+}

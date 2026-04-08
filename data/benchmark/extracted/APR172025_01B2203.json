@@ -1,0 +1,38 @@
+{
+  "petitioner_background": "The petitioner is an integration architect seeking classification as an alien of extraordinary ability under INA section 203(b)(1)(A) (EB-1A). SCOPS denied the Form I-140 petition, concluding the petitioner did not have a major, internationally recognized award and did not meet at least three of the ten regulatory criteria. The AAO dismissed a subsequent appeal, and the matter came before the AAO on combined motions to reopen and reconsider.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "On motion, the petitioner asserted that his contributions went beyond his employer and affected the industry more broadly. He referenced letters and other corroborating evidence that purportedly established the impact of his work beyond individual employers, and pointed to statements from his appeal brief that discussed 'the beneficiary's role in integration solutions, and how the use of his integration solutions has directly influenced large-scale systems impacting the broader technology industry.' Before SCOPS, the petitioner initially claimed he met six regulatory criteria, but narrowed this to three criteria at the appellate stage, with contributions of major significance being the criterion addressed by the AAO.",
+      "aao_analysis": "The AAO found that the petitioner's asserted 'new facts' relating to industry-wide impact were not actually new, because his appeal brief already contained similar statements about how his integration solutions influenced large-scale systems and the broader technology industry. Because the same facts were previously advanced in the appeal, they could not serve as a proper basis for a motion to reopen, and the supporting evidence likewise fell short. On the motion to reconsider, the petitioner alleged the AAO dismissed letters and corroborating evidence establishing the impact of his work beyond individual employers, but he offered no additional details identifying which letters he referenced or how they would verify his allegation. The AAO held that a bare and conclusory assertion is insufficient to preserve an argument for resolution on the merits.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed both the motion to reopen and the motion to reconsider. The motion to reopen failed because the petitioner's asserted new facts regarding broader industry impact had already been advanced in his appeal brief and thus did not constitute 'new facts' under 8 C.F.R. \u00a7 103.5(a)(2). The motion to reconsider failed on all three bases: (1) the argument that the AAO failed to apply the Kazarian two-step process was rejected because no final merits determination was needed when the petitioner did not satisfy at least three regulatory criteria in the first step; (2) the claim that the AAO misinterpreted the contributions of major significance criterion was a bare and conclusory assertion lacking specific references to letters or evidence; and (3) the allegation that the AAO failed to consider relevant evidence was similarly made in passing without supporting specifics. The AAO emphasized that a motion must first overcome the most recent adverse decision before addressing prior issues.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 103.5(a)(1)-(3)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "Matter of Coelho, 20 I&N Dec. 464 (BIA 1992)",
+    "Patel v. Garland, 596 U.S. 328 (2022)",
+    "INS v. Bagamasbad, 429 U.S. 24 (1976)",
+    "Matter of Garcia, 28 I&N Dec. 693 (BIA 2023)",
+    "Matter of R-A-M-, 25 I&N Dec. 657 (BIA 2012)",
+    "Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)",
+    "Abdullah v. Obama, 753 F.3d 193 (D.C. Cir. 2014)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues: The petitioner filed combined motions to reopen and reconsider. The AAO held that motions must first overcome the most recent adverse decision (the December 16, 2024 appeal dismissal) before addressing issues from earlier stages. The petitioner's motion to reopen failed because the asserted 'new facts' were already advanced in the appeal brief and did not meet the 8 C.F.R. \u00a7 103.5(a)(2) requirement. The petitioner's arguments on the motion to reconsider were deemed bare and conclusory assertions insufficient to preserve issues for merits resolution. Additionally, the petitioner narrowed his claimed criteria from six before SCOPS to three at the appellate stage.",
+  "filename": "APR172025_01B2203",
+  "source": "benchmark_unseen"
+}

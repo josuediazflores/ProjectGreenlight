@@ -1,0 +1,67 @@
+{
+  "petitioner_background": "The petitioner is a director of photography (cinematographer) working in the film and television industry. He is the founder of a Florida-based production company. He sought classification as an individual of extraordinary ability under EB-1A, INA section 203(b)(1)(A). The Texas Service Center Director denied the petition, finding that although he met the initial evidentiary requirements, he had not established sustained national or international acclaim or that he had risen to the very top of his field.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner claimed eligibility under the lesser nationally or internationally recognized awards criterion and submitted media coverage related to awards he received. The specific awards are not detailed in the AAO decision.",
+      "aao_analysis": "The Director determined that the petitioner claimed but did not establish that he meets this criterion. However, the AAO noted that the Director's final merits discussion disregarded evidence the petitioner had provided in support of this criterion, including media coverage related to awards he received. The AAO did not make its own finding on whether this criterion was met, instead remanding for further analysis.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner submitted evidence of memberships in associations that require outstanding achievements of their members. Specific associations are not named in the AAO decision.",
+      "aao_analysis": "The Director concluded that the petitioner satisfied this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(ii). However, the AAO noted that no evidence related to this criterion was mentioned or weighed in the Director's final merits discussion \u2014 the Director simply observed that the criterion had been met without analyzing the underlying evidence.",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted published materials about him in major media. Specific publications are not detailed in the AAO decision.",
+      "aao_analysis": "The Director concluded that the petitioner satisfied this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(iii). The AAO noted that no evidence related to this criterion was mentioned or weighed in the final merits discussion or elsewhere in the Director's decision; the Director simply observed that the criterion had been met.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence of having judged the work of others in his field. Specific judging activities are not detailed in the AAO decision.",
+      "aao_analysis": "The Director concluded that the petitioner satisfied this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vi). The AAO observed that no evidence related to this criterion was mentioned or weighed in the final merits discussion; the Director simply noted that the criterion was met without substantive analysis of the evidence.",
+      "met": true
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner submitted evidence of the display of his work at artistic exhibitions or showcases, including copies of festival passes and other evidence pertaining to the display of his work.",
+      "aao_analysis": "The Director concluded that the petitioner satisfied this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vii). In weighing the evidence under this criterion, the Director referenced only the petitioner's submission of 'copies of festival passes' but failed to reference other relevant evidence in the record pertaining to the display of the petitioner's work. The AAO found this analysis inadequate.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted evidence of leading or critical roles with organizations that have a distinguished reputation, including his role as founder of a Florida-based production company.",
+      "aao_analysis": "The Director determined that the petitioner claimed but did not establish that he meets this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(viii). The AAO noted that the Director's final merits discussion disregarded evidence the petitioner had provided in support of this criterion. The AAO did not make an independent finding on whether the criterion was met, remanding for further review.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded for entry of a new decision. The AAO agreed with the petitioner that the Director failed to consider all the evidence in its totality during the final merits determination. The final merits analysis was limited to two very brief paragraphs with few references to the submitted evidence \u2014 the Director did not weigh evidence for the four criteria he found met (membership, published material, judging, and display), disregarded evidence submitted in support of the two additional criteria claimed (awards and leading role), and ignored expert opinion letters and media coverage related to awards supporting the petitioner's claim of sustained acclaim. The AAO held that an officer must fully explain the reasons for denying a visa petition to allow meaningful appellate review, and the Director failed to do so here. On remand, the Director must analyze the totality of the record, including additional evidence provided on appeal, and evaluate by a preponderance of the evidence whether the petitioner has demonstrated sustained national or international acclaim and is among the small percentage at the very top of the field.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(i)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of M-P-, 20 I&N Dec. 786 (BIA 1994)",
+    "USCIS Policy Memorandum PM 602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions; Revisions to the Adjudicator's Field Manual (AFM) Chapter 22.2, AFM Update AD11-14 (Dec. 22, 2010)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: The Director's decision was inadequate because the final merits analysis was limited to two very brief paragraphs with few references to submitted evidence. The Director failed to weigh evidence for criteria he found met, disregarded evidence for criteria he found unmet, and ignored expert opinion letters and media coverage supporting the petitioner's acclaim. The AAO held this violated the requirement under 8 C.F.R. \u00a7 103.3(a)(1)(i) and Matter of M-P- that an officer must fully explain the reasons for denying a petition to allow meaningful appellate review.",
+  "filename": "MAR032021_02B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,37 @@
+{
+  "petitioner_background": "The petitioner is a figure skater from Belarus seeking classification as an alien of extraordinary ability in the arts as a 'featured solo ice skater principal performer.' She is a three-time national champion in Belarus figure skating and currently performs in primary roles for Disney on Ice, such as Snow White in their Princess Classics. She also previously toured with the Byelorussian Ice Circus Extravaganza.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "National and international youth awards; first place in the Cup of the Republic of Belarus; a letter from the Deputy Minister of Sport and Tourism for the Republic of Belarus asserting that the petitioner was a three-time national champion in Belarus figure skating.",
+      "aao_analysis": "The director concluded that the petitioner did not meet this criterion because the awards were from several years prior to the filing of the petition and the petitioner no longer competed. On appeal, the AAO concurred with counsel that while the petitioner must demonstrate sustained acclaim as of the date of filing, that standard does not preclude consideration of accomplishments predating the filing by several years when the petitioner demonstrates sustained acclaim through evidence relating to other criteria. Because the petitioner continues to perform a leading or critical role for Disney on Ice, the AAO found this criterion satisfied.",
+      "met": true
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner's performances with Disney on Ice, and her tour with the Byelorussian Ice Circus Extravaganza that featured Moscow circus performers and five skating champions.",
+      "aao_analysis": "The director considered only the petitioner's performances with Disney on Ice and concluded they could not meet this criterion. The AAO concurred that it is inherent to the occupation of performing artist to perform, and not every performance is an artistic exhibition designed to showcase the work of the performers. However, the AAO found that the Byelorussian Ice Circus Extravaganza tour, which featured championship skaters, was designed to showcase the work of the skaters, and thus the petitioner met this criterion.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "Evidence that the petitioner continues to perform in primary roles for Disney on Ice, such as Snow White in their Princess Classics.",
+      "aao_analysis": "The director concluded that the petitioner had performed in a leading or critical role for an organization or establishment with a distinguished reputation. The AAO noted that the petitioner meets this criterion with current evidence consistent with sustained acclaim.",
+      "met": true
+    }
+  ],
+  "outcome": "sustain",
+  "outcome_reasoning": "The AAO found that the petitioner met three regulatory criteria: leading or critical role (Disney on Ice), lesser nationally/internationally recognized awards (Belarus championships and Cup of the Republic of Belarus), and display of work at artistic exhibitions or showcases (Byelorussian Ice Circus Extravaganza tour). While not all evidence carried the weight imputed by counsel, the petitioner established sustained national acclaim and recognition in her field. She also demonstrated intent to continue working in the same field in the United States and that her entry would substantially benefit the United States prospectively. The director's decision was withdrawn, the appeal sustained, and the petition approved.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "Sep132006_04B2203",
+  "source": "benchmark_unseen"
+}

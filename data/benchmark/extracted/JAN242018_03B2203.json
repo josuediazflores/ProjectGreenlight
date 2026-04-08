@@ -1,0 +1,49 @@
+{
+  "petitioner_background": "The petitioner is a judo wrestler (also involved in sambo and jiu-jitsu) seeking classification as an individual of extraordinary ability in athletics under INA \u00a7 203(b)(1)(A). She initially presented herself as both a wrestler and coach, but clarified in response to the RFE that she applied as a 'judo wrestler,' NOT as a wrestling coach. She competed on women's national judo and jiu-jitsu teams (apparently for Kazakhstan, based on referenced national newspaper) and served as an assistant coach and referee at a judo club from 2003-2013.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "Evidence that the petitioner won a gold, silver, and bronze medal at one competition, a gold medal at another competition, and a gold and bronze medal at another, among numerous other awards in judo, sambo, and jiu-jitsu competitions. She also provided media coverage of the competitions indicating that the awards are nationally recognized in her sport.",
+      "aao_analysis": "The AAO accepted the submitted evidence and found that the petitioner established she meets this criterion. The media coverage supported that the awards are nationally recognized in her sport.",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner asserted membership in the women's judo team, the women's jiu-jitsu team, and her role as an assistant coach of a sport club. She submitted two letters from the head coach of the women's judo team, who stated she selected the petitioner 'because of the outstanding achievements she reached' and that the petitioner 'would contribute to the Judo Team,' and contended she only selects candidates with 'major national and international victories,' though without specific examples. The petitioner also submitted a letter from her jiu-jitsu coach indicating she represented the team at competitions in 2011, 2013, and 2014, but without detailing selection criteria. Additionally, she submitted a letter from the senior coach of a renowned judo club indicating she was employed as a wrestler from 2003 to 2013 and as an assistant coach from 2007 to 2013. The petitioner cited Matter of K-S-Y- (AAO, March 9, 2016) as precedent.",
+      "aao_analysis": "The AAO found the petitioner did not offer sufficient evidence of the selection process for the women's judo and jiu-jitsu teams, failing to demonstrate that they require outstanding achievements of their members. The head coach's letters did not provide specific examples of the 'major national and international victories' required. The AAO rejected the petitioner's reliance on Matter of K-S-Y-, noting first that it was not a published precedent decision and therefore not binding under 8 C.F.R. \u00a7 103.3(c), and second that it was factually distinguishable: in K-S-Y-, the record demonstrated the petitioner competed in selection matches and that 'only those with the highest level of performance' made the team, which had the third highest number of medals in judo of any country. Here, the evidence did not show the teams' ranking compared to other countries or the specific level of achievement required for becoming a member. Regarding the judo club, the AAO found the record did not demonstrate that the club requires outstanding achievement of its members as judged by recognized national or international experts.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Evidence from four publications, including a book and a newspaper of Kazakhstan. The petitioner asserted this was evidence of published material about her in professional or other major trade publications.",
+      "aao_analysis": "The AAO found that the published materials report on particular competitions and reference the petitioner only briefly and tangentially as having won a medal or competed in the event. The plain language of the regulatory criterion requires 'published material about the alien,' and articles that are not about the petitioner do not meet this criterion. The AAO cited Negro-Plumpe v. Okin for the proposition that articles about a show are not about the actor. Accordingly, the petitioner did not meet the plain language of this criterion.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner did not submit the required initial evidence of either a qualifying one-time achievement or documents meeting at least three of the ten criteria at 8 C.F.R. \u00a7 204.5(h)(3)(i)-(x). She satisfied only the awards criterion. Because the initial evidentiary threshold was not met, the AAO did not need to fully address the totality of the materials in a final merits determination. Nevertheless, the AAO advised that it reviewed the record in the aggregate and concluded it did not support a finding that the beneficiary has the level of expertise required for the classification sought. The AAO also noted it need not determine whether she was coming to continue work in the area of extraordinary ability under section 203(b)(1)(A)(ii).",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 103.3(c)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Negro-Plumpe v. Okin, 2:07-CV-00820 (D. Nev. Sept. 2008)",
+    "Matter of K-S-Y- (AAO, March 9, 2016)",
+    "INA \u00a7 203(b)(1)(A)(i)",
+    "INA \u00a7 203(b)(1)(A)(ii)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner shifted her claimed area of expertise during the proceedings \u2014 initially describing herself as a freestyle judo, sambo, and jiu-jitsu wrestler and coach, then in response to the RFE stating she applied as a 'judo wrestler,' NOT as a wrestling coach, and on appeal arguing the Director's decision improperly focused on her coaching role. Additionally, the petitioner incorrectly cited Matter of K-S-Y- as a precedent decision, which the AAO corrected by noting it was a non-precedent decision not binding on USCIS officers under 8 C.F.R. \u00a7 103.3(c).",
+  "filename": "JAN242018_03B2203",
+  "source": "benchmark_unseen"
+}

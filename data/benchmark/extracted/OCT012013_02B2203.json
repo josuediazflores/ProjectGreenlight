@@ -1,0 +1,17 @@
+{
+  "petitioner_background": "The petitioner is self-represented and filed an Immigrant Petition for Alien Worker as an Alien of Extraordinary Ability under Section 203(b)(1)(A) of the Immigration and Nationality Act. No details about the petitioner's field of work, nationality, or career qualifications are provided in the decision, as the appeal was rejected on procedural grounds without reaching the merits.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO rejected the appeal as untimely filed. The service center director issued the decision on December 19, 2012, and properly notified the petitioner of the 33-day filing deadline (since the denial was mailed). The appeal was due no later than January 21, 2013, but was not mailed until January 22, 2013 and not properly filed with the required fee until January 23, 2013. Neither the Act nor the pertinent regulations grant the AAO authority to extend this time limit. The director also determined that the late appeal did not meet the requirements of a motion to reopen or reconsider before forwarding the matter to the AAO.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(i)",
+    "8 C.F.R. \u00a7 103.8(b)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(i)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(v)(B)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)"
+  ],
+  "fraud_or_procedural_issues": "The appeal was rejected as untimely filed. The appeal was due no later than January 21, 2013, but was not mailed until January 22, 2013 and not properly filed with the required fee until January 23, 2013. The director determined that the late appeal did not meet the requirements of a motion to reopen or reconsider and forwarded the matter to the AAO, which rejected it for untimeliness.",
+  "filename": "OCT012013_02B2203",
+  "source": "benchmark_unseen"
+}

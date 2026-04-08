@@ -1,0 +1,41 @@
+{
+  "petitioner_background": "The petitioner is a clinical chemist who specializes in pediatric clinical chemistry. She holds a Ph.D. in clinical and bioanalytical chemistry and completed post-doctoral training at a hospital program accredited by a professional board (one of 35 such accredited programs in the U.S.). She sought classification as an individual of extraordinary ability under INA \u00a7 203(b)(1)(A) via Form I-140. The matter came before the AAO on a second combined motion to reopen and reconsider after the Texas Service Center denied the petition and the AAO previously dismissed both an appeal and a first combined motion.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner submitted evidence of her Ph.D. in clinical and bioanalytical chemistry and her post-doctoral training, asserting these qualify as outstanding achievements. She claimed that the doctoral program she attended may be the only one accredited by a specific accrediting body, and that her post-doctoral training program is 1 of 35 accredited programs in the U.S. On motion, she newly asserted that only two of the 35 post-doctoral training programs are specialized in pediatric clinical chemistry, that the position is limited to one per year per hospital (meaning 35 post-doctoral fellows at any time), and that she is one of two individuals who received pediatric-specific post-doctoral training. She also submitted a U.S. News website excerpt discussing the hospital where she trained, noting it is one of only 281 hospitals in the U.S. and ranked fourth on a list. Additionally, she submitted an article titled regarding pediatric clinical chemistry published by the American Association of Clinical Chemistry (AACC) discussing the importance of pediatric clinical chemistry and the distinction between treatment of pediatric diseases and those of adults.",
+      "aao_analysis": "The AAO determined that while the petitioner's training may better qualify her to pursue a career as a clinical chemist, she had not shown that completion of that training is an achievement that stands out from those of her peers. The fact that the accrediting body chose to accredit a program does not prove that those who complete the program have made an outstanding achievement. Her claim that only two of 35 programs offer pediatric-specific training could not be established with unsupported testimonial evidence alone, as the record lacked corroborating documentation such as statistics from the accrediting body or the hospitals themselves. Even if established, this fact alone is insufficient to demonstrate an outstanding achievement because the petitioner herself asserted such positions are available annually to post-doctoral researchers. The AACC article only provided a general overview of the field and did not identify the petitioner by name or support her assertion of expertise. The U.S. News excerpt about the hospital's reputation did not establish that she met the plain language of the criterion, which requires membership in associations requiring outstanding achievements of their members as judged by recognized national or international experts. The petitioner also provided no explanation for why this evidence was not previously submitted.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner previously submitted a paper she authored published in Annals of Clinical & Laboratory Science, along with two papers making reference to it, including one titled a paper published in Clinical Biochemistry in 2019, which she claimed showed her work had been implemented at 'many hospitals' and helped form guidelines adopted at health care organizations. On motion, she listed six papers but only four were actually included with the submission. She specifically discussed only one \u2014 a case report published by the AACC \u2014 asserting it constituted 'an original contribution and original work' without further explanation. She is one of four authors of that paper. The remaining three submitted papers also indicated she was one of multiple authors for each publication, with no further discussion or analysis of their subjects.",
+      "aao_analysis": "The AAO found that the new evidence did not overcome the previous finding that the extent of the petitioner's contribution had not been established. For the AACC case report, since she was one of four authors, the extent of her contributions in comparison to other authors could not be determined without additional evidence. The remaining three papers also had multiple authors with no discussion of how they constituted original contributions. The AAO emphasized that the plain language of the criterion requires contributions to be not only original but also of major significance in the field. While the evidence showed her work contributed to knowledge on the subject, there was no evidence demonstrating the field had changed as a result of these papers, or that the findings and research were being implemented or reproduced within the field. She did not provide evidence that her contributions have been widely implemented, remarkably impacted or influenced the field, or otherwise risen to a level of major significance.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed both the motion to reopen and the motion to reconsider. The motion to reopen was dismissed because the new evidence submitted did not overcome the previous finding that the petitioner failed to meet either the membership criterion or the original contributions of major significance criterion, either alone or in context of previously submitted evidence. The motion to reconsider was dismissed because the petitioner did not specifically address the AAO's reasons for dismissal, did not identify or rebut specific errors, and did not argue how the AAO incorrectly applied law or policy. Merely disagreeing with conclusions without showing legal error or contradicting policy is not a ground for reconsideration. The petitioner's statement did not directly address the conclusions reached in the immediate prior decision.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 103.5(a)(1)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of O-S-G-, 24 I&N Dec. 56 (BIA 2006)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues: This was a second combined motion to reopen and reconsider, with the scope limited by regulation to the prior decision (the dismissal of the first combined motion). The petitioner listed six papers as appended to the motion but only four were actually included. She provided no explanation for why certain evidence (regarding pediatric-specific programs and the AACC article) was not previously submitted or whether it was unavailable. Her claims about only two hospitals offering pediatric-specific post-doctoral training were unsupported by corroborating documentation. The motion to reconsider failed procedurally because it did not specifically address the AAO's prior reasoning or identify legal/policy errors as required.",
+  "filename": "SEP152021_01B2203",
+  "source": "benchmark_unseen"
+}

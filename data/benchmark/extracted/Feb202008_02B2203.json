@@ -1,0 +1,17 @@
+{
+  "petitioner_background": "The petitioner is a Catholic school seeking to employ the beneficiary permanently in the United States as a physical education and health teacher. The petition was accompanied by a certified Form ETA-750 (Application for Alien Employment Certification) and a May 23, 2006 Final Determination letter from the U.S. Department of Labor. On Part 2 of the Form I-140, counsel checked box 'a,' indicating classification was sought under section 203(b)(1)(A) as an alien of extraordinary ability, though the supporting documentation was consistent with a skilled worker petition under section 203(b)(3).",
+  "evidence_per_criterion": [],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the director's decision and remanded the petition for further action. Although counsel incorrectly checked box 'a' on the Form I-140 requesting extraordinary ability classification, the accompanying documentation (the certified ETA-750 and DOL Final Determination letter) included no specific reference to section 203(b)(1)(A) or 8 C.F.R. \u00a7 204.5(h), and was instead consistent with a request for skilled worker classification under section 203(b)(3). On appeal, counsel submitted a November 27, 2006 letter acknowledging the box 'a' selection was erroneous and requesting the classification be changed to section 'e' (professional or skilled worker). The AAO further found that the director should have issued a request for evidence notice affording the petitioner an opportunity to address deficiencies prior to denial. The matter was remanded for consideration under section 203(b)(3) of the Act.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 203(b)(3) of the Act, 8 U.S.C. \u00a7 1153(b)(3)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(l)",
+    "8 C.F.R. \u00a7 204.5(h)",
+    "8 C.F.R. \u00a7 103.2(b)(8) (2006)"
+  ],
+  "fraud_or_procedural_issues": "Procedural error by the director: under 8 C.F.R. \u00a7 103.2(b)(8) (2006), the director should have issued a request for evidence notice affording the petitioner an opportunity to address deficiencies in the record prior to denying the petition, but failed to do so. Additionally, counsel erroneously checked box 'a' (extraordinary ability) on Part 2 of the Form I-140 when the supporting documentation was consistent with a skilled worker petition under section 203(b)(3); counsel acknowledged this error on appeal and requested a change of classification.",
+  "filename": "Feb202008_02B2203",
+  "source": "benchmark_unseen"
+}

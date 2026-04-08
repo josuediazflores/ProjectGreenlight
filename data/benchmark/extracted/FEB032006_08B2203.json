@@ -1,0 +1,20 @@
+{
+  "petitioner_background": "The petitioner is a Chinese restaurant seeking to employ the beneficiary permanently in the United States as a hostess. The petition was filed under INA \u00a7 203(b)(3)(A)(i) as a skilled worker/professional petition, not an EB-1A extraordinary ability petition. The labor certification was accepted on April 24, 2001, with a proffered salary of $28,000 per year.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner failed to establish its continuing ability to pay the proffered wage from the priority date. The beneficiary's W-2s showed wages of $3,925.32 (2001) and $18,413.12 (2002), well below the $28,000 proffered wage, leaving shortfalls of $24,074.68 and $9,586.88 respectively. The petitioner did not submit the required federal tax returns, annual reports, or audited financial statements for 2001-2003, instead relying on Forms W-3, bank letters, and an accountant's letter. The AAO held that bank statements are not among the three types of evidence required by 8 C.F.R. \u00a7 204.5(g)(2), cannot show sustainable ability to pay, and the petitioner failed to demonstrate why the specified documentation was inapplicable. Without net income, taxable income, or net current assets data, the petitioner failed to meet its burden of proof.",
+  "legal_citations": [
+    "Section 203(b)(3)(A)(i) of the Act, 8 U.S.C. \u00a7 1153(b)(3)(A)(i)",
+    "8 C.F.R. \u00a7 204.5(g)(2)",
+    "8 C.F.R. \u00a7 204.5(d)",
+    "Elatos Restaurant Corp. v. Sava, 632 F. Supp. 1049 (S.D.N.Y. 1986)",
+    "Tongatapu Woodcraft Hawaii, Ltd. v. Feldman, 736 F.2d 1305 (9th Cir. 1984)",
+    "Chi-Feng Chang v. Thornburgh, 719 F. Supp. 532 (N.D. Tex. 1989)",
+    "K.C.P. Food Co., Inc. v. Sava, 623 F. Supp. 1080 (S.D.N.Y. 1985)",
+    "Ubeda v. Palmer, 539 F. Supp. 647 (N.D. Ill. 1982), aff'd., 703 F.2d 571 (7th Cir. 1983)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "This is an EB-3 skilled worker petition (hostess position), not an EB-1A/O-1A extraordinary ability petition. No extraordinary ability criteria are discussed. The case concerns the employer's ability to pay the proffered wage under 8 C.F.R. \u00a7 204.5(g)(2). The petitioner failed to file required 2001 and 2002 corporate tax returns (claimed extensions due to corporate structure changes) and did not submit Schedule L, annual reports, or audited financial statements.",
+  "filename": "FEB032006_08B2203",
+  "source": "benchmark_unseen"
+}

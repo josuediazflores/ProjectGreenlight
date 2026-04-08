@@ -1,0 +1,18 @@
+{
+  "petitioner_background": "The petitioner is a pop singer seeking classification as an individual of extraordinary ability in the arts under INA section 203(b)(1)(A). The Director of the Texas Service Center denied the petition, and the AAO dismissed the subsequent appeal, concluding that the petitioner did not establish receipt of a major, internationally recognized award or satisfy at least three of the initial evidentiary criteria. The matter came before the AAO on a motion to reconsider.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied the motion to reconsider because it did not satisfy the applicable requirements under 8 C.F.R. \u00a7 103.5(a)(3)-(4). The brief submitted in support of the motion was predominantly a verbatim copy of the brief submitted in support of the appeal, and did not reference any specific statute, USCIS policy, or pertinent decision to establish that the prior decision was based on an incorrect application of law or policy. The only regulation cited was 8 C.F.R. \u00a7 204.5(h)(3), which merely recites the initial evidentiary criteria, and the brief's reference to it neither expressly nor implicitly alleged that the appeal dismissal was based on an incorrect application of law or policy\u2014it simply generally alleged, by implication, that the AAO erred in determining the petitioner did not establish eligibility.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "Matter of O-S-G-, 24 I&N Dec. 56 (BIA 2006)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: The motion to reconsider failed to satisfy the requirements of 8 C.F.R. \u00a7 103.5(a)(3) because the brief was predominantly a verbatim copy of the appeal brief and did not cite any specific statute, USCIS policy, or pertinent decision establishing that the prior decision was based on an incorrect application of law or policy. Per Matter of O-S-G-, a motion is not a process by which a party may submit essentially the same brief presented on appeal and seek reconsideration by generally alleging error.",
+  "filename": "SEP262017_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,36 @@
+{
+  "petitioner_background": "The petitioner is a Kenyan runner with cerebral palsy seeking classification as an alien of extraordinary ability in athletics under section 203(b)(1)(A) of the Act. She won a bronze medal at the 2000 Paralympics in Sydney, Australia, competing in an event limited to athletes with her same disability, and was the first Kenyan to win such a medal. She was selected to Kenya's 14-member national Paralympics team for the 2000 games.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence of her bronze medal won at the 2000 Paralympics in Sydney, Australia, where 3,824 athletes from 122 countries competed, over one million tickets were sold, and 2,300 media representatives covered the games. She also submitted evidence of the Head of State's Commendation (Civilian Division) from the Republic of Kenya, which she received in December 2000 as a tribute to her Paralympic achievement. Counsel argued the Paralympic medal should be considered a one-time achievement equivalent to a Nobel Prize.",
+      "aao_analysis": "The AAO found the bronze medal and Head of State's Commendation persuasive evidence meeting this criterion as lesser nationally or internationally recognized prizes. However, the AAO rejected the argument that the Paralympic medal constitutes a one-time achievement equivalent to a Nobel Prize, noting that the only example of a one-time achievement in legislative history is a Nobel Prize (H.R. Rep. No. 101-723 at 59 (1990)), and that the Paralympics do not generate the same media attention as the Nobel Prize or Olympics. The AAO also reasoned that the Nobel Prize is awarded in broad categories and Olympic events are heavily contested, while the Paralympics limit events by disability classification, narrowing the competition \u2014 the petitioner competed in an event limited to athletes with her same disability, significantly reducing the pool of competitors. Additionally, the AAO found that the petitioner won these awards nearly four years prior to filing the petition and has not sustained her acclaim after 2000, rejecting counsel's argument that acclaim is sustained because she 'is still the winner of that medal' as undermining the entire meaning of 'sustained.'",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner submitted evidence of her selection for Kenya's 14-member national Paralympics team that competed in 2000.",
+      "aao_analysis": "The director concluded the petitioner did not submit evidence to meet this criterion. The AAO noted that the record contains no evidence as to how many disabled women run competitively in Kenya such that the competition to join the national team could be evaluated. Even if national team membership could be considered comparable evidence to meet this criterion, the petitioner was chosen for a team that competed in 2000, so her team membership is not evidence of sustained acclaim after 2000.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner initially submitted an Internet report posted on the Daily Nation's website reporting on the Kenyan team's results at the Paralympics. In response to the director's request for additional evidence, she submitted an article from the East African Standard reporting on eleven athletes, including the petitioner, who received state honors in 2000.",
+      "aao_analysis": "The AAO concurred with the director that the evidence did not demonstrate sustained national or international acclaim. The petitioner did not submit any evidence regarding the significance of the Daily Nation's website or the circulation of the East African Standard. Even assuming these media qualify as major media, neither the report nor the article is primarily about the petitioner as required by the plain language of 8 C.F.R. \u00a7 204.5(h)(3)(iii), so the materials cannot serve to meet this criterion.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO upheld the director's decision and dismissed the appeal, finding that the petitioner's Paralympic bronze medal is not a one-time achievement equivalent to a Nobel Prize, that the evidence is not indicative of sustained acclaim (as awards were won nearly four years before filing with no continued acclaim thereafter), and that the petitioner submitted persuasive evidence for only one of the ten regulatory criteria (awards) when at least three are required. On final merits review, the AAO determined that the record does not establish the petitioner has distinguished herself as a runner to such an extent that she may be said to have achieved sustained national or international acclaim or to be within the small percentage at the very top of her field; while she shows talent as a disabled runner, the evidence is not persuasive that her achievements set her significantly above almost all others in her field. The burden of proof remained with the petitioner, who did not sustain that burden.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "H.R. Rep. No. 101-723 at 59 (1990)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "May092006_05B2203",
+  "source": "benchmark_unseen"
+}

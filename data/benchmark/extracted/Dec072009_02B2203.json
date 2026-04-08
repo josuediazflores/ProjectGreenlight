@@ -1,0 +1,20 @@
+{
+  "petitioner_background": "The petitioner is self-represented and filed Form I-140 on April 7, 2008 seeking to classify the beneficiary as an alien of extraordinary ability under section 203(b)(1)(A) of the Act. The petitioner also submitted Form ETA-750, Application for Alien Employment Certification, certified on November 7, 2007, reflecting an offer of employment to the beneficiary as a motel administrator (the petition seeks to classify the beneficiary as a hotel administrator). The record contains documents relating to the beneficiary's education in computer engineering in India, including a birth certificate, a 'Bonafide Certificate' from the College of Hi-Tech Engineering, transcripts, and a certificate from Dnyaneshwar Vidyapeeth, but no evidence of acclaim in the hotel/motel administration field.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The appeal was summarily dismissed. The director denied the petition because the petitioner failed to submit any documentary evidence establishing the beneficiary's eligibility as an alien of extraordinary ability, and on appeal the petitioner explained that he had erroneously mailed the initial evidence to the U.S. Department of Labor. The documents submitted on appeal (birth certificate, education certificates, transcripts, and an identification card from a personnel consultancy) do not relate to any of the ten regulatory criteria at 8 C.F.R. \u00a7 204.5(h)(3), nor did the petitioner claim a one-time major international award. Additionally, pursuant to 8 C.F.R. \u00a7 103.3(a)(1)(v), the petitioner failed to specifically identify any erroneous conclusion of law or statement of fact by the director, mandating summary dismissal of the appeal.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.2(b)(8)",
+    "8 C.F.R. \u00a7 103.2(b)(8)(ii)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues: (1) The petitioner failed to submit the required initial evidence with the Form I-140 petition, claiming on appeal that he mistakenly mailed the documentation to the U.S. Department of Labor instead of USCIS. (2) The petitioner failed to specifically identify any erroneous conclusion of law or statement of fact by the director as required by 8 C.F.R. \u00a7 103.3(a)(1)(v), which mandated summary dismissal of the appeal.",
+  "filename": "Dec072009_02B2203",
+  "source": "benchmark_unseen"
+}

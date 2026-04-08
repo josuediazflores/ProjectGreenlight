@@ -1,0 +1,53 @@
+{
+  "petitioner_background": "The petitioner is a martial artist seeking classification as an individual of extraordinary ability under the EB-1A first preference category. The Director of the Texas Service Center denied the petition, the AAO dismissed the appeal, and subsequently dismissed a combined motion to reconsider and reopen as well as a later motion to reconsider. The matter is now before the AAO on a combined motion to reconsider and reopen. The petitioner trained at a gym in Thailand and competed in a fight in Thailand for a WMF pro world title in the heavyweight division between 2013 and 2014.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner reasserted arguments from his previous motion brief regarding awards. He also asserted that 'most of my medals and all information about me participating in all kinds of competitions was collected by my trainer' and that 'I lost the bulk of my diplomas and certifications as a result of his death,' claiming unavailability of unspecified additional awards.",
+      "aao_analysis": "The AAO found that the petitioner made the same arguments as in his previous motion brief without any mention or discussion of the AAO's decision dismissing his prior motion. The AAO held that disagreeing with conclusions without showing legal error or pointing to contradicting policy is not a ground to reconsider. Additionally, the petitioner did not explain how the claimed unavailability of unspecified additional awards established that the prior motion decision was based on an incorrect application of law or policy.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted a brief making the same arguments as the previous motion brief regarding published materials, without discussion of the AAO's prior dismissal decision.",
+      "aao_analysis": "The AAO found that the petitioner merely reasserted arguments from the previous motion brief without any mention or discussion of the AAO's decision dismissing his motion. Simply disagreeing with the AAO's conclusions without showing legal error or pointing to contradicting policy is not grounds to reconsider.",
+      "met": false
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted a brief making the same arguments as the previous motion brief regarding the judging criterion. Previously, the Director had found this criterion met, but the AAO withdrew that determination on appeal. An additional letter of recommendation dated February 2016 from a representative of a gym in Thailand was submitted indicating the petitioner trained there and competed in a fight for a WMF pro world title in heavyweight division between 2013 and 2014.",
+      "aao_analysis": "The AAO noted that although the Director initially concluded the petitioner satisfied the judging criterion at 8 C.F.R. \u00a7 204.5(h)(3)(iv), the AAO withdrew that determination on appeal and decided the petitioner did not fulfill any of the claimed criteria. On the current motion, the petitioner repeated arguments without addressing the AAO's reasoning. The February 2016 letter from the Thai gym did not establish eligibility under any of the regulatory criteria listed at 8 C.F.R. \u00a7 204.5(h)(3)(i)-(x).",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted a brief making the same arguments as the previous motion brief regarding the leading or critical role criterion, without discussion of the AAO's prior dismissal decision.",
+      "aao_analysis": "The AAO found that the petitioner merely reasserted arguments from the previous motion brief without any mention or discussion of the AAO's decision dismissing his motion. Disagreeing with the AAO's conclusions without showing legal error or pointing to contradicting policy is not grounds to reconsider the decision.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed both the motion to reconsider and the motion to reopen. The motion to reconsider was dismissed because the petitioner did not show that the AAO's latest decision was based on an incorrect application of law or USCIS policy \u2014 the petitioner submitted a brief essentially mirroring his previous motion brief without addressing the AAO's prior dismissal reasoning. The motion to reopen was dismissed because the petitioner primarily offered previously submitted documentation (which does not qualify as 'new facts'), and the one new piece of evidence \u2014 a February 2016 letter from a Thai gym representative \u2014 did not establish eligibility under any of the regulatory criteria at 8 C.F.R. \u00a7 204.5(h)(3)(i)-(x). Additionally, the petitioner failed to include the required judicial proceeding statement under 8 C.F.R. \u00a7 103.5(a)(1)(iii), so the motions did not meet applicable requirements.",
+  "legal_citations": [
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "Section 203(b)(1)(A) of the Act",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of O-S-G-, 24 I&N Dec. 56 (BIA 2006)",
+    "8 C.F.R. \u00a7 1003.2(b)(1)",
+    "8 C.F.R. \u00a7 1003.2(c)(1)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner failed to include the required statement under 8 C.F.R. \u00a7 103.5(a)(1)(iii) about whether the validity of the unfavorable decision has been or is the subject of any judicial proceedings. Because of this omission, the petitioner's motions did not meet the applicable filing requirements under 8 C.F.R. \u00a7 103.5(a)(4). Additionally, the motion to reconsider was procedurally deficient because the petitioner merely resubmitted a brief substantially similar to the prior motion brief without addressing the AAO's prior dismissal decision.",
+  "filename": "SEP022021_02B2203",
+  "source": "benchmark_unseen"
+}

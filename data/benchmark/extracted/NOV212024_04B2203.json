@@ -1,0 +1,49 @@
+{
+  "petitioner_background": "The petitioner is a web developer and digital designer from Uzbekistan who earned a bachelor's degree in informatics and information technologies in 2017. That same year, he began working in the marketing department of a Japanese information technology company as a web developer. He has been in the United States since October 2022, when he entered as a B-2 nonimmigrant visitor. He sought classification as an individual of extraordinary ability under INA section 203(b)(1)(A), though his initial submission also referenced the EB-2 national interest waiver classification which he did not further pursue.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner claimed membership in the International Association of Engineers (IAENG). He described IAENG as having three levels of membership, the highest being 'Fellow Member,' which 'is conferred on engineers and scientists of distinction and outstanding qualification, and who has made extraordinary contributions in the engineering field.' He also described IAENG as having 'a diverse membership, including research center heads, faculty deans, department heads, professors, research scientists/engineers, experienced software development directors and engineers, and university postgraduate and undergraduate students.' On appeal, he asserted that 'The IAENG's membership eligibility is determined by a panel of recognized experts in the field of engineering and computer science. These experts evaluate prospective members based on their professional achievements and contributions to the field, ensuring that only individuals with outstanding credentials are admitted.'",
+      "aao_analysis": "The AAO agreed with the Director that the record did not contain any documentary evidence identifying the petitioner as a member of IAENG, and the petitioner did not submit evidence of IAENG's membership requirements. On appeal, the petitioner stated the Director's conclusion 'lacks an understanding of the provided evidence' but did not identify that evidence or explain how it addressed the regulatory requirements. While the rank of fellow member might conform to the regulatory requirements, the petitioner did not specifically claim to be a fellow member and did not submit evidence to document such membership. The petitioner did not cite any evidence showing that a panel of recognized experts granted him IAENG membership. Additionally, the petitioner did not explain how an association that admits undergraduate students restricts membership to individuals with outstanding achievements.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner claimed to satisfy the criterion for leading or critical role for distinguished organizations or establishments, but the specific evidence was not detailed in the decision.",
+      "aao_analysis": "The AAO reserved detailed discussion of this criterion, explaining that because the petitioner failed to satisfy the membership criterion, he could not meet the minimum of three criteria required, so further analysis of this criterion could not change the outcome of the appeal.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner claimed to satisfy the criterion for high remuneration for services, but the specific evidence was not detailed in the decision.",
+      "aao_analysis": "The AAO reserved detailed discussion of this criterion, explaining that because the petitioner failed to satisfy the membership criterion, he could not meet the minimum of three criteria required, so further analysis of this criterion could not change the outcome of the appeal.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner failed to satisfy at least three of the ten regulatory criteria under 8 C.F.R. \u00a7 204.5(h)(3), having failed the membership criterion which was the threshold issue addressed. Because the petitioner did not meet the initial evidentiary threshold, the AAO did not need to conduct a final merits determination under Kazarian. Nevertheless, the AAO reviewed the record in the aggregate and concluded it did not support that the petitioner had established the sustained national or international acclaim required, noting that this classification is intended for individuals already at the top of their field rather than those progressing toward it. The record did not demonstrate that the petitioner is one of the small percentage who has risen to the very top of the field of endeavor.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "INS v. Bagamasbad, 429 U.S. 24 (1976)",
+    "Matter of L-A-C-, 26 I&N Dec. 516 (BIA 2015)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "Section 203(b)(2) of the Act",
+    "Section 203(b)(2)(B)(i) of the Act"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "NOV212024_04B2203",
+  "source": "benchmark_unseen"
+}

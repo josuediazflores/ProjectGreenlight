@@ -1,0 +1,51 @@
+{
+  "petitioner_background": "The Petitioner is a general manager of an aquafarming/fisheries company in China with over ten years of experience in the field. He sought classification as an alien of extraordinary ability under INA \u00a7 203(b)(1)(A) (EB-1A) and intends to continue working as a company manager in the same field in the United States. He claimed eligibility through the evidentiary criteria rather than a major internationally recognized award.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The Petitioner submitted evidence of memberships in two associations: (1) the China Fisheries Association, supported by a Letter of Certification from an association officer and a list of the association's members for 2019. The letter stated that members 'are composed of Chinese fishery company leaders, influential and representative people, and persons who have made outstanding contributions to China's fishery,' and that 'members need to submit a membership application, and they can join the association after being reviewed by the directors or the executive directors' review.' The letter confirmed the Petitioner joined in February 2019 and included profile summaries for several individuals who review membership applications. (2) The [redacted] Aquafarming Association, supported by a Letter of Certification from the association's president, the section of the association's bylaws pertaining to membership criteria, and excerpts from the association's website. Article 8 of the bylaws required applicants to: support the Association's constitution; have willingness to join; have 'Made outstanding influence or outstanding talents in [the aquaculture] and trading industry'; be able to fulfill membership obligations; and be willing to make greater contributions to the aquaculture industry. The president's letter stated the Petitioner 'has been deeply involved in the [field] for more than 10 years and is an authoritative expert' in China, and confirmed his membership since 2013.",
+      "aao_analysis": "The AAO agreed with the Director that neither association required outstanding achievements of members judged by recognized national or international experts. For the China Fisheries Association, the Petitioner failed to submit the bylaws or other official documentation of membership criteria, so the AAO could not evaluate whether membership was qualifying. While the officer's letter described the Petitioner's personal accomplishments and provided profile summaries of individuals who allegedly review applications, it did not provide evidence of the actual membership requirements or demonstrate that membership is judged by recognized national or international experts. For the [redacted] Aquafarming Association, the bylaws required 'outstanding influence or outstanding talents' in the industry, but the AAO held that 'influence and talent in the field are not outstanding achievements,' and therefore the bylaws did not establish eligibility. The AAO further noted that the president's letter focused on the Petitioner's personal achievements, which are not relevant to this criterion\u2014the question is whether the association requires outstanding achievements of its members as judged by recognized national or international experts\u2014and the letter did not establish that such requirements existed.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The decision does not detail the specific evidence submitted; the Director determined that the Petitioner met this criterion and the AAO agreed with that determination without further analysis.",
+      "aao_analysis": "The Director found the Petitioner satisfied the published material criterion under 8 C.F.R. \u00a7 204.5(h)(3)(iii), and the AAO agreed with that determination without additional discussion.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The decision does not detail the specific evidence submitted; the Director determined that the Petitioner met this criterion and the AAO agreed with that determination without further analysis.",
+      "aao_analysis": "The Director found the Petitioner satisfied the leading or critical role criterion under 8 C.F.R. \u00a7 204.5(h)(3)(viii), and the AAO agreed with that determination without additional discussion.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The Petitioner initially claimed to meet the high salary criterion under 8 C.F.R. \u00a7 204.5(h)(3)(ix), but did not pursue this claim on appeal. The specific evidence submitted below is not described in the decision.",
+      "aao_analysis": "Because the Petitioner did not pursue the high salary claim on appeal, the AAO deemed the issue waived and did not address this criterion, citing Matter of M-A-S-, 24 I&N Dec. 762, 767 n.2 (BIA 2009).",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the Petitioner failed to satisfy at least three of the ten regulatory criteria. Although the Director and AAO found the Petitioner met the published material and leading or critical role criteria, the Petitioner failed to establish the membership criterion and waived the high salary criterion on appeal, leaving him with only two satisfied criteria. Because the Petitioner did not meet the initial evidence requirement, a final merits determination under Kazarian was not required. Nevertheless, the AAO reviewed the record in the aggregate and concluded that while the Petitioner is a skilled manager who has gained recognition in his field, his recognition does not rise to the level of sustained national or international acclaim or demonstrate that he is among the small percentage at the very top of the field of endeavor.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A), 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of M-A-S-, 24 I&N Dec. 762 (BIA 2009)",
+    "H.R. Rep. No. 101-723 (Sept. 19, 1990)",
+    "6 USCIS Policy Manual F.2(B)(2)"
+  ],
+  "fraud_or_procedural_issues": "The Petitioner waived the high salary criterion by not pursuing it on appeal, so the AAO deemed the issue abandoned and declined to address it.",
+  "filename": "APR292022_01B2203",
+  "source": "benchmark_unseen"
+}

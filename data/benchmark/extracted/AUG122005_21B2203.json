@@ -1,0 +1,13 @@
+{
+  "petitioner_background": "The petitioner filed an immigrant visa petition seeking classification as an alien of extraordinary ability under Section 203(b)(1)(A) of the Immigration and Nationality Act. No substantive details about the petitioner's field of work, nationality, or qualifications are provided in the decision text, as the appeal was withdrawn before any merits review.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The Vermont Service Center Director denied the immigrant visa petition, and the petitioner appealed to the Administrative Appeals Office. On February 18, 2005, counsel for the petitioner requested that the appeal be withdrawn. The AAO dismissed the appeal based on its withdrawal by counsel, without reaching the merits of the extraordinary ability claim.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)"
+  ],
+  "fraud_or_procedural_issues": "The appeal was withdrawn by counsel on February 18, 2005, and the AAO dismissed the matter on that procedural basis without addressing the substantive extraordinary ability claim.",
+  "filename": "AUG122005_21B2203",
+  "source": "benchmark_unseen"
+}

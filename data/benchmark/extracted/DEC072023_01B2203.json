@@ -1,0 +1,47 @@
+{
+  "petitioner_background": "The petitioner is a project manager in augmented reality (AR) and virtual reality (VR) who sought classification as an individual of extraordinary ability under EB-1A, INA \u00a7 203(b)(1)(A). Despite his stated field being AR/VR project management, the evidence submitted related to environmental management and nature protection activities in Russia. The Nebraska Service Center Director denied the petition, finding the petitioner did not satisfy at least three of the initial evidentiary criteria.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted a Certificate of Merit (Honorary Certificate) from a Russian Ministry, awarded 'for his great personal contribution to the development of environmental management, environmental protection and active participation in the preparations for the Year of Ecology in Russia.' In response to the Director's RFE, he provided a letter from K-M-S-, director of the issuing organization, explaining that the award is given to civil servants of federal services and agencies under the Ministry's jurisdiction, their territorial bodies, employees of subordinate organizations, and other individuals for their personal contribution to the implementation of state policy in the field of studying, using, reproducing, and protecting natural resources. The letter also described the evaluation criteria: the project's uniqueness, its potential for subsequent use, its demonstration of responsible nature management, and its scalability. The letter stated that heads of subordinate organizations are responsible for information provided, and false information can lead to revocation of the award and criminal liability.",
+      "aao_analysis": "The AAO found that the petitioner did not establish how the letter reflects national or international recognition for excellence in the field for the Certificate of Merit. The letter does not discuss the field's view of the Certificate of Merit or explain why the award is considered to be nationally or internationally recognized for excellence. Although the letter provides some background information such as evaluating criteria, the petitioner did not demonstrate the recognition of the award beyond the issuing Ministry itself. The AAO noted the focus should be on the person's receipt of the awards as opposed to the employer's receipt, and that USCIS determines whether the award is a lesser nationally or internationally recognized prize for excellence in the field of endeavor.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner claimed membership in the All-Russian Society for the Protection of Nature (ARSPN). He initially submitted a membership confirmation letter from ARSPN and a recommendation letter from T-T-U-, a member of ARSPN, who described several of the petitioner's professional accomplishments but made no mention of the organization's membership requirements or judging body. In response to the Director's RFE, the petitioner provided another letter from T-T-U- stating that 'Persons who make obvious contribution to the development and popularization of the protection of nature in the territory of the Russian Federation can become members of our Society,' and that the Board of the Society and the Chairman make decisions on admission based on an application and delivery of documents confirming the applicant's professional activities and contribution to the development and popularization of nature protection in Russia.",
+      "aao_analysis": "The AAO found that the petitioner did not demonstrate how the letter shows that membership with ARSPN requires outstanding achievements judged by recognized national or international experts. Based on the letter, membership only requires an 'obvious contribution,' and the letter does not elaborate or explain what constitutes an 'obvious contribution' or how that is tantamount to an 'outstanding achievement.' Additionally, while the letter indicates that the board and chairman make admission decisions, the letter does not show whether they are considered recognized national or international experts in the field.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner failed to satisfy at least three of the ten regulatory criteria under 8 C.F.R. \u00a7 204.5(h)(3). Although the petitioner also claimed eligibility under the published material and original contributions criteria, the AAO reserved those issues because the petitioner could not meet the minimum three-criterion threshold regardless. On aggregate review, the AAO concluded the record does not support that the petitioner has established the acclaim and recognition required for this highly restrictive classification, noting that the petitioner has not shown the significance of his work is indicative of sustained national or international acclaim or consistent with a 'career of acclaimed work in the field.' The record did not contain sufficient evidence establishing him among the upper echelon in his field or as one of the small percentage who has risen to the very top of the field of endeavor.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r 1994)",
+    "Hamal v. Dep't of Homeland Sec. (Hamal II), No. 19-cv-2534, 2021 WL 2338316 (D.D.C. June 8, 2021), aff'd, 2023 WL 1156801 (D.C. Cir. Jan. 31, 2023)",
+    "Hamal v. Dep't of Homeland Sec. (Hamal I), No. 19-cv-2534, 2020 WL 2934954 (D.D.C. June 3, 2020)",
+    "Lee v. Ziglar, 237 F. Supp. 2d 914 (N.D. Ill. 2002)",
+    "INS v. Bagamasbad, 429 U.S. 24 (1976)",
+    "Matter of L-A-C-, 26 I&N Dec. 516 (BIA 2015)",
+    "H.R. Rep. No. 101-723 (Sept. 19, 1990)",
+    "6 USCIS Policy Manual F.2(B)(1)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "DEC072023_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,36 @@
+{
+  "petitioner_background": "The petitioner is a global security expert seeking classification as an alien of extraordinary ability under INA section 203(b)(1)(A). He filed a Form I-140 immigrant petition with the Texas Service Center claiming to meet nine of the ten evidentiary criteria under 8 C.F.R. \u00a7 204.5(h)(3). No specific nationality or additional career details are provided in the decision.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence under 8 C.F.R. \u00a7 204.5(h)(3)(i) for lesser nationally or internationally recognized prizes or awards, though the specific awards are not identified in the AAO decision. This was the only criterion the Director specifically addressed in both the RFE and the final denial decision.",
+      "aao_analysis": "The AAO did not substantively analyze whether the evidence met this criterion. Instead, the AAO noted that this was the only criterion the Director addressed in the RFE and denial, despite the petitioner claiming nine criteria. The AAO remanded the matter without making findings on whether this criterion was met, directing the Director on remand to review and consider each of the petitioner's claims and all evidence in the record.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew both the Director's dismissal of the motion as untimely and the underlying denial decision. First, the motion was timely under COVID-19 filing flexibilities announced by USCIS, which extended the filing period to 60 days (plus 3 days for mail service under 8 C.F.R. \u00a7 103.8(b)) for decisions issued between March 1, 2020 and October 31, 2021; the petitioner's motion was received within 63 days. Second, the Director's denial failed to address eight of the nine criteria the petitioner claimed, violating the RFE requirement to provide adequate notice of deficiencies under 8 C.F.R. \u00a7 103.2(b)(8)(iv) and the requirement to fully explain reasons for denial to permit meaningful appellate review. The matter was remanded for the Director to review each claimed criterion and all evidence, including materials submitted on motion and appeal, and to issue an RFE or NOID if additional evidence is needed.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 103.3",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "INA section 203(b)(1)(A)(ii)",
+    "INA section 203(b)(1)(A)(iii)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "8 C.F.R. \u00a7 103.2(b)(8)(iv)",
+    "8 C.F.R. \u00a7 103.3(a)(i)",
+    "Matter of M-P-, 20 I&N Dec. 786 (BIA 1994)",
+    "8 C.F.R. \u00a7 103.8(b)"
+  ],
+  "fraud_or_procedural_issues": "Multiple procedural issues: (1) The petitioner's initial appeal filed May 26, 2023 was erroneously rejected by USCIS for an incorrect or missing filing fee, when in fact a check in the correct amount had accompanied the filing; the AAO accepted the refiled appeal as timely because it was refiled within 33 days of the erroneous rejection. (2) The Director improperly dismissed the petitioner's motion to reopen as untimely, failing to account for COVID-19 filing flexibilities that allowed 60 days (plus 3 mail days) to file a Form I-290B for decisions issued between March 1, 2020 and October 31, 2021. (3) The Director's RFE failed to provide adequate notice of deficiencies in eight of the nine claimed criteria, addressing only the lesser awards criterion under 8 C.F.R. \u00a7 204.5(h)(3)(i), in violation of 8 C.F.R. \u00a7 103.2(b)(8)(iv). (4) The Director's denial decision similarly failed to address the other criteria or evidence submitted in the RFE response, preventing meaningful appellate review.",
+  "filename": "JAN232024_01B2203",
+  "source": "benchmark_unseen"
+}

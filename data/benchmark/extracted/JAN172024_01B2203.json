@@ -1,0 +1,76 @@
+{
+  "petitioner_background": "The petitioner is an artist specializing in Chinese painting and calligraphy, described in his personal profile as a graduate of a redacted institution and 'a well-known contemporary Sinologist, Painter, Calligrapher and Philanthropist.' He initially claimed extraordinary ability as both a scholar in contemporary Confucianism and as an artist, but clarified in response to an RFE that he intends to continue his work as an artist in the United States. He sought first-preference immigrant classification as an individual of extraordinary ability under INA \u00a7 203(b)(1)(A).",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence that he received nationally recognized awards in his field as an artist specializing in Chinese painting and calligraphy.",
+      "aao_analysis": "The Director concluded that the petitioner met this criterion by establishing that he received nationally recognized awards. The AAO did not disturb this finding on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner submitted evidence relating to memberships in associations that require outstanding achievements of their members.",
+      "aao_analysis": "The Director concluded that the petitioner did not meet this criterion. However, the AAO found that the Director's final merits analysis failed to address the evidence relating to the petitioner's memberships in associations, which was one of the reasons for remand. The AAO directed that the new decision include an analysis of the totality of the record, including this claimed criterion.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted evidence of published materials about him in professional publications or major media.",
+      "aao_analysis": "The Director concluded that the petitioner did not meet this criterion. The AAO found that the Director's final merits analysis failed to address the evidence relating to published materials about the petitioner, which was one of the reasons for remand. The AAO directed that the totality of this evidence be considered on remand.",
+      "met": false
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence that he participated as a judge of the work of others in the same or an allied field of specialization.",
+      "aao_analysis": "The Director concluded that the petitioner met this criterion by establishing that he participated as a judge of the work of others in the same field. The AAO did not disturb this finding on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted evidence including several letters from experts in his field which specifically addressed his contributions to the field, as well as the authors' opinions regarding his recognition and stature in the field.",
+      "aao_analysis": "The Director concluded that the petitioner did not meet this criterion. The AAO found that the Director's final merits analysis failed to address the evidence relating to the petitioner's contributions to his field, including the expert recommendation letters that were relevant to the final merits determination. This was one of the reasons for remand.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The petitioner submitted evidence that he displayed his work at artistic exhibitions or showcases.",
+      "aao_analysis": "The Director concluded that the petitioner met this criterion by establishing that he displayed his work at artistic exhibitions. The AAO did not disturb this finding on appeal.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner submitted evidence that he commanded significantly high remuneration for services in relation to others in his field.",
+      "aao_analysis": "The Director concluded that the petitioner met this criterion by establishing that he commanded significantly high remuneration in relation to others in his field. The AAO did not disturb this finding on appeal.",
+      "met": true
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for entry of a new decision. The AAO agreed with the petitioner that the Director's final merits analysis did not reflect consideration of the totality of the evidence as required by Kazarian. Although the petitioner submitted evidence relating to at least seven of the regulatory criteria, the Director's final merits discussion addressed evidence related to only four criteria and failed to address evidence regarding memberships, published materials, and original contributions, including expert recommendation letters addressing the petitioner's recognition and stature in the field. Additionally, the AAO identified potentially derogatory information from Department of State records showing inconsistencies between the petitioner's Form DS-160 (May 2015)\u2014which stated he was employed in 'business' managing a Chinese company in Beijing and had previously been general manager of a thermoelectrical materials company, with different education listed\u2014and his current claims of self-employment as an artist since 2011. The Director was instructed to review this discrepancy and, if material, issue an RFE or NOID to allow the petitioner an opportunity to explain.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1101(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3",
+    "8 C.F.R. \u00a7 103.3(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.2(b)(16)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Buletini v. INS, 860 F. Supp. 1222 (E.D. Mich. 1994)",
+    "Matter of K-S-, 20 I&N Dec. 715 (BIA 1993)",
+    "Matter of M-P-, 20 I&N Dec. 786 (BIA 1994)",
+    "Matter of Ho, 19 I&N Dec. 582 (BIA 1988)",
+    "6 USCIS Policy Manual F.2(B)(2)"
+  ],
+  "fraud_or_procedural_issues": "Two issues identified: (1) Procedural error by the Director in failing to properly apply the Kazarian two-part adjudicative approach\u2014the final merits determination did not consider the totality of the evidence, addressing only four of the seven claimed criteria and ignoring expert recommendation letters, in violation of 8 C.F.R. \u00a7 103.3(a)(1)(i) requiring a sufficient written explanation. (2) Potentially derogatory information from Department of State records: the petitioner's May 2015 Form DS-160 stated he was employed in 'business' managing a Chinese company in Beijing and previously worked as general manager of a thermoelectrical materials company, and listed different education, which appears inconsistent with his current petition claims of being self-employed as an artist since 2011 and his claimed educational background. The Director was instructed to review this discrepancy on remand and, if material, provide the petitioner an opportunity to explain and rebut pursuant to 8 C.F.R. \u00a7 103.2(b)(16)(i), citing Matter of Ho regarding resolution of discrepancies with independent objective evidence.",
+  "filename": "JAN172024_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,41 @@
+{
+  "petitioner_background": "The petitioner is a speed skater from Poland seeking first preference immigrant classification as an individual of extraordinary ability under INA section 203(b)(1)(A). He claimed placements in various speed skating championships in 2013, 2015, 2018, and 2019, and membership on a Polish national team. The Nebraska Service Center denied the petition, finding he did not satisfy at least three of the ten regulatory criteria, and he appealed to the AAO.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence of placements in 2019, 2018, and 2015 championships, as well as a 2013 competition. Supporting documents included letters from the Sport Director of a Polish skating association, pictures of medals and trophies, and news articles. The articles stated the petitioner's placements at the 2019 championship, some race times, and points. The letters provided background on the competitions, stated they were extremely competitive, and noted that winning represents the 'highest level of achievement' within the sport in Poland.",
+      "aao_analysis": "The AAO found the evidence insufficient to establish the awards were for excellence in the field. The photos of medals and trophies contained foreign language inscriptions that were not translated, and under 8 C.F.R. \u00a7 103.2(b)(3), untranslated foreign language evidence has no evidentiary weight and could not be considered; additionally, without translations, the AAO could not determine which competitions the medals corresponded to. While the news articles and letters established the petitioner's placements and provided some competition background, they lacked detail regarding the competitions such as criteria for points, limitations on competitors, or similar information needed to determine if the awards met the criterion's requirements. The evidence also did not address the 2013 competition beyond stating the petitioner's placement.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner claimed membership on a Polish national skating team. He provided letters from the Sport Director of the Association, photos of the petitioner, and news articles. One letter simply confirmed the petitioner's membership on the team without providing further information. Another letter addressed the criteria the association uses to determine team membership, stating that athletes 'must meet or exceed specific time standards set by the [association] in time trials and qualifying events' and 'must demonstrate outstanding performance in national competitions, particularly in the [specified event].'",
+      "aao_analysis": "The AAO found the evidence established that the petitioner was a member of the team as claimed, but was not sufficient to determine that the team required its members to have outstanding achievements as judged by recognized national or international experts. The articles and photos did not address this factor. One letter simply confirmed membership without further information. The other letter, while addressing membership criteria, was not sufficiently detailed: it did not specify what the time standards were, did not explain what constituted 'outstanding performance,' and did not identify what national competitions were considered outside of the specified event. Accordingly, the record was not adequate to establish by a preponderance of the evidence that the team required outstanding achievements judged by recognized experts.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner claimed eligibility for four criteria (awards, membership, published material about himself, and exhibition/showcases), but failed to establish two of the claimed criteria (awards and membership), meaning he could not meet the required three criteria necessary to progress to a final merits determination. Because the two dispositive failures were sufficient to resolve the appeal, the AAO declined to reach and reserved arguments concerning the remaining two criteria, citing the principle that courts and agencies need not make findings on issues unnecessary to the result. The petitioner failed to meet his burden of establishing eligibility by a preponderance of the evidence.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "8 C.F.R. \u00a7 103.3",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "INS v. Bagamasbad, 429 U.S. 24 (1976)",
+    "Matter of L-A-C-, 26 I&N Dec. 516 (BIA 2015)",
+    "6 USCIS Policy Manual F.2(B)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner submitted photos of medals and trophies with foreign language inscriptions without English translations, violating 8 C.F.R. \u00a7 103.2(b)(3). As a result, that evidence was given no evidentiary weight and was not considered by the AAO.",
+  "filename": "MAR172025_01B2203",
+  "source": "benchmark_unseen"
+}

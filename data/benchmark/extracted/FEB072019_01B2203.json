@@ -1,0 +1,52 @@
+{
+  "petitioner_background": "The Petitioner is an architect from Georgia who studied architecture and design in Georgia and Portugal. He seeks classification as an individual of extraordinary ability in the arts under section 203(b)(1)(A) of the Act, specifically in the field of 'architecture and design.' In 2017, while in the United States, he worked as a designer and architect for a design studio in New York, seeking to 'reach [his] maximum as an artist.'",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The Petitioner submitted documentation confirming receipt of: (1) a third prize 'for the best architectural project of New Head Office in Georgia'; (2) a 'First Pize [sic]' for a project in Georgia; and (3) a second place recognition in a competition. He asserted on appeal that these accolades are 'held on international level.'",
+      "aao_analysis": "The AAO found that even assuming contenders for the prizes came from different parts of the world, the Petitioner must present evidence that the prizes themselves are recognized in the field on a national or international level. Although the record contained some information about the award-issuing entities, it lacked sufficient evidence confirming the awards enjoy national or international recognition for excellence in architecture and design. The Petitioner did not present materials showing that publications or news outlets with a national or international audience reported on the awards or their recipients, or other documentation confirming the honors are accepted in the field as national or international recognition for excellence.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The Petitioner submitted evidence that his designs and brief descriptions of the designs were posted on a digital architecture and design magazine website. Online printouts indicated the website has '4 million readers and 450,000 newsletter subscribers' and was named one of the top 100 design influencers in the world by a magazine.",
+      "aao_analysis": "Even assuming the publication qualifies as a professional or major trade publication or other major media, the AAO found the Petitioner did not satisfy this criterion. The record revealed that the publication 'received [the Petitioner's projects] from our DIY submissions feature, where we welcome our readers to submit their own work for publication.' The AAO held that such self-promotional submissions do not constitute '[p]ublished material about [him] . . . relating to [his] work in the field' as required by the criterion. Additionally, the Petitioner did not provide information relating to the author(s) of the brief descriptions of his designs, as required under the regulation.",
+      "met": false
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "The Petitioner submitted a number of project spec books from the design studio listing him as the designer or architect, with evidence confirming that builders completed some of these projects. He also claimed that two businesses reposted his photographs on their Instagram accounts. Additionally, he asserted that buildings completed based on his designs, located on the streets of New York City, satisfy this criterion.",
+      "aao_analysis": "The AAO found the project spec books were materials the studio created for its clients, offering recommendations on building and design of projects. The Petitioner did not demonstrate that his work in the spec books was intended for anyone other than the clients, or that sharing these materials between the studio and its customers qualifies as 'the display of [his] work . . . at artistic exhibitions or showcases.' Regarding the Instagram reposts, the Petitioner pointed to no legal authority \u2014 case law, regulatory, or statutory language \u2014 supporting the position that businesses' social media accounts constitute 'artistic exhibitions or showcases.' As to the completed buildings on NYC streets, while they confirmed his work as an architect and designer, they are not displays at artistic exhibitions or showcases. The AAO noted that examples of qualifying displays include those held at galleries, museums, or other artistic venues.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The Petitioner submitted tax documents showing that in 2017, he earned $39,150 in 'wages, salaries, tips' and 'business income.' On appeal, he explained that his earnings have been affected because he is not a permanent resident in the United States.",
+      "aao_analysis": "The Petitioner did not explain if his entire earnings derived from his work as a designer and architect. Even assuming such to be the case, the record did not include comparative compensation data in the field, and was insufficient to show he 'has commanded a high salary or other significantly high remuneration for services, in relation to others in the field.' The AAO held that this criterion requires evidence of high salary without taking into consideration his immigration status. While it might be true that the Petitioner's income has been impacted by a number of factors, he did not establish his salary or remuneration is qualifying under the regulation.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the Petitioner did not submit the required initial evidence of either a one-time achievement or documentation meeting at least three of the ten criteria, meeting none of the four he claimed. As a result, the AAO did not need to provide a final merits determination under Kazarian. Nevertheless, upon review of the record in its entirety, the AAO concluded it did not support a finding that the Petitioner established the required acclaim and recognition. The AAO emphasized that this is a highly restrictive classification for those already at the top of their field, not those progressing toward the top, and the Petitioner did not show his academic and professional accomplishments were indicative of sustained national or international acclaim consistent with a 'career of acclaimed work in the field.'",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Price, 20 I&N Dec. 953 (Assoc. Comm'r. 1994)",
+    "H.R. Rep. No. 101-723, 59 (Sept. 19, 1990)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Matter of Skirball Cultural Ctr., 25 I&N Dec. 799 (AAO 2012)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "FEB072019_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,53 @@
+{
+  "petitioner_background": "The petitioner is a dream expert seeking classification as an individual of extraordinary ability in the field of dream psychology under INA section 203(b)(1)(A). She filed a Form I-140 immigrant petition that was denied by the Director of the Nebraska Service Center. The matter came before the AAO on a third motion to reopen after prior appellate and motion decisions affirmed the denial. The petitioner was previously found to satisfy only one regulatory criterion (published material about her in major media) and sought to establish two additional criteria (judging and leading or critical role) on motion.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner previously submitted published material about her in major media, which the Director and AAO had already accepted as meeting this criterion. On the current motion, she submitted new documentation of a television appearance on a show (name redacted) as additional support.",
+      "aao_analysis": "The AAO confirmed that the record contains published material about the petitioner in major media and that she meets this criterion. However, regarding the newly submitted television appearance, the AAO noted the documentation did not confirm that the petitioner was on this show prior to the date of filing in January 2014. The AAO also stated that additional exhibits relating to a criterion she already meets do not constitute comparable evidence for other criteria.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted a new letter from the board chair and former president of an organization (name redacted), who affirmed that the petitioner currently serves as site administrator and has been involved with the organization in some capacity since 2011. The letter stated the organization has approved online courses for continuing education for licensed therapists and reiterated that the petitioner 'oversees, grades, and judges the work of students.' A list of available courses from the organization's website was supplied with the second motion.",
+      "aao_analysis": "The AAO found the new letter did not state that the petitioner was site administrator prior to the filing date in January 2014 \u2014 it only confirmed she currently serves in that role. The letter did not sufficiently explain how the petitioner, as site administrator, judges the work of others in her field or an allied field, and offered no specifics despite the prior decision noting lack of detail. The course list did not support a finding that the petitioner judges student work: many courses were not graded (e.g., the first was a mentored course with 'feedback' on forum postings), others were rebroadcasts of symposiums, and none listed the petitioner as presenter or teacher. The AAO cited O*Net normal duties for web administrators and noted it was the petitioner's burden to corroborate general statements with detailed evidence. The AAO further held that routine grading of assignments by teachers does not constitute performing as a judge under the regulation, citing USCIS Policy Memorandum PM-602-0005.1, which offers serving on a Ph.D. dissertation committee as an example rather than suggesting every instructor qualifies.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted a new letter from the board chair/former president confirming she has been an active member of the organization since 2011, has presented in two major symposiums at regional and annual conferences, and played a key role in organizing a regional conference. The letter also discussed her role in scheduling a conference in 2016 and described future plans for her skills, including that she will serve on the organization's board of directors in the future. Previously, the petitioner had submitted an email notice from a regional representative affirming she 'was an active part of the organizing committee' for a regional conference.",
+      "aao_analysis": "The AAO found the new letter did not confirm that the petitioner was site administrator prior to the date of filing in 2014; instead it discussed her role in scheduling a 2016 conference and future plans. The letter did not identify what the petitioner's specific duties were for the regional conference and provided no new facts beyond the prior email correspondence from the regional representative. The AAO reiterated that merely repeating the language of the statute or regulations does not satisfy the burden of proof, and USCIS need not accept primarily conclusory statements. The record did not corroborate the nature of the petitioner's role for the organization as a whole by serving on this single committee. Additionally, the petitioner provided no new evidence documenting the distinguished reputation of the organization; confirmation that it offers approved continuing education courses does not constitute independent corroboration of its distinguished reputation in the field.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied the third motion to reopen because the petitioner failed to submit new evidence establishing eligibility as of the date of filing in January 2014. The new letter regarding the judging criterion did not show the petitioner served as site administrator before the filing date or sufficiently explain her judging duties, and routine grading does not qualify as judging under the regulation. For the leading or critical role criterion, the new evidence failed to establish the petitioner's role as of the filing date, the specific nature of her duties, or the distinguished reputation of the organization. The petitioner also failed to demonstrate that comparable evidence was warranted. Since the record continues to show the petitioner meets only a single criterion (published material), she has not established the necessary sustained national or international acclaim required for extraordinary ability classification.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 U.S.C. \u00a7 1361",
+    "Section 291 of the Act",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "8 C.F.R. \u00a7 103.2(b)(12)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "Matter of Katigbak, 14 I&N Dec. 45 (Reg'l Comm'r 1971)",
+    "Matter of Izummi, 22 I&N Dec. 169 (Assoc. Comm'r 1998)",
+    "Matter of Bardouille, 18 I&N Dec. 114 (BIA 1981)",
+    "INS v. Doherty, 502 U.S. 314 (1992)",
+    "INS v. Abudu, 485 U.S. 94 (1988)",
+    "Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103 (E.D.N.Y. 1989), aff'd, 905 F.2d 41 (2d Cir. 1990)",
+    "Avyr Associates, Inc. v. Meissner, 1997 WL 188942 (S.D.N.Y. 1997)",
+    "1756, Inc. v. U.S. Att'y Gen., 745 F. Supp. 9 (D.D.C. 1990)",
+    "Matter of Otiende, 26 I&N Dec. 127 (BIA 2013)",
+    "USCIS Policy Memorandum PM-602-0005.1, Evaluation of Evidence Submitted with Certain Form I-140 Petitions (Dec. 22, 2010)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: This is a third motion to reopen, which the AAO noted is disfavored and carries a 'heavy burden' on the moving party. The petitioner repeatedly failed to establish eligibility as of the date of filing (January 2014), submitting evidence relating to activities in 2016 and future plans rather than the filing date. The AAO emphasized that USCIS cannot consider facts that come into being only subsequent to the filing of a petition.",
+  "filename": "AUG292016_02B2203",
+  "source": "benchmark_unseen"
+}

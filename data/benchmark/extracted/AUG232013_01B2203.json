@@ -1,0 +1,54 @@
+{
+  "petitioner_background": "The petitioner is a chess player seeking classification as an alien of extraordinary ability under section 203(b)(1)(A) of the Act. He was a member of a collegiate chess team that won championships in 2009 and 2010, and he also finished first individually in a 2009 event. The petitioner claimed to hold a title from the Federation (likely FIDE, though redacted), and the petition was filed with a priority date of March 19, 2012.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted photographs of trophies and plaques (many illegible or in foreign languages without translations), documentation that his collegiate chess team received championships in 2009 and 2010 with the event's website listing the five team members including the petitioner in announcing the final standings, and evidence that the petitioner individually finished first in a 2009 event. The petitioner also referenced the success of his chess team and his placement in various tournaments.",
+      "aao_analysis": "The AAO found that the photographs of trophies and plaques were either illegible, in a foreign language without required translations under 8 C.F.R. \u00a7 103.2(b)(3), or for awards whose level of recognition in the field was not documented, and thus were not probative. However, the AAO determined that because the petitioner was a credited member of the team that received the top-level collegiate championship on two occasions (2009 and 2010), and because he individually finished first in the 2009 event, he demonstrated he was a recipient of qualifying awards. The AAO reversed the director's adverse determination and found the petitioner met this criterion.",
+      "met": true
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner claimed that his title (from what appears to be FIDE, the chess federation) constitutes a membership in the Federation. He did not provide evidence of his actual membership in the Federation or how it admits individuals as members, nor did he submit the membership requirements for the Federation or any member federation.",
+      "aao_analysis": "The AAO found that the petitioner failed to provide evidence of membership in the Federation or how it admits individuals as members, and failed to submit the membership requirements to demonstrate that it might satisfy the criterion. The AAO ruled that a title from an association is not the same as a membership in an association. Additionally, even if the title were considered a qualifying membership, it would only be a single membership, whereas the regulation at 8 C.F.R. \u00a7 204.5(h)(3)(ii) requires evidence of 'membership in associations' in the plural, consistent with the statutory requirement for extensive documentation.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner provided several articles primarily relating to his chess team and events where the team competed. On appeal, counsel argued that the articles should be read in concert with the team's results because the petitioner was an integral part of the team, and the articles should be viewed as outlining the petitioner's personal success.",
+      "aao_analysis": "The AAO determined that the articles were about the team or events where the team competed, not about the petitioner. The plain language of the criterion explicitly requires that the published material must be about the petitioner. The AAO rejected counsel's argument that team articles could reflect personal success, citing Negro-Plumpe v. Okin for the proposition that articles about a show or a character within a show are not about the performer. Articles that are not about the petitioner, and only mention him in passing, do not meet this regulatory criterion.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner only satisfied one of the ten regulatory criteria (awards), failing to meet the antecedent regulatory requirement of submitting qualifying evidence under at least three categories. Under the Kazarian two-part approach, because the petitioner did not submit qualifying evidence under at least three criteria, the proper conclusion was that he failed to satisfy the regulatory requirement, and no final merits determination was required. The AAO noted that while it concluded the evidence was not indicative of a level of expertise consistent with the small percentage at the very top of the field or sustained national or international acclaim, it need not explain that conclusion in a final merits determination. The petitioner failed to establish eligibility pursuant to section 203(b)(1)(A) of the Act, and the burden of proof was not met.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)",
+    "8 C.F.R. \u00a7 2.1 (2003)",
+    "8 C.F.R. \u00a7 103.1(f)(3)(iii) (2003)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Negro-Plumpe v. Okin, 2:07-CV-820-ECR-RJJ (D. Nev. Sept. 8, 2008)",
+    "Soltane v. DOJ, 381 F.3d 143 (3d Cir. 2004)",
+    "Matter of Otiende, 26 I&N Dec. 127 (BIA 2013)",
+    "Matter of Aurelio, 19 I&N Dec. 458 (BIA 1987)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Section 103(a)(1) of the Act",
+    "Section 204(b) of the Act",
+    "H.R. 723 101st Cong., 2d Sess. 59 (1990)",
+    "56 Fed. Reg. 60897 (Nov. 29, 1991)",
+    "DHS Delegation Number 0150.1 (effective March 1, 2003)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "AUG232013_01B2203",
+  "source": "benchmark_unseen"
+}

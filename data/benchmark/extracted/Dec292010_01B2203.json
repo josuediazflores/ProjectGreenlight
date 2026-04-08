@@ -1,0 +1,14 @@
+{
+  "petitioner_background": "The decision text provided does not contain substantive information about the petitioner's background, field of work, or qualifications. This is a procedural order reopening the matter on motion, not a merits decision. The petitioner sought classification as an alien of extraordinary ability under section 203(b)(1)(A) of the Immigration and Nationality Act.",
+  "evidence_per_criterion": [],
+  "outcome": "remand",
+  "outcome_reasoning": "This is not a merits decision. The Director of the Texas Service Center denied the petition, and the AAO had summarily rejected a subsequent appeal as untimely on May 18, 2010. The AAO is reopening the matter on its own motion pursuant to 8 C.F.R. \u00a7 103.5(a)(4) for purposes of entering a new decision. The petitioner is permitted 30 days to submit a brief before the new decision is entered.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5(a)(4)"
+  ],
+  "fraud_or_procedural_issues": "Procedural posture only: The AAO had previously summarily rejected the appeal as untimely on May 18, 2010. The AAO is now reopening the matter on motion pursuant to 8 C.F.R. \u00a7 103.5(a)(4) to enter a new decision. No substantive merits analysis is contained in this order. Note also that the document header references a 'nonimmigrant petition' being denied by the Director, which appears inconsistent with the EB-1A immigrant petition classification sought \u2014 this may be a typographical error in the original decision.",
+  "filename": "Dec292010_01B2203",
+  "source": "benchmark_unseen"
+}

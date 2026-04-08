@@ -1,0 +1,79 @@
+{
+  "petitioner_background": "The petitioner is an Irish dance teacher seeking classification as an alien of extraordinary ability under INA \u00a7 203(b)(1)(A). She works as a head coach and choreographer at a dance school (referenced as 'Trinity'), and has trained dancers for Irish dance competitions including world championships. She also claims to have trained dancers who went on to perform professionally in a show (referenced but name redacted, likely Riverdance or similar). This matter is before the AAO on a motion to reconsider its prior dismissal of her appeal.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The Petitioner did not submit awards received personally, but argued that awards won by athletes/dancers she coached should be attributed to her as coach. She cited Lee v. Ziglar, 237 F.Supp. 2d 914 (N.D. Ill. 2002), Matter of K-S-Y- (AAO Mar. 9, 2016), and Muni v. INS, 891 F.Supp. 440 (N.D. Ill. 1995) to support attribution of team/individual athlete awards to a coach.",
+      "aao_analysis": "The AAO found the Petitioner misinterpreted all three cases cited. Lee v. Ziglar did not address whether awards won by players coached by Lee could qualify him; it only addressed that a baseball player's acclaim did not transfer to coaching. Matter of K-S-Y- held that coaching could be considered within an athlete's area of expertise if he sustained national acclaim upon transitioning to coaching \u2014 it did not hold that awards received as an athlete count as coaching awards, and as a non-precedent decision it applied only to that petitioner. Muni v. INS did not hold that team awards can be attributed to individual athletes. The AAO held that the plain language of the criterion requires the Petitioner herself to have received the award. The contribution of a coach to success is substantially different from that of individual team members. Evidence regarding student awards would instead be considered as comparable evidence under the original contributions criterion.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The Petitioner did not submit new evidence but argued on motion that the regulatory language regarding 'outstanding achievements' required by associations should refer to maintenance of membership status after acceptance, not requirements to gain membership. She cited Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) for the proposition that USCIS may not impose novel substantive or evidentiary requirements beyond those in the regulations, and argued that treating admission to an association as a prize or award would duplicate the awards criterion at 8 C.F.R. \u00a7 204.5(h)(3)(i).",
+      "aao_analysis": "The AAO rejected the Petitioner's interpretation, noting that the district court decision she cited actually portrayed the differences in standards between the membership and awards criteria and supported the long-held interpretation the AAO applied. Kazarian did not address the membership criterion in its decision. The Petitioner provided no pertinent precedent, regulatory, or statutory provision to support her interpretation that outstanding achievements should refer only to maintenance of membership status.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Articles that the Petitioner asserted were about the Irish dance world championships (the AAO previously characterized them as being about the school and its students). On motion, the Petitioner cited Negro-Plumpe v. Okin, 2:07-CV-820-ECR-RJJ (D. Nev. Sept. 8, 2008) and Russell v. INS, 98 C 6132 (N.D. Ill. January 3, 2001). She also submitted new evidence including information printed from the website where one media item was posted, and circulation information about some publications obtained from www.mondotimes.com.",
+      "aao_analysis": "The AAO noted that neither cited case is an adopted or precedent decision, and that the AAO is not bound to follow published district court decisions, citing Matter of K-S-, 20 I&N Dec. 715 (BIA 1993). Negro-Plumpe actually indicated the court did not accept the argument that articles focused on a show or character are about the performer \u2014 meaning the articles (whether about the school and students or about the world championships) are not about the Petitioner as required. Regarding Russell, the AAO's prior decision did not rely on the interpretations addressed in that case (that publications need not be nationwide and need not describe the individual as top of field); rather, it found the materials were not about the Petitioner and evidence was not submitted to establish the publications were major media. New evidence (website printouts, mondotimes.com circulation data) cannot be considered on a motion to reconsider.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "Reference letters from teachers at Irish dance schools where the Petitioner had trained dancers, including: a letter complimenting the Petitioner's work and discussing a student who won a title ('I will always be so grateful to [the Petitioner] for her unbelievable hard work, encouragement and inspiration'); a letter from a teacher in Ireland describing the Petitioner as principal instructor at dance camps in 2006, 2007, and 2008; a letter from a teacher in Kentucky stating the Petitioner conducted workshops for two years and that 'we have had more dancers than ever placing at the top levels of regional, national and world competitions'; a letter from an Artistic Director at 'Trinity' stating two dancers under the Petitioner's tutelage won gold medals at the 2013 [competition], with photographs confirming the awards; additional photographs of dancers holding trophies or wearing sashes, many including the Petitioner; a list from www.dance.net showing the Petitioner's name in parentheses after two third-place and one seventh-place winner; and a list of regional/national competition winners attached to one letter (though award evidence itself was not submitted).",
+      "aao_analysis": "The AAO considered student awards as comparable evidence under this criterion per the USCIS Adjudicator's Field Manual section 22.2(i)(1)(A), which indicates the provision might apply to an Olympic coach whose athlete wins a medal. However, the letters lacked sufficient detail about both the awards won by students and the link between the Petitioner's training and any student success. The complimentary letter did not mention time spent training the winning dancer or specific ways she prepared the dancer for competition, and the attached list of winners lacked corroborating award evidence. The Ireland teacher's letter described dance camps from 2006-2008 but showed no direct link to student awards received several years later. The Kentucky workshop letter was insufficient because the Petitioner acted only as a temporary workshop coach. The Trinity evidence showed the Petitioner was directly responsible for training a small number of dancers who won prizes at international competitions, but considering the large number of dancers competing and winning at international Irish dance competitions, this did not establish a contribution of major significance to the field. The Petitioner's claim to have trained dancers who performed professionally was unsupported by evidence.",
+      "met": false
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "Evidence relating to judging the work of others in the field (specific evidence not detailed in this motion decision).",
+      "aao_analysis": "The Director previously found the Petitioner met this criterion, and this finding was not disturbed. The AAO noted this in recounting the procedural history.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "Evidence that the Petitioner played a critical role as the school's head coach and choreographer at Trinity.",
+      "aao_analysis": "On the prior appeal, the AAO determined that the Petitioner established she played a critical role as the school's head coach and choreographer, meeting this criterion.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The Petitioner argued that fees received for her workshops at other schools should be considered part of her total compensation. On motion, she included website addresses for U.S. Bureau of Labor & Statistics salary data for teachers and choreographers.",
+      "aao_analysis": "The Petitioner did not assert that the previous decision was based on an incorrect application of law or policy, nor did she support her assertions with references to USCIS regulations, statute, or policy. The BLS salary data constituted new evidence, which cannot be considered on a motion to reconsider.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The Petitioner claimed to have coached two named professional dancers who performed in a commercially successful show (name redacted), and argued the commercial success of that show should be attributed to her.",
+      "aao_analysis": "The record did not include evidence to verify the Petitioner's claim to have trained the two dancers named in her brief. Even if such evidence had been submitted, the Petitioner did not establish that any part of the commercial success of the show could be attributed to her when considered alongside the many performers, producers, coaches, and other support personnel involved in its production over more than 20 years.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied the motion to reconsider. It found the Petitioner did not establish that the previous decision was based on an incorrect application of law or policy with respect to any of the criteria at 8 C.F.R. \u00a7 204.5(h)(3). The Petitioner still met only two of the ten evidentiary criteria (judging and leading/critical role), falling short of the required three. Because she failed to meet the initial evidence threshold, the AAO did not need to address her contention that she is among the small percentage at the very top of the field, and her assertions were not supported by pertinent precedent, adopted decisions, statutory/regulatory provisions, or USCIS policy statements.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Lee v. Ziglar, 237 F.Supp. 2d 914 (N.D. Ill. 2002)",
+    "Matter of K-S-Y-, ID# 14269 (AAO Mar. 9, 2016)",
+    "Muni v. INS, 891 F.Supp. 440 (N.D. Ill. 1995)",
+    "Negro-Plumpe v. Okin, 2:07-CV-820-ECR-RJJ (D. Nev. Sept. 8, 2008)",
+    "Russell v. INS, 98 C 6132 (N.D. Ill. January 3, 2001)",
+    "Matter of K-S-, 20 I&N Dec. 715 (BIA 1993)",
+    "USCIS Adjudicator's Field Manual section 22.2(i)(1)(A)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: This is a motion to reconsider, which under 8 C.F.R. \u00a7 103.5(a)(3) must establish that the prior decision was based on an incorrect application of law or policy and cannot include new facts or evidence. The Petitioner improperly submitted new evidence on motion, including website printouts, mondotimes.com circulation data for publications, and BLS salary data for teachers and choreographers, none of which the AAO could consider. The Petitioner also failed to support several arguments with pertinent precedent, adopted decisions, or statutory/regulatory provisions as required for a motion to reconsider.",
+  "filename": "SEP052018_02B2203",
+  "source": "benchmark_unseen"
+}

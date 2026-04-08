@@ -1,0 +1,40 @@
+{
+  "petitioner_background": "The petitioner is a dancer and choreographer who sought classification as an individual of extraordinary ability under section 203(b)(1)(A) of the INA (EB-1A). The Nebraska Service Center Director initially denied the petition, finding she had not met the initial evidence requirements. The AAO summarily dismissed her appeal, then denied a joint motion to reopen and reconsider, and this decision addresses a second motion to reopen and reconsider where she submitted additional evidence on the awards criterion. In prior proceedings, the AAO had already found she satisfied the judging and display criteria.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence of awards received as a member of the dance group, including: (1) a 2003 plaque from a performance with the group at a historic amphitheater venue in Syria, which she acknowledged was for participation rather than competitive placement; (2) a translated certificate and original copy indicating a 'Grand Prize in the category of dance' awarded to the children's ensemble at a 2005 competition in Ukraine, supported by a document purportedly written by the Director of a show agency claiming the competition is the largest and most famous in Ukraine; (3) a 1998 Ukrainian television children's competition award in the 'Choreography' nomination, supported by a document signed by the founder and general producer describing it as 'a search for new talents' and 'a great opportunity to take the first steps on the professional stage,' with winners receiving 'the highest award'; and (4) a 2008 diploma received by the ensemble at a festival/master class, supported by a document from the producer citing a Facebook link stating the festival was founded in 2007 with about 60 collectives participating, describing it as 'Diploma of the I stage at the nomination Folk dance, age category of 10-13 years' given to the exemplary ensemble.",
+      "aao_analysis": "The AAO rejected all of the petitioner's awards evidence. Regarding the 2003 Syria performance, the AAO held that a plaque for participation does not satisfy the regulation, which requires receipt of actual prizes or awards for excellence in the field; performing at a historic amphitheater does not itself constitute recognition of excellence. Regarding the 2005 Ukrainian Grand Prize, the AAO found the record lacked corroborating evidence (such as media coverage) to support counsel's unsubstantiated assertion that the prize is nationally recognized, noting that assertions of counsel do not constitute evidence per Matter of Obaigbena. The AAO also identified an unresolved inconsistency: the supporting document stated winners receive gold, silver, and bronze medals, but the petitioner claimed a 'Grand Prize' that the document did not identify, requiring resolution under Matter of Ho. The original letter was also a blurred photocopy not complying with 8 C.F.R. \u00a7 204.5(g)(1). Regarding the 1998 competition, the AAO found that while it provides opportunities for children to gain exposure for their talents, the record did not provide sufficient evidence to establish that the award constitutes a nationally or internationally recognized award for excellence in the field. Regarding the 2008 festival diploma, the AAO found the petitioner had not established that the diploma represents an award or that it is for excellence in the field, noting the festival's purposes of 'development of amateur and choreographic art' and 'attracting the general public' did not demonstrate national or international recognition for excellence.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied both the motion to reconsider and the motion to reopen. The motion to reconsider was denied because the petitioner did not contend that the prior decision was based on an incorrect application of USCIS law or policy, as required by 8 C.F.R. \u00a7 103.5(a)(3). The motion to reopen was denied because the additional evidence submitted on the awards criterion did not establish that the petitioner met at least three of the ten regulatory criteria \u2014 she had previously been found to meet only the judging and display criteria, and the new awards evidence failed to demonstrate receipt of nationally or internationally recognized prizes or awards for excellence. Because the initial evidence requirements were not met, the AAO did not need to conduct a full final merits determination, but nevertheless advised that it had reviewed the record in the aggregate and concluded it does not support a finding that the petitioner has the level of expertise required for the classification sought.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(g)(1)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Obaigbena, 19 I&N Dec. 533 (BIA 1988)",
+    "Matter of Ramirez-Sanchez, 17 I&N Dec. 503 (BIA 1980)",
+    "Matter of Ho, 19 I&N Dec. 582 (BIA 1988)",
+    "Matter of Skirball Cultural Ctr., 25 I&N Dec. 799 (AAO 2012)",
+    "Matter of I-O-, ID# 1384339 (AAO Jul. 31, 2018)"
+  ],
+  "fraud_or_procedural_issues": "The petitioner claimed she was a victim of notario fraud, asserting that an individual holding himself out to be an attorney, but who was not actually licensed to practice law, had previously advised her regarding the petition. Additionally, the AAO noted a procedural evidentiary issue: the original letter supporting the 2005 Ukrainian competition award was a blurred photocopy that does not comply with 8 C.F.R. \u00a7 204.5(g)(1), which requires ordinary legible photocopies. The petitioner's earlier appeal had also been summarily dismissed because she failed to identify any erroneous conclusion of law or statement of fact, and her brief reportedly did not arrive due to circumstances beyond her control.",
+  "filename": "APR022019_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,25 @@
+{
+  "petitioner_background": "The petitioner is a mountaineer seeking classification as an individual of extraordinary ability under EB-1A (INA section 203(b)(1)(A)). He filed Form I-140 in October 2021, initially leaving the 'Occupation' line blank but stating his intention to work in 'Mountaineering activities service and industry' in the United States. He listed several related occupations including outdoor tour operating, climbing event organizing, avalanche forecasting, and climbing and skiing film making. In response to an RFE, he clarified his occupation as 'Mountain Guide, climb/ski instructor' and submitted a letter from an employer who had hired him as a part-time seasonal Ski Instructor in November 2022.",
+  "evidence_per_criterion": [],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for entry of a new decision. The AAO disagreed with the Director's conclusion that the Petitioner failed to specify his area of expertise, finding that rock climbing, mountaineering, and backcountry skiing are interrelated mountain sports that can consistently support a single claim of expertise as a mountain guide/instructor. The AAO further found that the Director's general statement of ineligibility did not explain the specific reasons for denial as required by 8 C.F.R. \u00a7 103.3(a)(1)(i), depriving the Petitioner of an opportunity to address specific concerns on appeal. On remand, the Director must consider the Petitioner's specific claims and evidence relating to the six claimed criteria, take into account whether the evidence relates to his intended occupation as a mountaineering sports instructor, and if at least three criteria are satisfied, undertake a final merits determination as described in Kazarian.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3",
+    "8 C.F.R. \u00a7 103.3(a)(1)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "8 C.F.R. \u00a7 204.5(h)(5)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)"
+  ],
+  "fraud_or_procedural_issues": "The Director's denial notice failed to explain the specific reasons for denial as required by 8 C.F.R. \u00a7 103.3(a)(1)(i). The Director issued only a general statement that the Petitioner's work had not been recognized at a level indicative of sustained acclaim, without explaining how this conclusion was reached or what evidence was considered. This procedural failure deprived the Petitioner of the opportunity to address specific concerns on appeal and was a basis for the AAO's remand.",
+  "filename": "MAR142024_01B2203",
+  "source": "benchmark_unseen"
+}

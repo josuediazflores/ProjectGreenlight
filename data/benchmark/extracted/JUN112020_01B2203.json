@@ -1,0 +1,22 @@
+{
+  "petitioner_background": "The Petitioner is a theater company seeking to classify the Beneficiary as an individual of extraordinary ability in the arts under INA section 203(b)(1)(A). The case has a lengthy procedural history: the Nebraska Service Center Director initially denied the Form I-140, finding the Beneficiary met only one of the ten initial evidentiary criteria. The AAO dismissed the Petitioner's appeal, finding that while the Beneficiary met three initial criteria, she did not establish eligibility in the final merits analysis. A subsequent motion to reconsider was dismissed as untimely, and this decision addresses a second motion to reconsider.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the second motion to reconsider because the Petitioner failed to demonstrate that the prior dismissal of the first motion (as untimely) was based on an incorrect application of law or policy. Although the Petitioner argued its original Form I-290B was received on April 29, 2019 (the last day of the 33-day filing period), USCIS had rejected that submission because the accompanying check was dated April 26, 2018. Under 8 C.F.R. \u00a7 103.2(a)(7)(iii), a rejected benefit request does not retain a filing date, and by the time the Petitioner resubmitted on May 28, 2019, the 33-day filing period had expired. The Petitioner also failed to include the required statement regarding judicial proceedings under 8 C.F.R. \u00a7 103.5(a)(1)(iii)(C). The Petitioner did not meet its burden of proof under Section 291 of the Act.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)(C)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.8(b)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(iii)",
+    "8 C.F.R. \u00a7 1.2",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: The Petitioner's first motion to reconsider was dismissed as untimely because it was filed 63 days after service of the AAO's appeal dismissal decision, exceeding the 33-day filing period under 8 C.F.R. \u00a7 103.5(a)(1)(i) and 103.8(b). The Petitioner's initial Form I-290B submission on April 29, 2019 was rejected because the accompanying check was dated April 26, 2018 (over a year stale), and rejected benefit requests do not retain a filing date per 8 C.F.R. \u00a7 103.2(a)(7)(iii). The resubmission on May 28, 2019 was outside the filing window. Additionally, the current motion failed to include the required statement about whether the unfavorable decision is the subject of any judicial proceeding, as required by 8 C.F.R. \u00a7 103.5(a)(1)(iii)(C).",
+  "filename": "JUN112020_01B2203",
+  "source": "benchmark_unseen"
+}

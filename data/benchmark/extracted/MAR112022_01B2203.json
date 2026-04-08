@@ -1,0 +1,54 @@
+{
+  "petitioner_background": "The petitioner is a state retirement system seeking to classify the beneficiary, a fund manager, as an alien of extraordinary ability under EB-1A. The beneficiary received a Master of Business Management from an institution in the Philippines in 1998 and holds the Chartered Financial Analyst (CFA) designation. The petitioner has employed the beneficiary since 2008, most recently in the position of Fund Manager Lead.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence related to the beneficiary's judging of the work of others in the field. Specific details of the judging activities are not elaborated in the AAO decision.",
+      "aao_analysis": "The Director determined that the beneficiary met this criterion at the initial evidence stage. However, the AAO noted that the Director failed to examine and weigh the evidence related to the judging criterion in the final merits discussion, which was one of the deficiencies requiring remand.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner submitted evidence of the beneficiary's authorship of scholarly articles in the field. Specific article titles and publication venues are not detailed in the AAO decision.",
+      "aao_analysis": "The Director determined that the beneficiary met this criterion at the initial evidence stage. However, the AAO found that the Director did not examine and weigh the evidence related to the scholarly articles criterion in the final merits determination, contributing to the decision's inadequacy.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted evidence of the beneficiary's leading or critical role for the petitioner (a state retirement system) as Fund Manager Lead since 2008, along with evidence of roles with other organizations. Letters from the beneficiary's employer and work colleagues were included expressing appreciation for his work, abilities, and achievements.",
+      "aao_analysis": "The Director determined that the beneficiary's role with the petitioner satisfied this criterion. However, the AAO found the Director's subsequent contradictory statements problematic \u2014 specifically that the record did not reflect that the beneficiary's role was leading for the petitioner, nor reflected his critical role performed for the petitioner, nor that his roles for other organizations were considered leading or critical. These statements contradicted the Director's own determination that the criterion was met and were not explained.",
+      "met": true
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner submitted evidence of the beneficiary's high salary or other significantly high remuneration in relation to others in the field.",
+      "aao_analysis": "The Director determined that the beneficiary met this criterion at the initial evidence stage. The AAO did not disturb this finding.",
+      "met": true
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for entry of a new decision. The AAO found multiple deficiencies in the Director's analysis: (1) the Director improperly analyzed and weighed negatively the absence of evidence for criteria the petitioner never claimed (original contributions of major significance under 8 C.F.R. \u00a7 204.5(h)(3)(v), awards under (i), and published materials under (iii)); (2) the Director made contradictory statements about the leading/critical role criterion, first finding it satisfied and then stating the record did not reflect the beneficiary's role was leading or critical; and (3) the Director failed to properly conduct a final merits determination considering all evidence in its totality, specifically omitting examination of the judging and scholarly articles criteria in the final merits discussion. The AAO directed that on remand, the Director should analyze the totality of the record including additional evidence provided on appeal, and evaluate whether the petitioner demonstrated sustained national or international acclaim by a preponderance of the evidence.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 103.3(a)(1)(i)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Visinscaia v. Beers, 4 F. Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011)",
+    "Matter of M-P-, 20 I&N Dec. 786 (BIA 1994)",
+    "6 USCIS Policy Manual F.2"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues with the Director's decision: (1) the Director analyzed evidentiary criteria that the petitioner never claimed (original contributions of major significance, awards, and published materials) and weighed the absence of such evidence as a negative factor, which was inappropriate; (2) the Director made internally contradictory findings regarding the leading/critical role criterion without explanation; (3) the Director failed to conduct a proper final merits determination by not examining and weighing all satisfied criteria (specifically judging and scholarly articles) in the totality analysis; and (4) the Director did not adequately explain the reasons for denial, violating 8 C.F.R. \u00a7 103.3(a)(1)(i) and the requirement articulated in Matter of M-P- that decisions must fully explain the reasons for denial to allow meaningful appellate review.",
+  "filename": "MAR112022_01B2203",
+  "source": "benchmark_unseen"
+}

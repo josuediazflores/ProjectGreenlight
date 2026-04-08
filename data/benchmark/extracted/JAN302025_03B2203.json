@@ -1,0 +1,47 @@
+{
+  "petitioner_background": "The Petitioner sought first preference immigrant classification as an individual of extraordinary ability under INA section 203(b)(1)(A). The decision does not specify the petitioner's field of work, nationality, or detailed career background. The Director of the Nebraska Service Center denied the petition, the AAO dismissed a subsequent appeal, and the matter came before the AAO on combined motions to reopen and reconsider.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The Petitioner submitted certificates and other evidence relating to achievements in the field. The specific awards are not named in the decision, but the record indicated the certificates were received for participation rather than for excellence.",
+      "aao_analysis": "The AAO found that the certificates and other evidence in the record denoted that the Petitioner received the certificates for participation and not for excellence in the field. The AAO rejected the Petitioner's challenge to its reliance on Krasniqi v. Dibbins, 558 F. Supp. 3d 168, 182-83 (D.N.J. 2021), which was cited for the proposition that it is reasonable for the Service to require evidence that the award is merit-based. The AAO reviewed Krasniqi and determined that its prior citation was correct. The Petitioner's further arguments did not point to any incorrect application of law or policy, and disagreeing with the AAO's conclusions without showing legal error is not a ground to reconsider.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The decision does not specify the particular evidence of a leading or critical role that the Petitioner submitted; the motion discussion focused on the AAO's prior analysis rather than re-listing the underlying evidence.",
+      "aao_analysis": "The Petitioner argued on motion that the AAO's analysis of what constitutes a leading or critical role was too narrow. The AAO found that the Petitioner did not point to any incorrect application of law or policy in the prior decision. The AAO reiterated that disagreeing with its conclusions without showing legal error is not a ground for reconsideration, citing Matter of O-S-G-, 24 I&N Dec. at 58.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The Petitioner previously submitted a letter from his employer attesting to his salary and information on conversion to the U.S. dollar.",
+      "aao_analysis": "The AAO held that the Petitioner did not meet the criterion because he did not provide evidence comparing his salary to others in the field, as required by the plain language of 8 C.F.R. \u00a7 204.5(h)(3)(ix), which requires a petitioner to show they have 'commanded a high salary or other significantly high remuneration for services, in relation to others in the field.' The Petitioner cited Matter of Chawathe for the principle that evidence must be relevant, probative, and credible, and argued his evidence met that standard. The AAO found no error in its prior determination. In a footnote, the AAO noted that while the motion asserted the salary was high in relation to others in the field, it cited no evidence to support that claim, and statements in a brief or motion are not evidence, citing Matter of S-M-, 22 I&N Dec. 49, 51 (BIA 1998).",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed both the motion to reopen and the motion to reconsider. The motion to reopen was dismissed because the Petitioner did not submit any new evidence or state new facts demonstrating that the AAO erred in dismissing the prior motion, leaving no basis to reopen. The motion to reconsider was dismissed because the Petitioner failed to establish that the prior decision was based on an incorrect application of law or policy. The AAO found no instance of applying a stricter standard as the Petitioner asserted, rejected the challenge to the Krasniqi citation regarding the awards criterion, found the leading/critical role arguments amounted to mere disagreement, and found no error in the high salary determination where the Petitioner failed to provide comparative salary evidence.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A), 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010)",
+    "Matter of Coelho, 20 I&N Dec. 464, 473 (BIA 1992)",
+    "Matter of O-S-G-, 24 I&N Dec. 56, 58 (BIA 2006)",
+    "Matter of S-M-, 22 I&N Dec. 49, 51 (BIA 1998)",
+    "Krasniqi v. Dibbins, 558 F. Supp. 3d 168, 182-83 (D.N.J. 2021)"
+  ],
+  "fraud_or_procedural_issues": "No fraud or misrepresentation findings. Procedural posture: the case is before the AAO on combined motions to reopen and reconsider following dismissal of a prior appeal. The AAO noted procedural deficiencies \u2014 the Petitioner submitted no new evidence with the motion to reopen and made only general disagreements rather than identifying legal error for the motion to reconsider.",
+  "filename": "JAN302025_03B2203",
+  "source": "benchmark_unseen"
+}

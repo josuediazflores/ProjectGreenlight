@@ -1,0 +1,32 @@
+{
+  "petitioner_background": "The petitioner is a female beneficiary (field not specified in this motion decision) who sought classification as an alien of extraordinary ability under section 203(b)(1)(A) of the Immigration and Nationality Act. The Texas Service Center denied the underlying petition on September 24, 2010, and the AAO entered a finding on June 18, 2012 that the petitioner willfully misrepresented a material fact and failed to meet minimum eligibility requirements. The record references derogatory evidence involving a letter from the president of an organization located in Maryland and the results of a competition in Maryland, suggesting the petitioner's field involved competitions held in the United States.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the motion to reopen and reconsider for multiple reasons. First, counsel failed to submit the required statement regarding whether the validity of the unfavorable decision was the subject of any judicial proceeding, as required by 8 C.F.R. \u00a7 103.5(a)(1)(iii)(C), which alone mandates dismissal under 8 C.F.R. \u00a7 103.5(a)(4). Second, the motion to reopen was dismissed because counsel provided no affidavits or other documentary evidence to support the claim of non-receipt of the notice of intent to dismiss, and failed to overcome the presumption of effective service by mail. Third, the motion to reconsider was dismissed because counsel cited no legal support for the assertion that the 15-day response period was arbitrary, and Matter of Obaigbena expressly holds that a 15-day time limit is reasonable. Finally, the motion failed to address or challenge the AAO's alternative finding that the petitioner did not receive a major internationally recognized award or meet at least three of the ten regulatory criteria under 8 C.F.R. \u00a7 204.5(h)(3). The previous AAO decision was affirmed and the petition remains denied.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(iii)(C)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 103.2(b)(16)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.1(a)(3)",
+    "8 C.F.R. \u00a7 205.2(b)",
+    "INS v. Abudu, 485 U.S. 94 (1988)",
+    "Matter of O-S-G-, 24 I&N Dec. 56 (BIA 2006)",
+    "Matter of Cerna, 20 I&N Dec. 399 (BIA 1991)",
+    "Matter of Obaigbena, 19 I&N Dec. 533 (BIA 1988)",
+    "Matter of Laureano, 19 I&N Dec. 1 (BIA 1983)",
+    "Matter of Ramirez-Sanchez, 17 I&N Dec. 503 (BIA 1980)",
+    "Lopes v. Mukasey, 517 F.3d 156 (2d Cir. 2008)",
+    "Modzelewski v. Holder, 402 F. App'x 654 (2d Cir. 2010)",
+    "Matter of M-R-A-, 24 I&N Dec. 665 (BIA 2008)"
+  ],
+  "fraud_or_procedural_issues": "The AAO's prior June 18, 2012 decision entered a finding that the petitioner willfully misrepresented a material fact. Procedurally, the motion was dismissed on multiple grounds: (1) counsel failed to include the required statement about whether the validity of the decision was the subject of any judicial proceeding under 8 C.F.R. \u00a7 103.5(a)(1)(iii)(C); (2) counsel's claim of non-receipt of the May 2, 2012 notice of intent to dismiss was unsupported by affidavits or documentary evidence and failed to overcome the presumption of effective postal service, particularly since counsel did not assert the petitioner himself failed to receive the notice; (3) counsel's challenge to the 15-day response period was unsupported by legal authority and contradicted by Matter of Obaigbena; and (4) the motion failed to address the AAO's alternative finding on the merits regarding the extraordinary ability criteria. The derogatory information underlying the misrepresentation finding involved a letter from the president of an organization located in Maryland and the results of a competition in Maryland.",
+  "filename": "JUN032013_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,38 @@
+{
+  "petitioner_background": "The petitioner is a voice actor seeking classification as an individual of extraordinary ability under INA section 203(b)(1)(A). He has worked as a dubbing director and performed as a voice actor in television and films. The Texas Service Center denied the petition, the AAO dismissed a subsequent appeal, and the matter is now before the AAO on a combined motion to reopen and reconsider.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner submitted an article from uol.com.br that mentions him in his role as dubbing director. He also submitted online traffic and rankings data from SimilarWeb for uol.com.br, which is the internet platform used by the website where the petitioner's article is posted.",
+      "aao_analysis": "The AAO determined that the petitioner did not show he meets all elements of the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(iii), which requires evidence of published material about the petitioner and his work in professional or major trade publications or other major media. The AAO found that the petitioner did not establish that the article in question is about him, even though it mentions him in his role as dubbing director. Additionally, while the petitioner submitted SimilarWeb traffic and rankings for uol.com.br (the internet platform hosting the article), he did not provide evidence establishing the major media status of the website itself. On motion, the petitioner merely references 'the article from uol.com.br' without providing the name of the article or addressing the evidentiary deficiencies identified. Instead, the petitioner focused on his 'significant recognition' and 'acknowledgement within the voice acting industry,' which are not relevant to the specific elements of this criterion. The petitioner did not identify legal error in the AAO's analysis.",
+      "met": false
+    },
+    {
+      "criterion": "commercial success",
+      "evidence_submitted": "The petitioner submitted evidence of his performance as a voice actor in television and films to demonstrate commercial success in the performing arts.",
+      "aao_analysis": "The AAO noted that the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(x) focuses on volume of sales and box office receipts as a measure of commercial success in the performing arts. The AAO determined that while the record contains evidence of the petitioner's performance as a voice actor in television and films, it does not demonstrate that the success of the projects the petitioner worked on was attributable to his specific work. On motion, the petitioner disagreed with the determination and argued that the AAO must consider 'the collective impact of evidence,' citing Kazarian v. USCIS. However, the AAO reiterated that there was no need to conduct a totality of the evidence analysis in a final merits determination since the petitioner did not establish that he met the threshold requirement of satisfying at least three initial evidentiary criteria. The petitioner cited no law or USCIS policy supporting the contention that 'collective impact of contributions' is a factor the AAO must consider for this criterion, and did not identify legal error in the AAO's analysis.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed both the motion to reopen and the motion to reconsider. Regarding the motion to reopen, the petitioner did not state new facts or offer new evidence as required by 8 C.F.R. \u00a7 103.5(a)(2), merely disputing the prior decision. Regarding the motion to reconsider, the petitioner did not establish that the AAO's previous decision was based on an incorrect application of law or policy under 8 C.F.R. \u00a7 103.5(a)(3). The petitioner's arguments about the preponderance of the evidence standard, the totality of the evidence analysis, and the criteria at 8 C.F.R. \u00a7 204.5(h)(3)(iii) and (x) merely expressed disagreement with the AAO's conclusions without identifying specific legal error. The AAO reiterated that because the petitioner failed to satisfy the first step of demonstrating at least three initial evidentiary criteria, no totality of the evidence analysis in a final merits determination was required under Kazarian.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(1)(ii)",
+    "Matter of Coelho, 20 I&N Dec. 464, 473 (BIA 1992)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "Matter of Martinez, 21 I&N Dec. 1035, 1036 (BIA 1997)",
+    "Matter of Sao Hoo, 11 I&N Dec. 151, 152 (BIA 1965)",
+    "1 USCIS Policy Manual, E.4(B)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "8 C.F.R. \u00a7 103.5(a)(4)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "NOV182024_02B2203",
+  "source": "benchmark_unseen"
+}

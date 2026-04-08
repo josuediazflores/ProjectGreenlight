@@ -1,0 +1,35 @@
+{
+  "petitioner_background": "The petitioner is a speed skating coach, specifically a coach of the Korean National Team, who sought classification as an alien of extraordinary ability under section 203(b)(1)(A) of the Immigration and Nationality Act. He coached athletes who won gold medals at the 2003 Winter Asian Games, including an athlete who won gold in the 1,000-meter and 1,500-meter individual races. The petition was filed on August 2, 2004.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence that he coached athletes who won gold medals at the 2003 Winter Asian Games, including one athlete on the Korean National Team who won gold medals in two individual events (the 1,000-meter and 1,500-meter races). In support of the motion to reopen, the petitioner provided letters from the Director General of the Olympic Council of Asia, the National Sprint Team Coach, and the U.S. Track Speed Skating National Team Head Coach of the U.S. Speedskating Team, stating that the Asian Winter Games is a major, internationally recognized event. Counsel argued the petitioner qualified as the recipient of a major, internationally recognized award as coach of a 'gold medal winning team in the Winter Asian Games.'",
+      "aao_analysis": "The AAO acknowledged that gold medals awarded to individuals coached by the petitioner were sufficient to warrant a finding that the petitioner met the lesser awards criterion under 8 C.F.R. \u00a7 204.5(h)(3)(i). However, regarding the one-time achievement claim, the AAO found no evidence that the Korean National Team as a whole earned a 'team' gold medal at the Winter Asian Games as implied by counsel \u2014 rather, only individual athletes won gold in individual events. The AAO further held that the regulation permitting eligibility based on a one-time achievement must be interpreted very narrowly, citing the Nobel Prize as the example from the House Report (H.R. Rpt. 101-723), noting Nobel Laureates are selected from a global pool, reported in major media internationally, and receive substantial monetary awards. The AAO determined the 2003 Winter Asian Games was 'a regional international competition . . . rather than a global competition such as the Olympics,' and its awards were not 'major, internationally recognized awards.' The letters submitted did not establish that winners of the Asian Winter Games are reported in top international media or that the event is a name familiar to the international public, even though it is a qualifying event for the Olympic Games.",
+      "met": true
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted evidence of his role as a coach of the Korean National Team in speed skating.",
+      "aao_analysis": "The AAO noted that the petitioner's role as a coach of the Korean National Team qualified him under the leading or critical role criterion at 8 C.F.R. \u00a7 204.5(h)(3)(viii).",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "Although the AAO granted the motion to reopen and overturned its prior decision regarding the timeliness of the petitioner's motion (finding the contemporaneous evidence from attorney affidavit and delivery receipt sufficient to establish timely filing on November 27, 2007), the petitioner failed to establish receipt of a major, internationally recognized award or that he met at least three of the regulatory criteria at 8 C.F.R. \u00a7 204.5(h)(3). The petitioner met only two criteria (lesser awards and leading/critical role), and the Asian Winter Games did not qualify as a major, internationally recognized award under the narrow Nobel Prize-level standard. Additionally, the petitioner's submission of evidence concerning achievements of his students at the 2007 U.S. National Long Track Speed Skating Championship could not establish eligibility because those accomplishments occurred after the August 2, 2004 filing date. The petitioner also failed to cite precedent decisions or argue that prior decisions were based on incorrect application of law or USCIS policy to support reconsideration. The October 25, 2007 decision of the AAO is affirmed and the petition is denied.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act, 8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5",
+    "8 C.F.R. \u00a7 103.5(a)(1)(i)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "H.R. Rpt. 101-723, 59 (Sept. 19, 1990)",
+    "Matter of Katigbak, 14 I&N Dec. 45, 49 (Comm. 1971)",
+    "Section 291 of the Act, 8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues relating to the timeliness of the petitioner's second motion to reopen and reconsider, which had previously been dismissed as untimely filed. On the third motion to reopen, the AAO reviewed evidence including an affidavit from an attorney who 'interfaced' with a delivery service to deliver the motion package to the Nebraska Service Center on November 27, 2007, along with a delivery receipt confirming receipt of the package in Lincoln, Nebraska. The AAO found this contemporaneous evidence sufficient to establish timely filing and overturned its prior dismissal on timeliness grounds. However, the petitioner failed to cite any precedent decisions or argue incorrect application of law or USCIS policy in support of the motion to reconsider, failing to establish grounds for reconsideration.",
+  "filename": "Oct142009_04B2203",
+  "source": "benchmark_unseen"
+}

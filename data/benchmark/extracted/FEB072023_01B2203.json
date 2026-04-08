@@ -1,0 +1,58 @@
+{
+  "petitioner_background": "The Petitioner is a researcher working in the field of composite materials, with a Ph.D. in aerospace engineering that specialized in both aerospace engineering and composite structures. He sought classification as an alien of extraordinary ability under EB-1A (INA section 203(b)(1)(A)). Much of his work centers on composites and their use in various industries. The Nebraska Service Center Director denied his Form I-140 petition, concluding he was not the recipient of a major internationally recognized award and had not met at least three of the ten regulatory criteria.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The Petitioner provided the 2020 American Institute of Aeronautics and Astronautics (AIAA) prize. In support, he submitted a letter from the co-founder of the award stating the award is open to competition from those around the world and not simply those at a conference, the judging criteria related to the award, and evidence relating to AIAA as a historied professional association and the world's largest technical society relating to the aerospace profession.",
+      "aao_analysis": "The Director determined the Petitioner did not satisfy this criterion because he did not establish the award was nationally or internationally recognized for excellence in the field of endeavor. The AAO noted that the Director only discussed whether the award was nationally or internationally recognized through major trade publications or other major media, but failed to evaluate whether the award might receive such recognition through its issuance by an international- or national-level professional association. The AAO explained the criterion requires showing: (1) the foreign national is the recipient of the prizes or awards; (2) those accolades are nationally or internationally recognized; and (3) each prize or award is one for excellence in the field of endeavor. The AAO concluded the Petitioner offered evidence that the AIAA award meets all these requirements and withdrew the Director's unfavorable determination on this criterion.",
+      "met": true
+    },
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The decision does not detail the specific evidence submitted, but notes the Director found the Petitioner satisfied the judging criterion before the Director.",
+      "aao_analysis": "The Director decided the Petitioner satisfied this criterion. On de novo review, the AAO agreed the Petitioner satisfied this criterion as granted by the Director.",
+      "met": true
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The decision does not detail the specific evidence submitted, but notes the Director found the Petitioner satisfied the authorship of scholarly articles criterion.",
+      "aao_analysis": "The Director decided the Petitioner satisfied this criterion. On de novo review, the AAO agreed the Petitioner satisfied this criterion as granted by the Director.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The Petitioner claimed before the Director that he met the criterion for contributions of major significance, but the specific evidence submitted is not detailed in the AAO decision.",
+      "aao_analysis": "The Director determined the Petitioner had not satisfied the criterion associated with contributions of major significance. On appeal, the Petitioner maintained he met this criterion. The AAO did not reach a determination on this criterion because it already concluded the Petitioner satisfied at least three criteria (the two granted by the Director plus the awards criterion), which was sufficient to warrant remand.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter because the Petitioner had overcome the only stated ground for denial by demonstrating he satisfied at least three regulatory criteria (judging, authorship of scholarly articles, and lesser nationally or internationally recognized prizes/awards). The AAO also identified a potential signature issue \u2014 at least three signatures in the record (on the Form G-28, the petition itself, and the personal statement) appeared identical and may have been electronically transposed in a manner resembling the Ben Day technique, which would not constitute valid signatures under 8 C.F.R. \u00a7 103.2(a) and USCIS policy. On remand, the Director must reevaluate the petition including the signature issue, and if that is resolved in the Petitioner's favor, conduct a final merits determination under the Kazarian framework. The AAO declined to decide the signature issue in the first instance.",
+  "legal_citations": [
+    "Immigration and Nationality Act section 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 291 of the Act",
+    "Matter of Chawathe, 25 I&N Dec. 369, 375 (AAO 2010)",
+    "Matter of Christo's Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022)",
+    "8 C.F.R. \u00a7 103.2(a)",
+    "8 C.F.R. \u00a7 103.2(a)(2)",
+    "8 C.F.R. \u00a7 103.2(a)(7)(ii)(A)",
+    "1 USCIS Policy Manual B.2(A)",
+    "1 USCIS Policy Manual B.2(B)",
+    "Matter of Valdez, 27 I&N Dec. 496, 499 (BIA 2018)",
+    "Thompson v. Lynch, 788 F.3d 638, 647 (6th Cir. 2015)",
+    "Bingham v. Holder, 637 F.3d 1040, 1045 (9th Cir. 2011)",
+    "8 C.F.R. \u00a7 292.4(a)",
+    "In re Rivera, 342 B.R. 435, 458-59 (D. N.J. 2006)",
+    "Blumberg v. Gates, No. CV 00-05607, 2003 WL 22002739 (C.D. Cal. Aug. 19, 2003)"
+  ],
+  "fraud_or_procedural_issues": "The AAO identified a potential signature irregularity. At least three signatures in the record \u2014 on the Form G-28 accompanying the petition, on the petition itself, and on the Petitioner's personal statement \u2014 appeared identical in multiple observable manners (slant/angle, points where the writing instrument lifts, symmetry of letters). The signatures were lighter in color than normal, showed no impression on the opposite side of the paper, and appeared comprised of small lines or shading resembling a variation of the Ben Day technique used in electronic reproduction. The AAO noted that signatures created by typewriter, word processor, stamp, auto-pen, or similar device are not accepted under USCIS policy. The AAO did not decide the issue but instructed the Director on remand to determine whether the signatures were electronically transposed, which would render them invalid under 8 C.F.R. \u00a7 103.2(a) and could justify an adverse decision. The AAO also corrected the Director's characterization of the Petitioner's field from aerospace engineering to the broader specialization of composite materials.",
+  "filename": "FEB072023_01B2203",
+  "source": "benchmark_unseen"
+}

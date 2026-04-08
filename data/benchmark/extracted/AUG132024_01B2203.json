@@ -1,0 +1,48 @@
+{
+  "petitioner_background": "The petitioner is a singer from Bangladesh seeking classification as an individual of extraordinary ability under EB-1A (INA \u00a7 203(b)(1)(A)). She claimed eligibility under seven of the ten regulatory criteria. The Nebraska Service Center Director denied the petition, finding she met only one criterion (artistic exhibitions/showcases under 8 C.F.R. \u00a7 204.5(h)(3)(vii)). She appealed, asserting she also satisfies the criteria for nationally recognized awards, qualifying memberships, published material in major media, judging, high remuneration, and commercial success in the performing arts.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "Evidence that the petitioner received a Best Singer Award from a Bangladeshi organization (name redacted) in 2021. Supporting evidence included statements from the awarding entity, information regarding the purpose and history of the award, and evidence of media coverage received by the petitioner and other winners of awards from this organization.",
+      "aao_analysis": "The AAO found that not all of the supporting evidence had been weighed in the Director's decision. Considered in its totality, the AAO concluded that the petitioner met her burden to demonstrate, by a preponderance of the evidence, that this award qualifies as a nationally recognized award for excellence in the petitioner's field in Bangladesh, satisfying the plain language of the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(i).",
+      "met": true
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "Published newspaper articles about the petitioner and her work as a singer in Bangladeshi daily newspapers. To support the major media claim, the petitioner submitted several sources of information regarding Bangladeshi daily newspapers, including rankings of publications. On appeal, she submitted a certificate of translation for a document issued by the Government of Bangladesh, Directorate of Film and Publications Audit Branch, listing circulation figures for both Bengali language and English language daily newspapers as of June 2018. She also provided an article published by the BBC and a scholarly article about Bangladeshi newspapers published in a reputable academic journal.",
+      "aao_analysis": "The Director had concluded that while the petitioner submitted published articles about her, she did not submit sufficient evidence to establish the articles were published in major media, finding each source inadequate either due to lack of English translation fully compliant with 8 C.F.R. \u00a7 103.2(b)(3), or because sources ranked publications without providing specific circulation or readership numbers. The Director also deemed the June 2018 circulation data outdated, but the AAO noted the record reflects the petitioner submitted newspaper articles about her published in 2018, making the data contemporaneous. The AAO found the petitioner provided relevant and credible evidence that some of the submitted articles were published in daily newspapers qualifying as major media in Bangladesh, and noted she is not required to demonstrate that every submitted article satisfies the criterion. The criterion was met.",
+      "met": true
+    },
+    {
+      "criterion": "exhibition",
+      "evidence_submitted": "Evidence that the petitioner has displayed her work at artistic exhibitions or showcases (specific details not provided in the AAO decision, as this criterion was already granted by the Director).",
+      "aao_analysis": "The Director already determined that the petitioner satisfied this criterion under 8 C.F.R. \u00a7 204.5(h)(3)(vii). The AAO did not disturb this finding.",
+      "met": true
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision after concluding the petitioner met at least three of the regulatory criteria (awards, published material, and exhibitions), thereby satisfying part one of the Kazarian two-step analysis and overcoming the sole basis for denial. Because the Director did not reach the final merits determination, the AAO declined to make that determination in the first instance and remanded the matter. On remand, the Director must evaluate the evidence in its entirety and determine whether the record establishes sustained national or international acclaim and recognized achievements placing the petitioner among the small percentage at the very top of her field, weighing evidence for all claimed criteria and the petitioner's claims and evidence on appeal.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.3",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.3(h)(i)-(iv), (ix) and (x)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Amin v. Mayorkas, 24 F.4th 383 (5th Cir. 2022)",
+    "Visinscaia v. Beers, 4 F.Supp. 3d 126 (D.D.C. 2013)",
+    "Rijal v. USCIS, 772 F.Supp. 2d 1339 (W.D. Wash. 2011)",
+    "6 USCIS Policy Manual F.2(B)(1)"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: The AAO found that the Director failed to weigh all of the supporting evidence for the awards criterion and erroneously dismissed the June 2018 circulation data as outdated when the articles at issue were also from 2018. The AAO also noted the Director applied evidentiary requirements not found in the plain language of the regulations. No fraud or misrepresentation findings.",
+  "filename": "AUG132024_01B2203",
+  "source": "benchmark_unseen"
+}

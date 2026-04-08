@@ -1,0 +1,48 @@
+{
+  "petitioner_background": "The petitioner is a lead data analyst seeking classification as an individual of extraordinary ability under INA section 203(b)(1)(A). She intends to continue working in the same field in the United States. She did not indicate on the Form I-140 that she was applying for a national interest waiver as a member of the professions holding an advanced degree or an individual of exceptional ability. The petitioner submitted evidence relating to three regulatory criteria: lesser nationally or internationally recognized prizes or awards, membership in associations, and performance in leading or critical roles.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted evidence relating to the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(i) for lesser nationally or internationally recognized prizes or awards. The specific evidence and arguments were discussed in the petition and RFE response, and further discussed in the petitioner's appellate brief. The decision does not itemize the specific awards submitted.",
+      "aao_analysis": "The AAO did not evaluate the merits of this evidence. The Director's denial decision did not reflect consideration of any of the petitioner's arguments and evidence with respect to this criterion, despite stating that 'USCIS will analyze the evidence that was submitted under each criterion.' The AAO found the Director's analysis insufficient for review and remanded for the Director to re-evaluate whether the petitioner satisfied the plain language of this criterion.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner submitted evidence relating to the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(ii) for membership in associations in the field. The specific associations and membership documentation were discussed in the petition and RFE response, and further addressed in the petitioner's appellate brief. The decision does not itemize the specific memberships claimed.",
+      "aao_analysis": "The AAO did not evaluate the merits of this evidence. The Director's denial decision did not reflect consideration of any of the petitioner's arguments and evidence with respect to this criterion. The AAO found the Director's analysis insufficient for review and remanded for the Director to re-evaluate whether the petitioner satisfied the plain language of this criterion.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner submitted evidence relating to the criterion at 8 C.F.R. \u00a7 204.5(h)(3)(viii) for performance in leading or critical roles for organizations or establishments that have a distinguished reputation. The specific roles and supporting documentation were discussed in the petition and RFE response, and further addressed in the petitioner's appellate brief. The petitioner also submitted numerous letters of support.",
+      "aao_analysis": "The AAO did not evaluate the merits of this evidence. The Director's denial decision did not reflect consideration of any of the petitioner's arguments and evidence with respect to this criterion. The AAO found the Director's analysis insufficient for review and remanded for the Director to re-evaluate whether the petitioner satisfied the plain language of this criterion.",
+      "met": false
+    }
+  ],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the Director's decision and remanded the matter for entry of a new decision. The AAO concluded that a remand was warranted because the Director's decision was insufficient for review \u2014 the analysis did not reflect the Director's consideration of any of the petitioner's claims and evidence with respect to the three claimed criteria. Additionally, although the petitioner requested classification as an individual of extraordinary ability, the RFE and denial decision also requested documentation and discussed factors pertinent to the framework for adjudicating national interest waiver petitions under Matter of Dhanasar, a classification other than the one the petitioner requested. The AAO noted that an officer's written decision must fully explain the specific reasons for denial under 8 C.F.R. \u00a7 103.3(a)(1)(i), and when a decision does not meet these requirements, the petitioner does not have a fair opportunity to contest the decision on appeal. On remand, the Director was instructed to re-evaluate the evidence, review the appellate brief which argues comparable evidence, and if three criteria are satisfied, conduct a final merits determination.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(4)",
+    "8 C.F.R. \u00a7 103.3",
+    "8 C.F.R. \u00a7 103.3(a)(1)(i)",
+    "Section 203(b)(2)(B)(i) of the Act, 8 U.S.C. \u00a7 1153(b)(2)(B)(i)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Amin v. Mayorkas, 24 F.4th 383 (5th Cir. 2022)",
+    "Matter of Dhanasar, 26 I&N Dec. 884 (AAO 2016)",
+    "Matter of M-P-, 20 I&N Dec. 786 (BIA 1994)"
+  ],
+  "fraud_or_procedural_issues": "Significant procedural issues. The Director's denial decision was insufficient for review because the analysis did not reflect consideration of the petitioner's arguments and evidence with respect to the three claimed criteria, despite stating that USCIS would analyze the evidence under each criterion. Additionally, the RFE and denial decision improperly addressed eligibility criteria pertinent to a separate classification (national interest waiver under Matter of Dhanasar) rather than the extraordinary ability classification the petitioner actually requested. The AAO found this violated 8 C.F.R. \u00a7 103.3(a)(1)(i), which requires an officer's written decision to fully explain the specific reasons for denial, and deprived the petitioner of a fair opportunity to contest the decision on appeal.",
+  "filename": "JUN112024_01B2203",
+  "source": "benchmark_unseen"
+}

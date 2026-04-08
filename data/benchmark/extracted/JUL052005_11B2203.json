@@ -1,0 +1,19 @@
+{
+  "petitioner_background": "The petitioner seeks to classify the beneficiary as an employment-based immigrant under section 203(b)(1)(A) of the Act as an alien of extraordinary ability in the arts. The beneficiary had previously been admitted as an O-1 nonimmigrant. No substantive information about the beneficiary's specific field, nationality, or career qualifications was provided in the record, as the initial petition included only an approval notice for the nonimmigrant visa and a letter from the petitioner's accountant regarding ability to pay the proffered wage.",
+  "evidence_per_criterion": [],
+  "outcome": "remand",
+  "outcome_reasoning": "The AAO withdrew the director's decision and remanded the matter because the director denied the petition without first issuing a request for initial evidence, despite counsel's cover letter referencing 'supporting documentation' that was not actually included in the initial submission. Under 8 C.F.R. \u00a7 103.2(b)(8), where initial evidence is missing, the Service shall request the missing initial evidence. The AAO directed the director to issue a request for initial evidence advising counsel that no initial evidence was submitted. The AAO also noted that counsel's appellate assertion that the regulatory requirements for nonimmigrant and immigrant classifications in the arts mirror each other is incorrect, as the requirements at 8 C.F.R. \u00a7\u00a7 214.2(o)(3)(ii), (iv) and 8 C.F.R. \u00a7 204.5(h)(3) are dramatically different. The burden of proof remains with the petitioner.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.2(b)(8)",
+    "8 C.F.R. \u00a7 214.2(o)(3)(ii)",
+    "8 C.F.R. \u00a7 214.2(o)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "Section 291 of the Act",
+    "8 U.S.C. \u00a7 1361"
+  ],
+  "fraud_or_procedural_issues": "Procedural issue: The director denied the petition without issuing a request for initial evidence as required by 8 C.F.R. \u00a7 103.2(b)(8), despite counsel's cover letter referencing 'supporting documentation' that was absent from the record. The initial petition contained only a nonimmigrant visa approval notice and an accountant's letter regarding ability to pay, with no evidence addressing the extraordinary ability criteria. Counsel's appellate brief did not reflect awareness that the initial petition was submitted without supporting documentation.",
+  "filename": "JUL052005_11B2203",
+  "source": "benchmark_unseen"
+}

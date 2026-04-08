@@ -1,0 +1,72 @@
+{
+  "petitioner_background": "The petitioner is a lawyer and legal entrepreneur seeking classification as an individual of extraordinary ability under INA section 203(b)(1)(A) (EB-1A). She filed Form I-140 with the Nebraska Service Center, which denied the petition. She appealed to the AAO, claiming eligibility under six regulatory criteria: awards, membership, published material, original contributions, leading/critical role, and high remuneration. Her claimed qualifications include memberships in multiple bar associations and involvement with organizations such as the United Nations Population Fund, Human Rights Academy, and Legal Mentor Network.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "awards",
+      "evidence_submitted": "The petitioner submitted what she described as 'notable recognitions' but acknowledged these were not on a national or international scale. She reiterated previous statements from the initial petition and RFE response without providing new award documentation on appeal.",
+      "aao_analysis": "The AAO found that the petitioner herself conceded that the recognitions submitted were not recognized on a national or international scale. Since the regulation at 8 C.F.R. \u00a7 204.5(h)(3)(i) requires lesser nationally or internationally recognized prizes or awards for excellence in the field of endeavor, and the petitioner admitted her evidence did not meet that standard, she did not satisfy this criterion.",
+      "met": false
+    },
+    {
+      "criterion": "membership",
+      "evidence_submitted": "The petitioner provided documentation of her membership in four bar associations: a [redacted] Bar Association, the American Bar Association, another [redacted] Bar Association, and the Suburban Bar Association. On appeal she argued these memberships 'enhance one's professional development' and 'instill a profound sense of purpose and responsibility,' while acknowledging that American Bar Association general membership does not 'explicitly require outstanding achievements.'",
+      "aao_analysis": "The AAO determined that while the petitioner documented her membership in these associations, she failed to provide any evidence establishing that membership in these associations requires outstanding achievements of their members, as judged by recognized national or international experts in their disciplines or fields, as required by 8 C.F.R. \u00a7 204.5(h)(3)(ii). The AAO acknowledged the associations may be important for professional development but found the evidence insufficient. Citing Matter of Soffici, the AAO emphasized that statements without supporting documentation are of limited probative value. The petitioner's own admission that ABA membership does not require outstanding achievements further undermined her claim.",
+      "met": false
+    },
+    {
+      "criterion": "published material",
+      "evidence_submitted": "The petitioner reasserted that several articles were published about her and provided URL addresses for each media outlet that published the articles. The articles submitted with the initial petition were printed in a foreign language and translated into English.",
+      "aao_analysis": "The AAO found the petitioner did not provide independent and objective evidence to support that the articles were published in professional or major trade publications or major media. The AAO noted it would not rely on assertions of counsel as evidence, citing Matter of S-M-. Additionally, the translated articles were not accompanied by certified English translations as required by 8 C.F.R. \u00a7 103.2(b)(3), making it impossible to meaningfully determine whether the translated material was accurate. For these reasons, the petitioner failed to establish eligibility under this criterion.",
+      "met": false
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted letters of support with the initial petition. On appeal she cited her involvement in the United Nations Population Fund and the Human Rights Academy as 'underscoring her contributions to promoting human rights,' and pointed to her mentorship role at the Legal Mentor Network as highlighting her 'leadership and commitment to nurturing future legal professionals.'",
+      "aao_analysis": "The Director determined that the letters of support submitted with the initial petition did not demonstrate that the petitioner's work had remarkably impacted or influenced the field. On appeal, the petitioner only very briefly discussed her role with these organizations and did not address the evidentiary deficiencies identified by the Director. The AAO found she did not overcome the Director's conclusions on this issue.",
+      "met": false
+    },
+    {
+      "criterion": "leading role",
+      "evidence_submitted": "The petitioner maintained she played 'critical' and 'pivotal' roles in her prior employments with several companies, relying on evidence submitted with the initial petition and in response to the RFE.",
+      "aao_analysis": "The AAO found the evidence did not sufficiently show that the petitioner played a critical role where she contributed in a way of significant importance to the outcome of the organization or establishment's activities or those of a division or department. Additionally, the petitioner did not provide any corroborating evidence to establish that her prior employers had a distinguished reputation. On appeal, she did not overcome the Director's concerns on this issue.",
+      "met": false
+    },
+    {
+      "criterion": "high salary",
+      "evidence_submitted": "The petitioner acknowledged the Director's concerns regarding insufficient corroborating evidence. On appeal, she contended that she was submitting additional documentation to clarify her salary.",
+      "aao_analysis": "The AAO reviewed the documentation submitted on appeal and found that the petitioner did not actually submit any additional documentation beyond her appeal brief, despite her claim to have done so. The AAO concluded the petitioner did not provide sufficient evidence to satisfy this criterion.",
+      "met": false
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO adopted and affirmed the Director's decision, finding that the petitioner failed to satisfy at least three of the ten regulatory criteria at 8 C.F.R. \u00a7 204.5(h)(3)(i)-(x), and had not shown receipt of a major internationally recognized award. The AAO noted that on appeal the petitioner did not identify specific errors in the Director's analysis but rather broadly disagreed with the conclusions and failed to address the evidentiary deficiencies identified. The petitioner also abandoned the criteria at 8 C.F.R. \u00a7 204.5(h)(3)(vii) and (x) (display of work and commercial success in the performing arts) by not addressing them on appeal. Because the petitioner did not provide sufficient evidence to overcome the Director's conclusions on any of the claimed criteria, the appeal was dismissed.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)-(x)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(viii)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(ix)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(x)",
+    "8 C.F.R. \u00a7 103.2(b)(3)",
+    "8 C.F.R. \u00a7 103.3",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Christo's, Inc., 26 I&N Dec. 537 (AAO 2015)",
+    "Matter of R-A-M-, 25 I&N Dec. 657 (BIA 2012)",
+    "Sepulveda v. U.S. Att'y Gen., 401 F.3d 1226 (11th Cir. 2005)",
+    "United States v. Cunningham, 161 F.3d 1343 (11th Cir. 1998)",
+    "Hristov v. Roark, No. 09-CV-27312011, 2011 WL 4711885 (E.D.N.Y. Sept. 30, 2011)",
+    "Matter of Burbano, 20 I&N Dec. 872 (BIA 1994)",
+    "Giday v. INS, 113 F.3d 230 (D.C. Cir. 1997)",
+    "Matter of Soffici, 22 I&N Dec. 158 (Comm'r 1998)",
+    "Matter of S-M-, 22 I&N Dec. 49 (BIA 1998)",
+    "USCIS Policy Memorandum PM 602-0005.1"
+  ],
+  "fraud_or_procedural_issues": "Procedural issues: (1) The petitioner abandoned the criteria at 8 C.F.R. \u00a7 204.5(h)(3)(vii) and (x) by failing to address the Director's determinations on those issues in her appeal brief. (2) Foreign-language articles submitted as published material were not accompanied by certified English translations as required by 8 C.F.R. \u00a7 103.2(b)(3). (3) The petitioner claimed on appeal to have submitted additional documentation clarifying her salary, but no such additional documentation was actually submitted beyond the appeal brief itself \u2014 a discrepancy between representation and the record.",
+  "filename": "FEB052025_01B2203",
+  "source": "benchmark_unseen"
+}

@@ -1,0 +1,18 @@
+{
+  "petitioner_background": "The Petitioner is a speed skater and coach who sought classification as an individual of extraordinary ability in athletics under INA section 203(b)(1)(A). The Director of the Nebraska Service Center denied the petition, and the AAO dismissed the subsequent appeal. The matter came before the AAO on a motion to reopen and a motion to reconsider.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO denied both the motion to reopen and the motion to reconsider. The Petitioner indicated on Form I-290B that a brief was attached, but instead requested additional time to submit a brief after the motion filing date. The AAO noted that while 8 C.F.R. \u00a7 103.3(a)(2)(vii) permits additional time to submit a brief in connection with an appeal, no such provision applies to motions to reopen or reconsider \u2014 the additional evidence must comprise the motion itself. On motion, the Petitioner submitted only a copy of an email and a brief statement that did not contest or mention the prior decision. The Petitioner failed to assert new facts to be proved in the reopened proceeding and did not cite binding precedent decisions or other legal authority establishing that the AAO or director incorrectly applied pertinent law or agency policy. Therefore, the motions did not satisfy applicable requirements.",
+  "legal_citations": [
+    "INA \u00a7 203(b)(1)(A)",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 103.5(a)(2)",
+    "8 C.F.R. \u00a7 103.5(a)(3)",
+    "8 C.F.R. \u00a7 103.5(a)(4)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "8 C.F.R. \u00a7 103.3(a)(2)(vii)"
+  ],
+  "fraud_or_procedural_issues": "Procedural deficiency: The Petitioner indicated on Form I-290B that a brief was attached but instead requested additional time to submit a brief after the motion filing date. The AAO noted that the regulatory provision allowing additional time for briefs applies only to appeals, not to motions to reopen or reconsider, where the additional evidence must comprise the motion at the time of filing. The Petitioner's submission (an email and a brief statement) failed to state new facts or cite legal authority, so the motions did not meet the requirements of 8 C.F.R. \u00a7 103.5(a)(2) and (3).",
+  "filename": "APR262018_03B2203",
+  "source": "benchmark_unseen"
+}

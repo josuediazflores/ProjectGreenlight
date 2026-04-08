@@ -1,0 +1,16 @@
+{
+  "petitioner_background": "The petitioner sought classification as an employment-based immigrant under section 203(b)(1)(A) of the Immigration and Nationality Act as an alien of extraordinary ability in the arts. The petition was initially approved by the Director of the California Service Center, but upon further review the director determined the approval had been made in error and revoked it after proper notice. No specific details about the petitioner's field, nationality, or career qualifications are provided in the decision text.",
+  "evidence_per_criterion": [],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO summarily dismissed the appeal pursuant to 8 C.F.R. \u00a7 103.3(a)(1)(v) because counsel failed to identify specifically any erroneous conclusion of law or statement of fact. On appeal, counsel merely asserted in conclusory fashion that the director erred as a matter of law and that the evidence established extraordinary ability, and requested 90 days to submit a brief or additional evidence. Over seven months later, no brief or additional evidence had been submitted, and on July 21, 2005, counsel provided a signed statement confirming she would not file a brief or evidence. Because counsel did not specifically address the reasons stated for revocation or identify any error of law or fact in the director's decision, summary dismissal was required.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "Section 205 of the Act",
+    "8 U.S.C. \u00a7 1155",
+    "8 C.F.R. \u00a7 103.3(a)(1)(v)"
+  ],
+  "fraud_or_procedural_issues": "Procedural: The petition was initially approved and then revoked on notice after the director determined it had been approved in error. The appeal was summarily dismissed under 8 C.F.R. \u00a7 103.3(a)(1)(v) because counsel failed to identify any specific erroneous conclusion of law or statement of fact, did not address the reasons for revocation, and failed to submit a promised brief or additional evidence within the requested 90 days (or within the more than seven months that elapsed before the AAO's decision). Counsel submitted a signed statement on July 21, 2005 confirming she would not file a brief or evidence.",
+  "filename": "AUG112005_09B2203",
+  "source": "benchmark_unseen"
+}

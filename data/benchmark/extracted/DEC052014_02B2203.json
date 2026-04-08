@@ -1,0 +1,59 @@
+{
+  "petitioner_background": "The petitioner is a Bioinformatics Research Scientist who earned her Ph.D. in Statistics in 2008. At the time of filing, she was employed as a Bioinformatics Research Scientist assigned to a full-time, long-term contract research position in the Statistical Genomics Unit of a research institution. She self-represented and sought classification as an employment-based immigrant under section 203(b)(1)(A) of the INA as an alien of extraordinary ability in the sciences. Her research focused on developing statistical/computational methods for identifying multiple transcription factors from DNA sequence data, filtering time series data, and personalized medicine applications.",
+  "evidence_per_criterion": [
+    {
+      "criterion": "judging",
+      "evidence_submitted": "The petitioner submitted evidence demonstrating that she peer-reviewed manuscripts for a professional journal.",
+      "aao_analysis": "The AAO agreed with the director's finding that the petitioner met this regulatory criterion based on the peer review evidence submitted.",
+      "met": true
+    },
+    {
+      "criterion": "original contributions",
+      "evidence_submitted": "The petitioner submitted: (1) letters of support from multiple experts including Dr. [Head, Medicinal Chemistry Group], Dr. [Professor of Genetic Epidemiology and Bioinformatics, UK], Dr. [Professor, Dept. of Epidemiology and Biostatistics], Dr. [Associate Professor of Medicine], and Dr. [Professor, Dept. of Electrical and Computer Engineering]; (2) her publications and presentations including five journal articles at the time of filing plus a sixth published in 2014 and an unpublished manuscript under revision; (3) citation evidence from Google Scholar showing her co-authored article was cited twice (self-cites by co-authors) and her article on 'a mixture framework for identifying transcription factor and a coregulator motif' was independently cited five times initially, later updated to eight citations by May 2014; (4) information showing the ranking and impact factor of the journal that published her work (impact factor 5.468, ranked first out of 43 professional journals in bioinformatics/computational biology); (5) documentation that her article was cited at a higher than average rate relative to other articles in math/computer science; (6) the FARE (Fellows Award for Research Excellence) award from NIH; (7) a dissertation fellowship and academic excellence award from the statistics department in 2004; (8) evidence of her software package published on a website; (9) conference presentations at the Joint Statistical Meeting; (10) articles from Notices of AMS ('Assessing research in the mathematical sciences') and a 'Citation Statistics' report from the IMU arguing math has lower citation counts than other fields.",
+      "aao_analysis": "The AAO found that the evidence did not rise to the level of original scientific contributions 'of major significance in the field.' Specifically: (1) The sixth article published in 2014 and the manuscript under revision post-dated the August 13, 2013 filing date and could not establish eligibility per Matter of Katigbak. (2) The AAO acknowledged math has lower citation rates but stated this did not disprove that citations can be reliable indicators; the two citations to one article were self-cites which do not show influence on others; the eight citations on the other article (one post-dating filing) did not establish major significance. (3) A journal's ranking/impact factor does not demonstrate major significance of every article published in it, and publication is covered by a separate criterion (vi); citing Kazarian that publications alone are not sufficient without evidence of major significance. (4) The FARE award was limited to intramural NIH trainees and 25% of ~250 submitters received it, not indicative of major significance. (5) The dissertation/academic excellence awards were limited to students in one statistical science program and academic performance is not comparable to major contributions per Matter of New York State Dept of Transportation; awards are covered by separate criterion (i). (6) The letters of support contained generalized conclusory assertions without specific examples of how the petitioner's work had been utilized for diagnoses, treatments, or had substantially influenced the field. Dr. [expert's] assertions that the work was a 'breakthrough of major significance' merely repeated regulatory language without substantiation per Fedin Bros. Co. v. Sava. Speculation about future impact cannot establish eligibility. The software available on the website along with numerous other biostatistics programs did not constitute major significance. Conference presentations do not equate to major contributions. No specific examples showed medical centers had changed protocols based on her work, and there was no evidence she was a coauthor of the STAR*D study her methods were allegedly applied to.",
+      "met": false
+    },
+    {
+      "criterion": "scholarly articles",
+      "evidence_submitted": "The petitioner documented her authorship of scholarly articles in professional publications, including five journal articles at the time of filing, notably an article on 'a mixture framework for identifying transcription factor and a coregulator motif' published in a journal with impact factor 5.468.",
+      "aao_analysis": "The AAO agreed with the director's finding that the petitioner submitted qualifying evidence pursuant to 8 C.F.R. \u00a7 204.5(h)(3)(vi) and met this regulatory criterion.",
+      "met": true
+    }
+  ],
+  "outcome": "dismiss",
+  "outcome_reasoning": "The AAO dismissed the appeal because the petitioner met only two of the required three regulatory criteria (judging and scholarly articles), failing to satisfy the original contributions of major significance criterion. The petitioner could not establish that her research work had impacted the statistical science or bioinformatics research community in a major way, as the letters of support contained generalized conclusory assertions without specific examples of widespread implementation or influence, and citation evidence did not rise to a level indicative of major significance. Because the petitioner did not meet the minimum three-criteria threshold under 8 C.F.R. \u00a7 204.5(h)(3), the AAO did not need to reach a final merits determination under Kazarian's two-part review.",
+  "legal_citations": [
+    "Section 203(b)(1)(A) of the Immigration and Nationality Act",
+    "8 U.S.C. \u00a7 1153(b)(1)(A)",
+    "8 C.F.R. \u00a7 204.5(h)(2)",
+    "8 C.F.R. \u00a7 204.5(h)(3)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(i)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(iv)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(v)",
+    "8 C.F.R. \u00a7 204.5(h)(3)(vi)",
+    "8 C.F.R. \u00a7 103.2(b)(1)",
+    "8 C.F.R. \u00a7 103.2(b)(12)",
+    "8 C.F.R. \u00a7 103.5",
+    "H.R. 723 101st Cong., 2d Sess. 59 (1990)",
+    "56 Fed. Reg. 60897, 60898-99 (Nov. 29, 1991)",
+    "Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010)",
+    "Kazarian v. USCIS, 580 F.3d 1030 (9th Cir. 2009)",
+    "Rijal v. USCIS, 772 F.Supp.2d 1339 (W.D. Wash. 2011)",
+    "Rijal v. USCIS, 683 F.3d 1030 (9th Cir. 2012)",
+    "Visinscaia v. Beers, 4 F.Supp.3d 126 (D.D.C. 2013)",
+    "Matter of Chawathe, 25 I&N Dec. 369 (AAO 2010)",
+    "Matter of Katigbak, 14 I&N Dec. 45 (Reg'l Comm'r 1971)",
+    "Silverman v. Eastrich Multiple Investor Fund, L.P., 51 F.3d 28 (3rd Cir. 1995)",
+    "APWU v. Potter, 343 F.3d 619 (2nd Cir. 2003)",
+    "Matter of New York State Dept of Transportation, 22 I&N Dec. 215 (Act. Assoc. Comm'r 1998)",
+    "Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103 (E.D.N.Y. 1989)",
+    "Fedin Bros. Co., Ltd. v. Sava, 905 F.2d 41 (2d Cir. 1990)",
+    "Avyr Associates, Inc. v. Meissner, No. 95 civ 10729, 1997 WL 188942 (S.D.N.Y.)",
+    "1756, Inc. v. U.S. Att'y Gen., 745 F. Supp. 9 (D.D.C. 1990)",
+    "Matter of Caron Int'l, Inc., 19 I&N Dec. 791 (Comm'r 1988)",
+    "Matter of V-K-, 24 I&N Dec. 500 (BIA 2008)"
+  ],
+  "fraud_or_procedural_issues": null,
+  "filename": "DEC052014_02B2203",
+  "source": "benchmark_unseen"
+}
